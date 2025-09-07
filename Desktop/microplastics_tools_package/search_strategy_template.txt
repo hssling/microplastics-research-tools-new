@@ -1,0 +1,160 @@
+MICROPLASTICS SYSTEMATIC REVIEW SEARCH STRATEGY
+==============================================
+
+DATABASE: PubMed/MEDLINE
+SEARCH DATE: [Insert current date]
+SEARCH PERIOD: Database inception to [current year]
+
+PRIMARY SEARCH STRING (PubMed):
+(("microplastics" OR "microplastic*" OR "micro-plastic*" OR "plastic particle*" OR "nano-plastic*" OR "nanoplastic*" OR "MPs" OR "micro-sized plastic*" OR "plastic microbeads") AND ("human*" OR "health*" OR "toxicity" OR "exposure" OR "effects" OR "disease" OR "disorder" OR "injury" OR "poisoning" OR "contamination" OR "pollution" OR "bioaccumulation" OR "particle" OR "particulate" OR "fibers")) NOT ("plant*"[Title/Abstract] NOT "human*"[MeSH Terms])
+
+FULL PUBMED SEARCH WITH FILTERS:
+(("microplastics"[Title/Abstract] OR "microplastic*"[Title/Abstract] OR "micro-plastic*"[Title/Abstract] OR "plastic particle*"[Title/Abstract] OR "nirotic-plastic*"[Title/Abstract] OR "petrochemical particle*"[Title/Abstract] OR "plastic-type particle*"[Title/Abstract] OR "micro-sized plastic*"[Title/Abstract] OR "microbead*"[Title/Abstract] OR "microscale plastic*"[Title/Abstract]) AND ("human*"[Title/Abstract] OR "man"[Mesh] OR "woman"[Mesh] OR "adult"[Mesh] OR "child*"[Mesh] OR "adolescent"[Mesh] OR "age*"[Title/Abstract] OR "population*"[Title/Abstract]) AND ("health*"[Title/Abstract] OR "toxicity"[Title/Abstract] OR "toxic*"[Title/Abstract] OR "exposure"[Title/Abstract] OR "inhal*"[Title/Abstract] OR "ingest*"[Title/Abstract] OR "dermal"[Title/Abstract] OR "contact"[Title/Abstract]) AND ("effect*"[Title/Abstract] OR "impact*"[Title/Abstract] OR "outcome*"[Title/Abstract] OR "disease*"[Title/Abstract]) NOT ("plant*"[Title/Abstract] OR "animal*"[Title/Abstract] OR "fish*"[Title/Abstract])) AND (PubDate>2000/01/01[Date - Publication] AND has abstract[text] AND (english[Language] OR french[Language] OR spanish[Language]))
+
+===============================================================================
+
+DATABASE: Web of Science Core Collection
+SEARCH PERIOD: Database inception to present
+
+TOPIC FIELD SEARCH:
+TS=((microplastics OR microplastic* OR micro-plastic* OR plastic particle* OR nano-plastic* OR nanoplastic* OR MPs OR plastic pollution OR plastic microfiber* OR micro-fiber*) AND (human* OR adult* OR child* OR infant* OR adolescent* OR population* OR worker*) AND (health* OR toxic* OR exposure OR effect* OR outcome* OR disease* OR disorder* OR contam* OR polluted OR bioaccum* OR biokinetic* OR pharmacokinet* OR distrib* OR absorp*) AND (medical OR pathology OR histology OR biochemistry OR hematology OR immunology OR toxicology OR epidemiology OR public health))
+
+REFINED SEARCH WITH FILTERS:
+Document Types: Article, Review Article, Editorial, Clinical Study, Meta-Analysis
+Publication Years: 2000-2025
+Languages: English
+===============================================================================
+
+DATABASE: Scopus
+SEARCH PERIOD: Database inception to present
+
+TITLE-ABSTRACT-KEYWORDS SEARCH:
+TITLE-ABS-KEY(("microplastics" OR "microplastic*" OR "micro-plastic*" OR "plastic particle*" OR "nano-plastic*" OR "nanoplastic*" OR "MPs") AND ("human*" OR "health*" OR "toxicity" OR "exposure" OR "effects") W/15 ("disease*" OR "disorder*" OR "outcome*" OR "impact*") W/15 ("contamination" OR "pollution" OR "bioaccumulation"))
+
+REFINED WITH LIMITS:
+Document Type: Article, Review, Conference Paper, Book Chapter
+Publication Stage: Final
+Language: English
+Publication Year: 2000-2025
+Subject Area: Medicine, Environmental Science, Agricultural and Biological Sciences, Biochemistry, Genetics and Molecular Biology, Social Sciences
+===============================================================================
+
+DATABASE: EMBASE
+SEARCH PERIOD: 1974 to present
+
+EMASTRATEGY (Multifile search):
+'plastic' /exp OR 'plastic particle'/exp OR 'microplastic'/exp OR 'nanoplastic'/de OR 'plastic pollution'/exp AND 'human'/exp OR 'human disease'/exp OR 'human toxicity'/exp AND 'exposure'/exp OR 'inhalation'/exp OR 'ingestion'/exp OR 'dermal absorption'/exp AND 'toxicology'/de OR 'public health'/de OR 'environmental health'/de
+
+CHARACTERS SEARCH:
+(('microplastics' OR 'microplastic*' OR 'micro-plastic*' OR 'plastic particle*' OR 'nano-plastic*' OR 'nanoplastic*' OR 'MPs') AND ('human*' OR 'health*' OR 'toxicity' OR 'exposure' OR 'effects' OR 'disease' OR 'disorder' OR 'contamination' OR 'pollution' OR 'bioaccumulation' OR 'ingestion' OR 'inhalation' OR 'dermal') AND ('outcome*' OR 'impact*' OR 'influence' OR 'association' OR 'toxicity' OR 'health effect*' OR 'pathology' OR 'biochemistry' OR 'immunology' OR 'endocrinology')) NOT ('plant*' OR 'animal*' OR 'fish*' OR 'aquaculture' OR 'marine organism*' OR 'terrestrial plant*') AND [2000-2025]/py AND [english]/la
+===============================================================================
+
+DATABASE: CINAHL (Cumulated Index to Nursing and Allied Health Literature)
+SEARCH PERIOD: Database inception to present
+
+MAJOR SUBJECT HEADING + KEYWORD COMBINATION:
+MH "Microplastics" OR MH "Plastic Pollution" OR TX microplastic* OR TX plastic particle* OR TX nanoplastic* OR TX micro-sized plastic* AND MH "Risk" OR MH "Health" OR MH "Toxicity" OR TX health effect* OR TX toxic* OR TX exposure OR TX contam* OR TX polluted AND MH "Population Characteristics" OR TX human population* OR TX demographic* OR TX age group*
+
+COMBINED SEARCH STRING:
+((TI microplastic* OR AB microplastic* OR MW microplastic*) AND (TI human* OR AB human* OR TI health* OR AB health* OR TI toxic* OR AB toxic* OR TI effect* OR AB effect* OR TI outcome* OR AB outcome* OR TI disease* OR AB disease* OR TI exposure OR AB exposure OR TI contam* OR AB contam*)) AND (PD 20000101:20251231) AND (LA english)
+===============================================================================
+
+DATABASE: Environmental Science & Pollution Management Database
+SEARCH PERIOD: Database inception to present
+
+TOPIC SEARCH:
+((microplastic* OR micro-plastic* OR plastic particle* OR nano-plastic* OR nanoplastic* OR MPs OR plastic pollution OR microfiber* OR microbead*) AND (human* OR man OR woman OR adult OR child* OR population* OR worker*) AND (health* OR toxic* OR toxicological OR toxicology OR exposure OR inhalation OR ingestion OR dermal OR contact OR absorption) AND (effect* OR impact* OR outcome* OR consequence* OR result* OR association OR correlation))
+
+REFINED SEARCH:
+Subject Terms: toxicology, health aspects, environmental health, public health
+Publication Type: Journal Article, Review Article
+Language: English
+Publication Year: 2000-current
+===============================================================================
+
+GREY LITERATURE SEARCHES
+========================
+
+1. Google Scholar Advanced Search
+   - Include: microplastics health human
+   - Exclude: plants animals fish marine
+   - Publication years: 2000-2025
+   - File type: PDF
+
+2. WHO Documents Database
+   - Terms: microplastics, plastics, pollution, health
+
+3. EPA Documents & Reports
+   - Terms: microplastics, plastics, environment, human health
+
+4. OECD Environmental Reports
+   - Terms: plastic pollution, microplastics, toxicity
+
+5. Dissertation Databases (ProQuest, OpenThesis)
+   - Keywords: microplastics, health, exposure, toxicity
+
+6. Conference Proceedings
+   - SETAC, ISEE, ISES conferences
+   - ISTH, SEA conference proceedings
+
+7. PrePrint Servers
+   - bioRxiv, medRxiv, arXiv
+   - Search terms: microplastics health human
+
+HANDSEARCHING
+=============
+- Scanning reference lists of included studies
+- Review articles on microplastics (2022-2025)
+- Citation tracking of key studies
+- Expert consultation references
+
+CITATION SEARCHES
+=================
+- Key papers: Identification and tracking via Google Scholar
+- Study authors: Works cited by included studies
+- Update searches every 6 months during review
+
+DUPLICATE REMOVAL
+================
+1. Title/author comparison
+2. Abstract comparison
+3. Full text review for suspected duplicates
+4. Automated deduplication tools (EndNote, Zotero)
+5. Manual verification of remaining records
+
+SEARCH LIMITATIONS
+==================
+- English language only
+- Publication years 2000-2025
+- Human health focused
+- Excluded preclinical animal studies
+- Excluded plant-only studies
+
+SEARCH VALIDATION
+=================
+- Sensitivity analysis: Parallel search by second researcher
+- Known reference inclusion verification
+- Kappa coefficient for agreement measurement
+
+SEARCH UPDATE PLAN
+==================
+- Monthly monitoring during review
+- Final update 24 months post-protocol registration
+- Alert services setup for new publications
+- Annual updates for systematic search re-run
+
+EXPORT FORMAT
+============
+- RIS format from all databases
+- Import to reference management software
+- Duplicate removal prior to screening
+- Study data export with full text availability
+
+SEARCH DATE SUMMARY
+===================
+Initial Search Date: September 2025
+Final Update Search Date: March 2026
+Total Searches: 9 databases + grey literature
+Search Strings Developed By: Senior team members
+Peer Review: Independent methodologist
+Agreed Upon: Full research team consensus

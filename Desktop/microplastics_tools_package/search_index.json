@@ -1,0 +1,1556 @@
+{
+  "by_author": {
+    "﻿1": [
+      1
+    ],
+    "Aguilar-Aguilar A, de León-Martínez LD, Forgionny A, Acelas Soto NY, Mendoza SR, Zárate-Guzmán AI": [
+      2
+    ],
+    "Ahmet Miraç B, Fatoş U": [
+      3
+    ],
+    "Ali-Hassanzadeh M, Arefinia N, Ghoreshi ZA, Askarpour H, Mashayekhi-Sardoo H": [
+      4
+    ],
+    "An Q, Wen C, Yan C": [
+      5
+    ],
+    "Anene DI, Beltran M, Tjahjono B, Schultz A, McKenzie M, Stevanovic S, et al": [
+      6
+    ],
+    "Antohi VM, Ionescu RV, Zlati ML, Iticescu C, Georgescu PL, Calmuc M": [
+      7
+    ],
+    "Araújo AM, Mota C, Ramos H, Faria MA, Carvalho M, Ferreira I": [
+      8
+    ],
+    "Arbabi A, Gholami M, Farzadkia M, Djalalinia S": [
+      9
+    ],
+    "Arpia AA, Chen WH, Ubando AT, Naqvi SR, Culaba AB": [
+      10
+    ],
+    "Ateia M, Ersan G, Alalm MG, Boffito DC, Karanfil T": [
+      11
+    ],
+    "Azeem I, Shakoor N, Chaudhary S, Adeel M, Zain M, Ahmad MA, et al": [
+      12
+    ],
+    "Barhoumi B, Sander SG, Tolosa I": [
+      13
+    ],
+    "Baspakova A, Zare A, Suleimenova R, Berdygaliev AB, Karimsakova B, Tussupkaliyeva K, et al": [
+      14
+    ],
+    "Baysal A, Saygin H": [
+      15
+    ],
+    "Berlino M, Mangano MC, De Vittor C, Sarà G": [
+      16
+    ],
+    "Bhuyan MS, Jenzri M, Pandit D, Adikari D, Alam MW, Kunda M": [
+      17
+    ],
+    "Cai T, Boeri L, Miacola C, Palumbo F, Albo G, Ditonno P, et al": [
+      18
+    ],
+    "Camerano Spelta Rapini C, Di Berardino C, Peserico A, Capacchietti G, Barboni B": [
+      19
+    ],
+    "Caminiti C, Diodati F, Puntoni M, Balan D, Maglietta G": [
+      20
+    ],
+    "Cao ND, Vo DT, Pham MD, Nguyen VT, Nguyen TB, Le LT, et al": [
+      21
+    ],
+    "Chand N, Krause S, Prajapati SK": [
+      22
+    ],
+    "Chartres N, Cooper CB, Bland G, Pelch KE, Gandhi SA, BakenRa A, et al": [
+      23
+    ],
+    "Chen J, Qi R, Cheng Y, Wang L, Cao X": [
+      24
+    ],
+    "Chen L, Zhou S, Zhang Q, Su B, Yin Q, Zou M": [
+      25
+    ],
+    "Chengappa SK, Rao A, K SA, Jodalli PS, Shenoy Kudpi R": [
+      26
+    ],
+    "Cho YM, Choi KH": [
+      27
+    ],
+    "Clance LR, Ziegler SL, Fodrie FJ": [
+      28
+    ],
+    "Clérigo F, Ferreira S, Ladeira C, Marques-Ramos A, Almeida-Silva M, Mendes LA": [
+      29
+    ],
+    "Cristaldi A, Fiore M, Zuccarello P, Oliveri Conti G, Grasso A, Nicolosi I, et al": [
+      30
+    ],
+    "da Silva MRF, Souza KS, Motteran F, de Araújo LCA, Singh R, Bhadouria R, et al": [
+      31
+    ],
+    "Danopoulos E, Jenner LC, Twiddy M, Rotchell JM": [
+      32
+    ],
+    "Dasmahapatra AK, Chatterjee J, Tchounwou PB": [
+      33
+    ],
+    "De Stefano AA, Horodynski M, Galluccio G": [
+      34
+    ],
+    "Díaz-Fuster L, Sáez-Espinosa P, Moya I, Peinado I, Gómez-Torres MJ": [
+      35
+    ],
+    "Dorairajan G, Ravi S, Chinnakili P": [
+      36
+    ],
+    "Doshi M, Rabari V, Patel A, Yadav VK, Sahoo DK, Trivedi J": [
+      37
+    ],
+    "Du Z, Yu X, Li X, Zhang L, Lin Y, He Y, et al": [
+      38
+    ],
+    "Eberhard T, Casillas G, Zarus GM, Barr DB": [
+      39
+    ],
+    "Egbuna C, Amadi CN, Patrick-Iwuanyanwu KC, Ezzat SM, Awuchi CG, Ugonwa PO, et al": [
+      40
+    ],
+    "Fehrenbach GW, Murphy E, Tanoeiro JR, Pogue R, Major I": [
+      41
+    ],
+    "Feng Q, An C, Chen Z, Lee K, Wang Z": [
+      42
+    ],
+    "Feng Y, Tu C, Li R, Wu D, Yang J, Xia Y, et al": [
+      43,
+      44
+    ],
+    "Ferreira ROG, Nag R, Gowen A, Xu JL": [
+      45
+    ],
+    "Gautam K, Pandey N, Yadav D, Parthasarathi R, Turner A, Anbumani S, et al": [
+      46
+    ],
+    "Ge Y, Yang S, Zhang T, Wan X, Zhu Y, Yang F, et al": [
+      47
+    ],
+    "Gopinath PM, Parvathi VD, Yoghalakshmi N, Kumar SM, Athulya PA, Mukherjee A, et al": [
+      48
+    ],
+    "Gurumoorthi K, Luis AJ": [
+      49
+    ],
+    "Heo SJ, Moon N, Kim JH": [
+      50
+    ],
+    "Huang F, Hu J, Chen L, Wang Z, Sun S, Zhang W, et al": [
+      51
+    ],
+    "Hunt K, Davies A, Fraser A, Burden C, Howell A, Buckley K, et al": [
+      52
+    ],
+    "Husaini DC, Mendez RK, Arzu M, Harris-Thurton L": [
+      53
+    ],
+    "Inam Ö": [
+      54
+    ],
+    "Iqbal S, Xu J, Arif MS, Worthy FR, Jones DL, Khan S, et al": [
+      55
+    ],
+    "Iqbal S, Xu J, Saleem Arif M, Shakoor A, Worthy FR, Gui H, et al": [
+      56
+    ],
+    "Jangid H, Dutta J, Karnwal A, Kumar G": [
+      57
+    ],
+    "Jia Y, Cheng Z, Peng Y, Yang G": [
+      58
+    ],
+    "Kataria N, Yadav S, Garg VK, Rene ER, Jiang JJ, Rose PK, et al": [
+      59
+    ],
+    "Khu ST, Li F, Zhao W": [
+      60
+    ],
+    "Kumar M, Chaudhary V, Chaudhary V, Srivastav AL, Madhav S": [
+      61
+    ],
+    "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Garcia BDG": [
+      62
+    ],
+    "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Roy PD": [
+      63
+    ],
+    "Lee J, Jeong S": [
+      64
+    ],
+    "Leso V, Battistini B, Vetrani I, Reppuccia L, Fedele M, Ruggieri F, et al": [
+      65
+    ],
+    "Li Y, Ling W, Hou C, Yang J, Xing Y, Lu Q, et al": [
+      66
+    ],
+    "Li Y, Zhao L, An Y, Qin L, Qiao Z, Chen D, et al": [
+      67
+    ],
+    "Lin HT, Schneider F, Aziz MA, Wong KY, Arunachalam KD, Praveena SM, et al": [
+      68
+    ],
+    "Liu L, Wang Z, Ye Y, Qi K": [
+      69
+    ],
+    "Liu S, Junaid M, Sadaf M, Ai W, Lan X, Wang J": [
+      70
+    ],
+    "Liu W, Zhang B, Yao Q, Feng X, Shen T, Guo P, et al": [
+      71
+    ],
+    "Liu Y, Cao Y, Li H, Liu H, Bi L, Chen Q, et al": [
+      72
+    ],
+    "Ma W, Wang Q, Mak-Mensah E, Zhao X, Qi W, Zhu J, et al": [
+      73
+    ],
+    "Maia A, Vieira-Coelho MA": [
+      74
+    ],
+    "Mashayekhi-Sardoo H, Ghoreshi ZA, Askarpour H, Arefinia N, Ali-Hassanzadeh M": [
+      75
+    ],
+    "Medley EA, Spratlen MJ, Yan B, Herbstman JB, Deyssenroth MA": [
+      76
+    ],
+    "Mondal R, Sarkar DJ, Bhattacharyya S, Raja R, Chaudhuri P, Biswas JK, et al": [
+      77
+    ],
+    "Montezuma T, Probst LF, Almeida MO": [
+      78
+    ],
+    "Naudet J, d'Orbcastel ER, Bouvier T, Auguet JC": [
+      79
+    ],
+    "Ningrum PT, Keman S, Sulistyorini L, Sudiana IK, Hidayat A, Negoro AHS, et al": [
+      80
+    ],
+    "Nodehi RN, Hadi M, Hosseinzadeh A, Azizi N": [
+      81
+    ],
+    "Nugawela N, Mahaliyana AS, Abhiram G, Abeygunawardena AP": [
+      82
+    ],
+    "Nwanaforo E, Obasi CN, Frazzoli C, Bede-Ojimadu O, Orisakwe OE": [
+      83
+    ],
+    "Oza J, Rabari V, Yadav VK, Sahoo DK, Patel A, Trivedi J": [
+      84
+    ],
+    "Parker B, Britton JR, Green ID, Jackson MC, Andreou D": [
+      85
+    ],
+    "Piyathilake U, Lin C, Bundschuh J, Herath I": [
+      86
+    ],
+    "Pulvirenti E, Ferrante M, Barbera N, Favara C, Aquilia E, Palella M, et al": [
+      87
+    ],
+    "Qualhato G, Vieira LG, Oliveira M, Rocha TL": [
+      88
+    ],
+    "Rodrigues SM, Elliott M, Almeida CMR, Ramos S": [
+      89
+    ],
+    "Ryan-Ndegwa S, Zamani R, Martins T": [
+      90
+    ],
+    "Salerno M, Berlino M, Mangano MC, Sarà G": [
+      91
+    ],
+    "Seifi Z, Zarei F, Ahmadi F": [
+      92
+    ],
+    "Sharma RK, Kumari U, Kumar S": [
+      93
+    ],
+    "Shruti VC, Kutralam-Muniasamy G, Pérez-Guevara F": [
+      94
+    ],
+    "Skaba D, Fiegler-Rudol J, Dembicka-Mączka D, Wiench R": [
+      95
+    ],
+    "Sojobi AO, Zayed T": [
+      96
+    ],
+    "Song X, Zhuang W, Cui H, Liu M, Gao T, Li A, et al": [
+      97
+    ],
+    "Spindola Vilela CL, Damasceno TL, Thomas T, Peixoto RS": [
+      98
+    ],
+    "Subramanian D, Ponnusamy Manogaran G, Dharmadurai D": [
+      99
+    ],
+    "Sun N, Shi H, Li X, Gao C, Liu R": [
+      100
+    ],
+    "Sun T, Zhan J, Li F, Ji C, Wu H": [
+      101
+    ],
+    "Sun XL, Xiang H, Xiong HQ, Fang YC, Wang Y": [
+      102
+    ],
+    "Sun Y, Yuan J, Zhou T, Zhao Y, Yu F, Ma J": [
+      103
+    ],
+    "Symeonides C, Aromataris E, Mulders Y, Dizon J, Stern C, Barker TH, et al": [
+      104
+    ],
+    "Tang L, Feng JC, Li C, Liang J, Zhang S, Yang Z": [
+      105
+    ],
+    "Tedesco MC, Fisher RM, Stuetz RM": [
+      106
+    ],
+    "Truchet DM, Buzzi NS, Moulatlet GM, Capparelli MV": [
+      107
+    ],
+    "Ullah R, Tsui MT, Chow A, Chen H, Williams C, Ligaba-Osena A": [
+      108
+    ],
+    "Vázquez OA, Rahman MS": [
+      109
+    ],
+    "Vdovchenko A, Resmini M": [
+      110
+    ],
+    "Velis CA, Cook E": [
+      111
+    ],
+    "Viana M, Tonin FS, Ladeira C": [
+      112
+    ],
+    "Volsa AM, Iacono E, Merlo B": [
+      113
+    ],
+    "Wan L, Cheng H, Liu Y, Shen Y, Liu G, Su X": [
+      114
+    ],
+    "Wang C, Luo Q, Zhang J, Zhang X, Yang N, Feng L": [
+      115
+    ],
+    "Wang H, Luo Z, Yu R, Yan C, Zhou S, Xing B": [
+      116
+    ],
+    "Wang L, Yang T, Liu X, Liu J, Liu W": [
+      117
+    ],
+    "Wang Q, Gao Y, Tang X, Yang Z, Tang L, Luo G, et al": [
+      118
+    ],
+    "Woh PY, Shiu HY, Fang JK": [
+      119
+    ],
+    "Xayachak T, Haque N, Lau D, Pramanik BK": [
+      120
+    ],
+    "Xie L, Ma M, Ge Q, Liu Y, Zhang L": [
+      121
+    ],
+    "Xu JL, Lin X, Wang JJ, Gowen AA": [
+      122
+    ],
+    "Yang J, Li H, Ling W, Li Y, Zhang K, Zhang P": [
+      123
+    ],
+    "Yang L, Kang S, Luo X, Wang Z": [
+      124
+    ],
+    "Yang T, Wang J": [
+      125
+    ],
+    "Yates J, Deeney M, Rolker HB, White H, Kalamatianou S, Kadiyala S": [
+      126
+    ],
+    "You X, Wang S, Li G, Du L, Dong X": [
+      127
+    ],
+    "Zantis LJ, Carroll EL, Nelms SE, Bosker T": [
+      128
+    ],
+    "Zhang H, Gao Y, Zheng Y, Zheng J, He J, Shi J, et al": [
+      129
+    ],
+    "Zhang X, Zhao B, Zhang Y, Zhang J, Li Y, Zhong J, et al": [
+      130
+    ],
+    "Zhang Z, Meng J, Tian J, Li N, Chen Z, Yun X, et al": [
+      131
+    ],
+    "Zhao B, Rehati P, Yang Z, Cai Z, Guo C, Li Y": [
+      132
+    ],
+    "Zhou R, Wu GS, He YK, Hou JX, Lan LY, Feng QY, et al": [
+      133
+    ]
+  },
+  "by_year": {
+    "2024": [
+      1,
+      3,
+      5,
+      17,
+      19,
+      21,
+      23,
+      24,
+      25,
+      31,
+      36,
+      37,
+      39,
+      45,
+      46,
+      52,
+      53,
+      55,
+      56,
+      58,
+      59,
+      61,
+      67,
+      68,
+      72,
+      74,
+      78,
+      80,
+      81,
+      83,
+      84,
+      85,
+      90,
+      93,
+      99,
+      104,
+      106,
+      110,
+      117,
+      119,
+      120,
+      124,
+      129,
+      130,
+      131,
+      132
+    ],
+    "2023": [
+      2,
+      7,
+      9,
+      12,
+      26,
+      28,
+      42,
+      43,
+      44,
+      47,
+      49,
+      51,
+      63,
+      64,
+      65,
+      69,
+      70,
+      71,
+      76,
+      82,
+      86,
+      88,
+      94,
+      100,
+      102,
+      105,
+      107,
+      114,
+      115,
+      116,
+      125
+    ],
+    "2025": [
+      4,
+      6,
+      8,
+      14,
+      18,
+      20,
+      22,
+      33,
+      34,
+      35,
+      41,
+      50,
+      54,
+      57,
+      60,
+      62,
+      66,
+      75,
+      77,
+      79,
+      92,
+      95,
+      112,
+      113,
+      118,
+      121,
+      123
+    ],
+    "2021": [
+      10,
+      16,
+      27,
+      40,
+      89,
+      91,
+      101,
+      109,
+      111,
+      126,
+      128,
+      133
+    ],
+    "2022": [
+      11,
+      13,
+      29,
+      48,
+      87,
+      96,
+      97,
+      98,
+      108,
+      122,
+      127
+    ],
+    "2016": [
+      15
+    ],
+    "2020": [
+      30,
+      32,
+      38,
+      103
+    ],
+    "2005": [
+      73
+    ]
+  },
+  "by_journal": {
+    "Sci Total Environ": [
+      1,
+      2,
+      6,
+      17,
+      21,
+      28,
+      46,
+      47,
+      63,
+      67,
+      69,
+      85,
+      88,
+      94,
+      97,
+      101,
+      102,
+      106,
+      107,
+      114,
+      120,
+      122,
+      127,
+      130,
+      132
+    ],
+    "Public Health Nurs": [
+      3
+    ],
+    "Reprod Toxicol": [
+      4
+    ],
+    "J Hazard Mater": [
+      5,
+      10,
+      51,
+      62,
+      64,
+      66,
+      70,
+      77,
+      89,
+      119
+    ],
+    "Int J Environ Res Public Health": [
+      7,
+      20,
+      30
+    ],
+    "Arch Toxicol": [
+      8
+    ],
+    "J Environ Health Sci Eng": [
+      9,
+      81
+    ],
+    "Environ Sci Process Impacts": [
+      11
+    ],
+    "Plant Physiol Biochem": [
+      12
+    ],
+    "Environ Res": [
+      13,
+      56,
+      96,
+      118
+    ],
+    "Mol Aspects Med": [
+      14
+    ],
+    "J Environ Sci Health A Tox Hazard Subst Environ Eng": [
+      15
+    ],
+    "Environ Pollut": [
+      16,
+      25,
+      42,
+      45,
+      49,
+      60,
+      68,
+      98,
+      103,
+      115,
+      116,
+      124,
+      128
+    ],
+    "Minerva Endocrinol (Torino)": [
+      18
+    ],
+    "Int J Mol Sci": [
+      19,
+      95,
+      110
+    ],
+    "Aquat Toxicol": [
+      22
+    ],
+    "Environ Sci Technol": [
+      23,
+      55,
+      111,
+      117,
+      121
+    ],
+    "Environ Geochem Health": [
+      24,
+      59,
+      73
+    ],
+    "F1000Res": [
+      26
+    ],
+    "Environ Anal Health Toxicol": [
+      27
+    ],
+    "Toxics": [
+      29,
+      123
+    ],
+    "Front Microbiol": [
+      31
+    ],
+    "Environ Health Perspect": [
+      32
+    ],
+    "Front Toxicol": [
+      33
+    ],
+    "Materials (Basel)": [
+      34
+    ],
+    "Cells Tissues Organs": [
+      35
+    ],
+    "J Pregnancy": [
+      36
+    ],
+    "Water Environ Res": [
+      37
+    ],
+    "Front Med (Lausanne)": [
+      38
+    ],
+    "J Expo Sci Environ Epidemiol": [
+      39
+    ],
+    "Environ Toxicol Pharmacol": [
+      40,
+      109
+    ],
+    "Ecotoxicol Environ Saf": [
+      41,
+      58,
+      129,
+      131
+    ],
+    "Eco Environ Health": [
+      43,
+      44
+    ],
+    "Chemosphere": [
+      48,
+      99
+    ],
+    "Rev Environ Health": [
+      50
+    ],
+    "Bjog": [
+      52
+    ],
+    "J Toxicol": [
+      53
+    ],
+    "Arch Gynecol Obstet": [
+      54
+    ],
+    "Mar Pollut Bull": [
+      57,
+      79,
+      82
+    ],
+    "Environ Sci Pollut Res Int": [
+      61
+    ],
+    "Toxicol Ind Health": [
+      65
+    ],
+    "Front Public Health": [
+      71
+    ],
+    "Environ Int": [
+      72,
+      100
+    ],
+    "Eur J Pediatr": [
+      74
+    ],
+    "Cancer Epidemiol": [
+      75
+    ],
+    "Curr Environ Health Rep": [
+      76
+    ],
+    "Adv Rheumatol": [
+      78
+    ],
+    "Afr J Reprod Health": [
+      80
+    ],
+    "Environ Health Insights": [
+      83,
+      90
+    ],
+    "Environ Toxicol Chem": [
+      84
+    ],
+    "A review on constructive classification framework of research trends in analytical instrumentation for secondary micro(nano)plastics: What is new and what needs next? Environ Pollut": [
+      86
+    ],
+    "Front Biosci (Landmark Ed)": [
+      87
+    ],
+    "Glob Chang Biol": [
+      91
+    ],
+    "BMC Public Health": [
+      92
+    ],
+    "Cureus": [
+      93
+    ],
+    "Ann Glob Health": [
+      104
+    ],
+    "J Environ Manage": [
+      105
+    ],
+    "Environ Monit Assess": [
+      108
+    ],
+    "J Xenobiot": [
+      112
+    ],
+    "Theriogenology": [
+      113
+    ],
+    "Integr Environ Assess Manag": [
+      125
+    ],
+    "Nat Food": [
+      126
+    ],
+    "Zhonghua Wai Ke Za Zhi": [
+      133
+    ]
+  },
+  "by_keyword": {
+    "systematic review": [
+      2,
+      4,
+      9,
+      14,
+      15,
+      17,
+      18,
+      19,
+      20,
+      23,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      37,
+      39,
+      40,
+      41,
+      43,
+      44,
+      48,
+      50,
+      52,
+      53,
+      54,
+      61,
+      64,
+      65,
+      67,
+      71,
+      72,
+      74,
+      75,
+      76,
+      78,
+      80,
+      81,
+      83,
+      84,
+      87,
+      88,
+      90,
+      93,
+      94,
+      95,
+      96,
+      99,
+      102,
+      103,
+      106,
+      109,
+      110,
+      111,
+      112,
+      113,
+      118,
+      120,
+      123,
+      125,
+      128,
+      129
+    ],
+    "detection": [
+      2,
+      11,
+      121
+    ],
+    "pollution": [
+      3,
+      7,
+      20,
+      56,
+      70,
+      82,
+      89,
+      108,
+      113
+    ],
+    "reproductive": [
+      4,
+      19,
+      23,
+      52,
+      54,
+      131
+    ],
+    "exposure": [
+      4,
+      19,
+      23,
+      27,
+      29,
+      39,
+      43,
+      44,
+      48,
+      52,
+      65,
+      74,
+      75,
+      83,
+      95,
+      104,
+      122,
+      125
+    ],
+    "microplastics": [
+      4,
+      5,
+      6,
+      9,
+      12,
+      14,
+      16,
+      17,
+      21,
+      22,
+      25,
+      27,
+      34,
+      38,
+      39,
+      49,
+      50,
+      51,
+      52,
+      54,
+      55,
+      58,
+      59,
+      60,
+      61,
+      64,
+      66,
+      68,
+      72,
+      77,
+      87,
+      89,
+      91,
+      92,
+      93,
+      97,
+      101,
+      102,
+      103,
+      105,
+      109,
+      110,
+      114,
+      115,
+      118,
+      119,
+      120,
+      123,
+      124,
+      127,
+      128,
+      129,
+      130,
+      132
+    ],
+    "meta-analysis": [
+      4,
+      5,
+      16,
+      24,
+      25,
+      32,
+      42,
+      45,
+      49,
+      51,
+      56,
+      58,
+      66,
+      69,
+      70,
+      71,
+      78,
+      79,
+      81,
+      85,
+      91,
+      101,
+      113,
+      114,
+      115,
+      116,
+      117,
+      127,
+      129
+    ],
+    "human health": [
+      6,
+      17,
+      48,
+      60,
+      90,
+      99,
+      104,
+      122,
+      132
+    ],
+    "nanoplastics": [
+      8,
+      12,
+      24,
+      29,
+      33,
+      39,
+      45,
+      47,
+      67,
+      76,
+      94,
+      95,
+      99,
+      100,
+      112,
+      113,
+      115,
+      122,
+      125
+    ],
+    "toxicity": [
+      11,
+      29,
+      45,
+      47,
+      59,
+      100,
+      101,
+      129,
+      132
+    ],
+    "aquatic": [
+      11,
+      16,
+      22,
+      28,
+      66,
+      88,
+      94,
+      97,
+      101,
+      109
+    ],
+    "soil": [
+      12,
+      55,
+      56,
+      58,
+      73,
+      108,
+      114,
+      127,
+      130
+    ],
+    "polystyrene": [
+      19,
+      108
+    ],
+    "contamination": [
+      21,
+      32,
+      37,
+      41,
+      57,
+      77,
+      80,
+      84,
+      89
+    ],
+    "digestive": [
+      23
+    ],
+    "respiratory": [
+      23,
+      38
+    ],
+    "risk assessment": [
+      25,
+      37,
+      46,
+      49,
+      66,
+      73,
+      77,
+      84
+    ],
+    "seafood": [
+      32,
+      82,
+      119
+    ],
+    "fish": [
+      33,
+      41,
+      57,
+      81,
+      84,
+      85,
+      91
+    ],
+    "marine": [
+      37,
+      79,
+      105,
+      107,
+      123,
+      128
+    ],
+    "polymer": [
+      37,
+      84,
+      110
+    ],
+    "inhalation": [
+      39
+    ],
+    "nano-plastics": [
+      43,
+      44,
+      71
+    ],
+    "drinking water": [
+      60,
+      110,
+      124
+    ],
+    "quantification": [
+      64
+    ],
+    "terrestrial": [
+      67,
+      73,
+      97,
+      108,
+      109
+    ],
+    "food safety": [
+      82,
+      119
+    ],
+    "bioaccumulation": [
+      107
+    ]
+  },
+  "by_study_type": {
+    "Experimental/Observational": [
+      1,
+      3,
+      6,
+      7,
+      12,
+      21,
+      22,
+      28,
+      35,
+      36,
+      46,
+      47,
+      55,
+      59,
+      60,
+      62,
+      63,
+      68,
+      77,
+      97,
+      98,
+      100,
+      105,
+      107,
+      119,
+      131,
+      132
+    ],
+    "Systematic Review": [
+      2,
+      9,
+      14,
+      15,
+      17,
+      18,
+      19,
+      20,
+      23,
+      26,
+      27,
+      29,
+      30,
+      31,
+      33,
+      34,
+      37,
+      39,
+      40,
+      41,
+      43,
+      44,
+      48,
+      50,
+      52,
+      53,
+      54,
+      61,
+      64,
+      65,
+      67,
+      72,
+      74,
+      75,
+      76,
+      80,
+      83,
+      84,
+      87,
+      88,
+      90,
+      93,
+      94,
+      95,
+      96,
+      99,
+      102,
+      103,
+      106,
+      109,
+      110,
+      111,
+      112,
+      118,
+      120,
+      123,
+      125,
+      128
+    ],
+    "Systematic Review & Meta-analysis": [
+      4,
+      32,
+      71,
+      78,
+      81,
+      113,
+      129
+    ],
+    "Meta-analysis": [
+      5,
+      16,
+      24,
+      25,
+      42,
+      45,
+      49,
+      51,
+      56,
+      58,
+      66,
+      69,
+      70,
+      79,
+      85,
+      91,
+      101,
+      114,
+      115,
+      116,
+      117,
+      127
+    ],
+    "In Vitro": [
+      8
+    ],
+    "Review": [
+      10,
+      11,
+      13,
+      57,
+      73,
+      82,
+      86,
+      104,
+      122,
+      124,
+      126,
+      130
+    ],
+    "In Vivo": [
+      38,
+      89,
+      108,
+      121,
+      133
+    ],
+    "Randomized Controlled Trial": [
+      92
+    ]
+  },
+  "by_research_focus": {
+    "General": [
+      1,
+      7,
+      15,
+      20,
+      24,
+      26,
+      31,
+      35,
+      39,
+      43,
+      44,
+      62,
+      63,
+      69,
+      74,
+      76,
+      87,
+      92,
+      95,
+      96,
+      103,
+      111,
+      112,
+      120
+    ],
+    "Detection Methods": [
+      2,
+      11,
+      12,
+      42,
+      64,
+      86,
+      99,
+      102,
+      121
+    ],
+    "Environmental Distribution": [
+      3,
+      6,
+      10,
+      17,
+      21,
+      25,
+      32,
+      37,
+      41,
+      51,
+      57,
+      59,
+      60,
+      66,
+      68,
+      77,
+      80,
+      83,
+      84,
+      89,
+      98,
+      100,
+      101,
+      105,
+      116,
+      118,
+      124,
+      126,
+      127
+    ],
+    "Human Health": [
+      4,
+      6,
+      17,
+      19,
+      23,
+      27,
+      32,
+      38,
+      48,
+      54,
+      60,
+      90,
+      99,
+      104,
+      122,
+      132
+    ],
+    "Reproductive Health": [
+      4,
+      18,
+      19,
+      23,
+      36,
+      52,
+      54,
+      93,
+      113,
+      131
+    ],
+    "Toxicity": [
+      4,
+      8,
+      11,
+      22,
+      27,
+      29,
+      33,
+      40,
+      41,
+      45,
+      46,
+      47,
+      53,
+      58,
+      59,
+      65,
+      71,
+      84,
+      94,
+      97,
+      100,
+      101,
+      107,
+      109,
+      115,
+      117,
+      123,
+      129,
+      131,
+      132
+    ],
+    "Soil Science": [
+      5,
+      12,
+      30,
+      51,
+      55,
+      56,
+      58,
+      67,
+      73,
+      97,
+      108,
+      109,
+      114,
+      115,
+      127,
+      130
+    ],
+    "Remediation": [
+      9,
+      10,
+      21,
+      30,
+      61,
+      78,
+      102,
+      133
+    ],
+    "Ecological Effects": [
+      11,
+      16,
+      61,
+      66,
+      70,
+      73,
+      82,
+      88,
+      97,
+      101,
+      108,
+      109,
+      114,
+      123,
+      130
+    ],
+    "Sources": [
+      11,
+      34,
+      56,
+      72,
+      106,
+      123,
+      124,
+      125,
+      130
+    ],
+    "Food Safety": [
+      13,
+      28,
+      32,
+      50,
+      59,
+      77,
+      82,
+      110,
+      119,
+      126
+    ],
+    "Cancer": [
+      14,
+      75
+    ],
+    "Marine Biology": [
+      17,
+      32,
+      33,
+      37,
+      41,
+      57,
+      79,
+      81,
+      82,
+      84,
+      85,
+      91,
+      105,
+      107,
+      119,
+      123,
+      128
+    ],
+    "Risk Assessment": [
+      25,
+      37,
+      46,
+      49,
+      57,
+      66,
+      73,
+      77,
+      78,
+      82,
+      84,
+      119
+    ]
+  }
+}

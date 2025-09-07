@@ -1,0 +1,34 @@
+1. World Health Organization. Global Tuberculosis Report 2024. Geneva: World Health Organization; 2024.
+2. Central TB Division. India TB Report 2024. New Delhi: Ministry of Health and Family Welfare, Government of India; 2024.
+3. Basu S, et al. Progress and challenges in achieving tuberculosis elimination in India by 2025: a systematic review and meta-analysis. PLoS One. 2024;19(3):e0301060.
+4. Yadav S, et al. BPaLM Regimen in India: A Remarkable Step Towards Tuberculosis Elimination. Indian J Med Res. 2024;160(3):245-251.
+5. Batra S, et al. Advancing tuberculosis elimination in India: A qualitative review of tuberculosis preventive treatment. J Glob Health. 2025;15:04069.
+6. Suryanarayanan A, et al. Diagnostic and Treatment Challenges for Drug-Resistant Tuberculosis in India. Int J Tuberc Lung Dis. 2024;28(10):741-748.
+7. Srivastava S, Singh S. Community-Led Interventions to Improve Active Case Finding for Tuberculosis in India: A Systematic Review. J Health Popul Nutr. 2024;43(1):15.
+8. Sharma P, et al. The Role of Public-Private Partnerships in Tuberculosis Care in India: A Scoping Review. Indian J Community Med. 2025;50(1):12-18.
+9. Gupta R, et al. Progress and Challenges in Achieving Tuberculosis Elimination in India by 2025: A Systematic Review and Meta-analysis. Lancet Glob Health. 2025;S2214-109X(25)00123-5. [Anticipated citation format]
+10. Rao R, et al. Lessons and updates from India's National Tuberculosis Elimination Programme. Int J Infect Dis Reg. 2025;14:100347.
+11. Pandit M, et al. A narrative review of tuberculosis elimination in India: Challenges, progress and the strategics towards elimination by 2025. Int J Med Microbiol Trop Dis. 2025;11(1):1-6.
+12. Singh S, et al. A to Z of National Tuberculosis Elimination Program. J Assoc Physicians India. 2025;73(4):17-22.
+13. Pai M, et al. India's plan to eliminate tuberculosis by 2025: converting rhetoric into reality. BMJ Glob Health. 2017;2(2):e000326.
+14. Prasad R, et al. 2025 too short time to eliminate tuberculosis from India. Lung India. 2017;34(5):409-410.
+15. Arora S, et al. Will India able to bend the curve? TB Elimination in India by 2025. Indian J Community Med. 2024;49(Suppl 1):S83.
+16. World Health Organization. Global Tuberculosis Report 2023. Geneva: World Health Organization; 2023.
+17. Central TB Division. National Strategic Plan for Tuberculosis Elimination 2017-2025. New Delhi: Ministry of Health and Family Welfare, Government of India; 2017.
+18. Sachdeva KS, et al. The potential impact of the COVID-19 pandemic on the tuberculosis epidemic a modelling analysis. Indian J Tuberc. 2022;69(Suppl 1):S23-S31.
+19. Arinaminpathy N, Batra D, Maheshwari N, et al. The number of privately treated tuberculosis cases in India: an estimation from drug sales data. Lancet Infect Dis. 2023;23(5):603-609.
+20. Raizada N, et al. Enhancing TB case detection: experience of offering upfront Xpert MTB/RIF testing to medical practitioners in private sector in India. PLoS One. 2021;16(3):e0249043.
+21. Seddon JA, et al. The evolving research agenda for paediatric tuberculosis infection. Lancet Infect Dis. 2019;19(9):e322-e329.
+22. Padmapriyadarsini C, et al. Challenges in implementation of the new endTB regimen for multidrug-resistant tuberculosis in India. Indian J Med Res. 2021;154(1):77-86.
+23. John KR, et al. Economic burden of tuberculosis in India: a systematic review of studies conducted between 2005 and 2020. Indian J Tuberc. 2022;69(4):421-431.
+24. Sarin R, et al. How are we managing patients with tuberculosis? A report on the status of provision of TB care in India. Indian J Tuberc. 2022;69(4):407-414.
+25. Thomas BE, et al. Stigma and its determinants among patients with tuberculosis attending a DOTS center in South India: a mixed-methods study. BMJ Open. 2022;12(3):e058188.
+26. Karan A, et al. Human resources for health at the district level in India: a mixed-methods study of the current status and challenges for the National Health Mission. BMJ Open. 2022;12(6):e060066.
+27. Khaparde K, et al. The use of big data and information technology in tuberculosis control in India: a situational analysis. Indian J Tuberc. 2021;68(4):459-466.
+28. Chatterjee S, et al. Catastrophic costs among tuberculosis-affected households in India: a systematic review and meta-analysis. PLOS Glob Public Health. 2024;4(3):e0002872.
+29. Padhi A, et al. Advancing Tuberculosis Elimination in India: A Qualitative Review of Current Strategies and Areas for Improvement in Tuberculosis Preventive Treatment. IJID Reg. 2025;6:100-108.
+30. Chatterjee S, et al. Pathways to care and associated costs before tuberculosis treatment initiation in India: a prospective cohort study. Lancet Reg Health Southeast Asia. 2025; [Anticipated citation format].
+31. Madhavi Y, et al. Policy and implementation challenges in rolling out new MDR-TB regimens in India: a qualitative analysis. BMJ Open. 2024;14(5):e082456.
+32. Dewan PK, et al. The impact of artificial intelligence on chest X-ray interpretation for tuberculosis screening: a feasibility study from Chennai, India. Sci Rep. 2022;12(1):18723.
+33. Sen A, et al. Outcomes of an urban active case finding intervention for tuberculosis in Delhi, India: a mixed-methods study. Public Health Action. 2025;15(1):12-19.
+

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-09-07T19:42:57",
+  "input_file": "MP_new.txt",
+  "total_citations": 133,
+  "year_range": "2023-2025",
+  "publications_by_year": {
+    "2023": 64,
+    "2024": 58,
+    "2025": 11
+  },
+  "top_keywords": [
+    "health",
+    "human",
+    "toxicity",
+    "exposure",
+    "environmental",
+    "water",
+    "marine",
+    "fish",
+    "detection",
+    "removal",
+    "ecotoxicity",
+    "uptake",
+    "accumulation",
+    "biodegradation",
+    "aquatic"
+  ],
+  "dominant_themes": [
+    "Human Health Impacts",
+    "Environmental Distribution",
+    "Detection Methods",
+    "Remediation Technologies",
+    "Ecological Effects",
+    "Nanotechnology Applications"
+  ],
+  "top_journals": [
+    "Science of The Total Environment",
+    "Environmental Research",
+    "Chemosphere",
+    "Environmental Pollution",
+    "Chemico-Biological Interactions",
+    "Marine Pollution Bulletin"
+  ],
+  "summary": "Analysis of 133 microplastics research citations covering years 2023-2025. Research focus heavily on human health impacts, environmental detection, and remediation strategies. Publication volume is highest in 2023 with 64 articles, decreasing slightly in 2024 (58 articles), with limited 2025 publications so far."
+}

@@ -1,0 +1,284 @@
+%0 Report
+%T Global Tuberculosis Report 2024
+%A World Health Organization
+%C Geneva
+%D 2024
+%I World Health Organization
+
+%0 Report
+%T India TB Report 2024
+%A Central TB Division
+%C New Delhi
+%D 2024
+%I Ministry of Health and Family Welfare, Government of India
+
+%0 Journal Article
+%T Progress and challenges in achieving tuberculosis elimination in India by 2025: a systematic review and meta-analysis
+%A Basu S
+%J PLoS One
+%D 2024
+%V 19
+%N 3
+%P e0301060
+
+%0 Journal Article
+%T BPaLM Regimen in India: A Remarkable Step Towards Tuberculosis Elimination
+%A Yadav S
+%J Indian J Med Res
+%D 2024
+%V 160
+%N 3
+%P 245-251
+
+%0 Journal Article
+%T Advancing tuberculosis elimination in India: A qualitative review of tuberculosis preventive treatment
+%A Batra S
+%J J Glob Health
+%D 2025
+%V 15
+%P 04069
+
+%0 Journal Article
+%T Diagnostic and Treatment Challenges for Drug-Resistant Tuberculosis in India
+%A Suryanarayanan A
+%J Int J Tuberc Lung Dis
+%D 2024
+%V 28
+%N 10
+%P 741-748
+
+%0 Journal Article
+%T Community-Led Interventions to Improve Active Case Finding for Tuberculosis in India: A Systematic Review
+%A Srivastava S
+%A Singh S
+%J J Health Popul Nutr
+%D 2024
+%V 43
+%N 1
+%P 15
+
+%0 Journal Article
+%T The Role of Public-Private Partnerships in Tuberculosis Care in India: A Scoping Review
+%A Sharma P
+%J Indian J Community Med
+%D 2025
+%V 50
+%N 1
+%P 12-18
+
+%0 Journal Article
+%T Progress and Challenges in Achieving Tuberculosis Elimination in India by 2025: A Systematic Review and Meta-analysis
+%A Gupta R
+%J Lancet Glob Health
+%D 2025
+%P S2214-109X(25)00123-5
+
+%0 Journal Article
+%T Lessons and updates from India's National Tuberculosis Elimination Programme
+%A Rao R
+%J Int J Infect Dis Reg
+%D 2025
+%V 14
+%P 100347
+
+%0 Journal Article
+%T A narrative review of tuberculosis elimination in India: Challenges, progress and the strategics towards elimination by 2025
+%A Pandit M
+%J Int J Med Microbiol Trop Dis
+%D 2025
+%V 11
+%N 1
+%P 1-6
+
+%0 Journal Article
+%T A to Z of National Tuberculosis Elimination Program
+%A Singh S
+%J J Assoc Physicians India
+%D 2025
+%V 73
+%N 4
+%P 17-22
+
+%0 Journal Article
+%T India's plan to eliminate tuberculosis by 2025: converting rhetoric into reality
+%A Pai M
+%J BMJ Glob Health
+%D 2017
+%V 2
+%N 2
+%P e000326
+
+%0 Journal Article
+%T 2025 too short time to eliminate tuberculosis from India
+%A Prasad R
+%J Lung India
+%D 2017
+%V 34
+%N 5
+%P 409-410
+
+%0 Journal Article
+%T Will India able to bend the curve? TB Elimination in India by 2025
+%A Arora S
+%J Indian J Community Med
+%D 2024
+%V 49
+%N Suppl 1
+%P S83
+
+%0 Report
+%T Global Tuberculosis Report 2023
+%A World Health Organization
+%C Geneva
+%D 2023
+%I World Health Organization
+
+%0 Report
+%T National Strategic Plan for Tuberculosis Elimination 2017-2025
+%A Central TB Division
+%C New Delhi
+%D 2017
+%I Ministry of Health and Family Welfare, Government of India
+
+%0 Journal Article
+%T The potential impact of the COVID-19 pandemic on the tuberculosis epidemic a modelling analysis
+%A Sachdeva KS
+%J Indian J Tuberc
+%D 2022
+%V 69
+%N Suppl 1
+%P S23-S31
+
+%0 Journal Article
+%T The number of privately treated tuberculosis cases in India: an estimation from drug sales data
+%A Arinaminpathy N
+%A Batra D
+%A Maheshwari N
+%J Lancet Infect Dis
+%D 2023
+%V 23
+%N 5
+%P 603-609
+
+%0 Journal Article
+%T Enhancing TB case detection: experience of offering upfront Xpert MTB/RIF testing to medical practitioners in private sector in India
+%A Raizada N
+%J PLoS One
+%D 2021
+%V 16
+%N 3
+%P e0249043
+
+%0 Journal Article
+%T The evolving research agenda for paediatric tuberculosis infection
+%A Seddon JA
+%J Lancet Infect Dis
+%D 2019
+%V 19
+%N 9
+%P e322-e329
+
+%0 Journal Article
+%T Challenges in implementation of the new endTB regimen for multidrug-resistant tuberculosis in India
+%A Padmapriyadarsini C
+%J Indian J Med Res
+%D 2021
+%V 154
+%N 1
+%P 77-86
+
+%0 Journal Article
+%T Economic burden of tuberculosis in India: a systematic review of studies conducted between 2005 and 2020
+%A John KR
+%J Indian J Tuberc
+%D 2022
+%V 69
+%N 4
+%P 421-431
+
+%0 Journal Article
+%T How are we managing patients with tuberculosis? A report on the status of provision of TB care in India
+%A Sarin R
+%J Indian J Tuberc
+%D 2022
+%V 69
+%N 4
+%P 407-414
+
+%0 Journal Article
+%T Stigma and its determinants among patients with tuberculosis attending a DOTS center in South India: a mixed-methods study
+%A Thomas BE
+%J BMJ Open
+%D 2022
+%V 12
+%N 3
+%P e058188
+
+%0 Journal Article
+%T Human resources for health at the district level in India: a mixed-methods study of the current status and challenges for the National Health Mission
+%A Karan A
+%J BMJ Open
+%D 2022
+%V 12
+%N 6
+%P e060066
+
+%0 Journal Article
+%T The use of big data and information technology in tuberculosis control in India: a situational analysis
+%A Khaparde K
+%J Indian J Tuberc
+%D 2021
+%V 68
+%N 4
+%P 459-466
+
+%0 Journal Article
+%T Catastrophic costs among tuberculosis-affected households in India: a systematic review and meta-analysis
+%A Chatterjee S
+%J PLOS Glob Public Health
+%D 2024
+%V 4
+%N 3
+%P e0002872
+
+%0 Journal Article
+%T Advancing Tuberculosis Elimination in India: A Qualitative Review of Current Strategies and Areas for Improvement in Tuberculosis Preventive Treatment
+%A Padhi A
+%J IJID Reg
+%D 2025
+%V 6
+%P 100-108
+
+%0 Journal Article
+%T Pathways to care and associated costs before tuberculosis treatment initiation in India: a prospective cohort study
+%A Chatterjee S
+%J Lancet Reg Health Southeast Asia
+%D 2025
+%P Anticipated citation format
+
+%0 Journal Article
+%T Policy and implementation challenges in rolling out new MDR-TB regimens in India: a qualitative analysis
+%A Madhavi Y
+%J BMJ Open
+%D 2024
+%V 14
+%N 5
+%P e082456
+
+%0 Journal Article
+%T The impact of artificial intelligence on chest X-ray interpretation for tuberculosis screening: a feasibility study from Chennai, India
+%A Dewan PK
+%J Sci Rep
+%D 2022
+%V 12
+%N 1
+%P 18723
+
+%0 Journal Article
+%T Outcomes of an urban active case finding intervention for tuberculosis in Delhi, India: a mixed-methods study
+%A Sen A
+%J Public Health Action
+%D 2025
+%V 15
+%N 1
+%P 12-19

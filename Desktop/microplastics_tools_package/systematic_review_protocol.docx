@@ -1,0 +1,315 @@
+This file contains the systematic review protocol template. Due to text file format, the content is shown as the basis for your protocol document.
+
+===============================================================================
+MICROPLASTICS SYSTEMATIC REVIEW PROTOCOL
+===============================================================================
+
+PROSPERO Registration Number: [To be assigned upon submission]
+
+Protocol Version: 1.0
+Date: September 7, 2025
+Authors: [Your full research team names and affiliations]
+
+Review Title:
+Systematic Review and Meta-Analysis of Microplastics Exposure and Human Health Outcomes
+
+===============================================================================
+
+ACRONYM: MP-Health-SR-2025
+
+Sponsor/Collaborators: [Your institution/university]
+
+CONTACT PERSON FOR FURTHER INFORMATION:
+Name: [Principal Investigator]
+Institution: [Your institution]
+Address: [Complete address]
+Telephone: [Phone number]
+Email: [Professional email]
+
+===============================================================================
+
+REVIEW TYPES AND PURPOSE
+
+Type of Review: Systematic Review with Meta-Analysis
+Purpose: To systematically evaluate and synthesize evidence on microplastics exposure and associated human health outcomes, providing evidence for policy and regulatory decisions.
+
+===============================================================================
+
+Object of interest: Microplastics
+Target population: Human populations
+Exposures: Microplastics exposure through various environmental pathways
+Comparator: Non-exposure or low exposure groups
+Outcomes: Health outcomes related to microplastics ingestion/inhalation
+
+===============================================================================
+
+DETAILED ABBREVIATIONS AND ACRONYMS
+MP: Microplastics
+SR: Systematic Review
+MA: Meta-Analysis
+RoB: Risk of Bias
+GRADE: Grading of Recommendations Assessment, Development and Evaluation
+PICO: Population, Intervention (Exposure), Comparison, Outcome
+PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+MEDLINE: Medical Literature Analysis and Retrieval System Online
+WoS: Web of Science
+CENTRAL: Cochrane Central Register of Controlled Trials
+
+===============================================================================
+
+FUNDING
+Funding Source: [List funding sources]
+Conflict of Interest Declaration: All authors declare no conflicts of interest.
+
+===============================================================================
+
+DATES
+Registration in PROSPERO: [Date to be submitted]
+Review start date: September 2025
+Planned review completion date: [Target date]
+
+===============================================================================
+
+SEARCH STRATEGY: POPULATION, INTERVENTION (EXPOSURE), COMPARISON, OUTCOME
+
+POPULATION:
+- Human populations of all ages, genders, and health statuses
+- Including all demographics: pregnant women, children, adults, elderly
+- No geographical restrictions
+- Exclusion: Animal studies only (unless related to human translation)
+
+INTERVENTION (EXPOSURE):
+- Microplastics or nanoplastics exposure
+- Any type of plastic polymer particles (<5mm in at least one dimension)
+- Exposure route: Oral/ingestion, inhalation, dermal absorption, intravenous
+- Exposure matrix: Food, water, air, consumer products, occupational
+- Exposure duration: Any duration (acute, subacute, chronic)
+- Dose range: Any concentration of MP exposure
+
+COMPARISON:
+- Non-exposed or low-exposed comparators
+- Pre-intervention vs post-intervention
+- Different exposure groups or controls
+- Historical controls where appropriate
+
+OUTCOMES:
+PRIMARY OUTCOMES:
+1. Reproductive health outcomes (fertility, pregnancy complications, fetal development)
+2. Gastrointestinal health (inflammation, microbiome disturbances, digestive disorders)
+3. Respiratory health (inflammation, fibrosis, asthma/wheezing)
+4. Carcinogenic effects (cancer incidence, tumor formation)
+
+SECONDARY OUTCOMES:
+5. Endocrine disruption (hormone levels, thyroid function, metabolic disorders)
+6. Cardiovascular effects (inflammation, oxidative stress, metabolic changes)
+7. Neurological effects (behavioral changes, cognitive impairment)
+8. Immunology (immune function, allergies, infection susceptibility)
+9. Dermatological effects (skin irritation, allergic reactions)
+10. Systemic inflammation markers (cytokine levels, CRP, interleukins)
+
+===============================================================================
+
+SEARCH METHODS
+
+ELECTRONIC SEARCHES
+
+Databases to be searched:
+1. PubMed/MEDLINE (1966 to present)
+2. Web of Science Core Collection (1900 to present)
+3. Scopus (1966 to present)
+4. Cochrane Library (CENTRAL, Cochrane Reviews)
+5. EMBASE (1947 to present)
+6. CINAHL
+7. PsycINFO
+8. Environmental Science & Pollution Management Database
+9. Agricola
+
+Search date from: Database inception to December 2025
+Language: English only
+Publication status: Original research: observational studies, clinical trials, laboratory studies
+
+Search strategy sample for PubMed:
+("microplastics" OR "microplastic*" OR "micro-plastic*" OR "plastic pollution" OR "nanoplastic*" OR "MPs" OR "micro-sized plastics") AND ("human*" OR "health*" OR "toxicity" OR "exposure" OR "effects" OR "disease" OR "disorder") NOT ("animal*"[Title/Abstract] AND "humanology"[mh:noexp])
+
+Full search strategy available in Supplementary File A
+
+===============================================================================
+
+SELECTION CRITERIA/PROCESS
+
+Study designs to be included:
+- Experimental studies (in vivo, in vitro, ex vivo)
+- Cohort studies (prospective, retrospective)
+- Case-control studies
+- Cross-sectional studies
+- Case series (>10 cases)
+- Field studies with human biomonitoring
+
+Study designs to be excluded:
+- Reviews without original data
+- Case reports or series (<10 cases)
+- Animal studies without clear human translation
+- Ecological studies without individual-level data
+- Modelling studies without empirical data
+
+GEOGRAPHIC RESTRICTIONS: No restrictions
+SETTING: All settings, operationalized as any exposure assessment setting
+AGE RESTRICTIONS: All age groups
+OTHER: None
+
+SECONDS CREENER STANDARDS:
+- Two reviewers screen independently
+- Discordant resolutions by third reviewer
+- Consensus meeting for complex cases
+
+===============================================================================
+
+DATA EXTRACTION PROCESS
+
+Data will be extracted by two independent reviewers using a piloted and standardized extraction form based on Cochrane guidelines and systematic review best practices.
+
+Variables to be extracted include:
+- Study characteristics (study design, setting, population)
+- Methods (study duration, sample size, power analysis)
+- Participants (age, sex, demographic details, inclusion criteria)
+- Exposures (quantity, duration, route, matrix, verification method)
+- Outcomes (definition, measurement, timing, analysis method)
+- Results (effect sizes, confidence intervals, statistical significance)
+- Risk of bias assessment
+- Other information (funding, conflicts of interest)
+
+Data extraction form available in Supplementary File B
+
+DISAGREEMENTS
+Discrepancies between reviewers will be resolved through discussion or third-party arbitration. All resolutions will be documented.
+
+TRAINING OF EXTRACTORS
+All data extractors will receive training on the data extraction form, systematic review methods, and risk of bias assessment before beginning data extraction.
+
+PILOT TESTING
+The extraction form will be piloted on 10 studies to ensure reliability and consistency before full implementation.
+
+===============================================================================
+
+RISK OF BIAS ASSESSMENT
+
+Risk of bias will be assessed using the Cochrane Risk of Bias tool version 2 (RoB 2) for interventional studies and ROBINS-I for non-randomized studies. We will assess:
+
+1. Bias arising from the randomization process
+2. Bias due to deviations from intended interventions
+3. Bias due to missing outcome data
+4. Bias in measurement of the outcome
+5. Bias in selection of the reported result
+
+Risk of bias will be assessed by two independent reviewers, with disagreements resolved by a third reviewer.
+
+===============================================================================
+
+DATA SYNTHESIS
+
+For quantitative synthesis (meta-analysis):
+- Effect measures: Risk ratios for binary outcomes, mean differences or standardized mean differences for continuous outcomes
+- Statistical heterogeneity assessment: I² statistic and Q test
+- Fixed-effect or random-effects model based on heterogeneity
+- Subgroup analyses: by MP type, exposure route, population characteristics
+- Sensitivity analyses: by study quality, exclusion of outliers
+
+For qualitative synthesis:
+- Narrative synthesis of findings across studies
+- Thematic analysis of common exposure pathways
+- Assessment of evidence quality using GRADE approach
+
+===============================================================================
+
+META-BIASES
+- Publication bias assessment: Funnel plots and Egger's test (if ≥10 studies)
+- Small study effects assessment
+- Selective outcome reporting assessment
+- Gray literature bias assessment
+
+===============================================================================
+
+CONFIDENCE IN CUMULATIVE EVIDENCE
+Overall quality of evidence will be assessed using the GRADE approach:
+- High quality: Further research is very unlikely to change our confidence in the estimate
+- Moderate quality: Further research is likely to have an important impact
+- Low quality: Further research is very likely to have an important impact
+- Very low quality: Any estimate of effect is very uncertain
+
+===============================================================================
+
+ANALYTICAL APPROACH
+1. Conduct meta-analyses where appropriate (minimum 2 studies with similar outcomes)
+2. Use random-effects models for meta-analyses
+3. Assess and explore statistical heterogeneity
+4. Perform subgroup analyses to explore sources of heterogeneity
+5. Use appropriate statistical software (R, Stata, or RevMan)
+
+===============================================================================
+
+SUBGROUP ANALYSES
+Planned subgroup analyses:
+1. By microplastics type (PE, PP, PET, PVC, etc.)
+2. By exposure route (oral, inhalation, dermal)
+3. By exposure matrix (food, water, air, consumer products)
+4. By population age group (children, adults, elderly)
+5. By study design (experimental vs observational)
+6. By geographic region (developed vs developing countries)
+
+===============================================================================
+
+CONFIDENCE INTERVALS
+All point estimates will be reported with 95% confidence intervals.
+
+===============================================================================
+
+REVISION OF THE PROTOCOL
+This protocol will be updated if major deviations from planned methodology are needed. All changes will be documented and justified. Protocol amendments will be registered on PROSPERO if they affect eligibility criteria or primary outcomes.
+
+===============================================================================
+
+PREDISSUSEDION
+- Breastfeeding practices and MP transfer to infants
+- Occupational exposure in plastic manufacturing
+- Combined effects of MPs with heavy metals
+- Longitudinal studies on cumulative MP exposure
+
+===============================================================================
+
+DATA MANAGEMENT
+- EndNote/Zotero for reference management
+- Excel/CSV for data extraction
+- Statistical software for meta-analysis
+- Quality check processes for data accuracy
+- Regular data backup and version control
+
+===============================================================================
+
+ETHICS AND DISSEMINATION
+- No human subjects data directly collected - uses published data
+- Results will be published in peer-reviewed journal
+- Knowledge translation to policymakers and public
+- Conference presentations planned
+- Open-access publication commitment
+
+===============================================================================
+
+REGISTRATION STATUS
+Registered with PROSPERO: Pending
+Registration number: [To be assigned]
+
+===============================================================================
+
+PROTOCOL COMPLETED BY:
+[Your name and institutional affiliation]
+Date: September 7, 2025
+
+===============================================================================
+
+SUPPLEMENTARY FILES:
+File A: Full search strategy for all databases
+File B: Complete data extraction form
+File C: Risk of bias assessment forms
+File D: Statistical analysis plan
+File E: PRISMA 2020 checklist
+===============================================================================

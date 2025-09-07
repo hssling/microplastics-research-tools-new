@@ -1,0 +1,3362 @@
+{
+  "metadata": {
+    "total_articles": 133,
+    "created_date": "2025-09-07T19:16:22.727714",
+    "version": "1.0",
+    "description": "Microplastics systematic review article database"
+  },
+  "categories": {
+    "study_types": [
+      "Experimental/Observational",
+      "In Vitro",
+      "In Vivo",
+      "Meta-analysis",
+      "Randomized Controlled Trial",
+      "Review",
+      "Systematic Review",
+      "Systematic Review & Meta-analysis"
+    ],
+    "research_focus": [
+      "Cancer",
+      "Detection Methods",
+      "Ecological Effects",
+      "Environmental Distribution",
+      "Food Safety",
+      "General",
+      "Human Health",
+      "Marine Biology",
+      "Remediation",
+      "Reproductive Health",
+      "Risk Assessment",
+      "Soil Science",
+      "Sources",
+      "Toxicity"
+    ],
+    "journals": [
+      "A review on constructive classification framework of research trends in analytical instrumentation for secondary micro(nano)plastics: What is new and what needs next? Environ Pollut",
+      "Adv Rheumatol",
+      "Afr J Reprod Health",
+      "Ann Glob Health",
+      "Aquat Toxicol",
+      "Arch Gynecol Obstet",
+      "Arch Toxicol",
+      "BMC Public Health",
+      "Bjog",
+      "Cancer Epidemiol",
+      "Cells Tissues Organs",
+      "Chemosphere",
+      "Cureus",
+      "Curr Environ Health Rep",
+      "Eco Environ Health",
+      "Ecotoxicol Environ Saf",
+      "Environ Anal Health Toxicol",
+      "Environ Geochem Health",
+      "Environ Health Insights",
+      "Environ Health Perspect",
+      "Environ Int",
+      "Environ Monit Assess",
+      "Environ Pollut",
+      "Environ Res",
+      "Environ Sci Pollut Res Int",
+      "Environ Sci Process Impacts",
+      "Environ Sci Technol",
+      "Environ Toxicol Chem",
+      "Environ Toxicol Pharmacol",
+      "Eur J Pediatr",
+      "F1000Res",
+      "Front Biosci (Landmark Ed)",
+      "Front Med (Lausanne)",
+      "Front Microbiol",
+      "Front Public Health",
+      "Front Toxicol",
+      "Glob Chang Biol",
+      "Int J Environ Res Public Health",
+      "Int J Mol Sci",
+      "Integr Environ Assess Manag",
+      "J Environ Health Sci Eng",
+      "J Environ Manage",
+      "J Environ Sci Health A Tox Hazard Subst Environ Eng",
+      "J Expo Sci Environ Epidemiol",
+      "J Hazard Mater",
+      "J Pregnancy",
+      "J Toxicol",
+      "J Xenobiot",
+      "Mar Pollut Bull",
+      "Materials (Basel)",
+      "Minerva Endocrinol (Torino)",
+      "Mol Aspects Med",
+      "Nat Food",
+      "Plant Physiol Biochem",
+      "Public Health Nurs",
+      "Reprod Toxicol",
+      "Rev Environ Health",
+      "Sci Total Environ",
+      "Theriogenology",
+      "Toxicol Ind Health",
+      "Toxics",
+      "Water Environ Res",
+      "Zhonghua Wai Ke Za Zhi"
+    ],
+    "years": [
+      2005,
+      2016,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "environments": [
+      "Air",
+      "Aquatic",
+      "Drinking Water",
+      "Food System",
+      "Laboratory",
+      "Marine",
+      "Not Specified",
+      "Terrestrial"
+    ],
+    "organisms": [
+      "Cell Lines",
+      "Fish",
+      "Humans",
+      "Laboratory Animals",
+      "Mammals",
+      "Marine Animals",
+      "Microorganisms",
+      "Not Specified",
+      "Plants"
+    ]
+  },
+  "articles": [
+    {
+      "id": 1,
+      "first_author": "﻿1",
+      "year": 2024,
+      "title": "Abimbola I, McAfee M, Creedon L, Gharbia S",
+      "journal": "Sci Total Environ",
+      "full_citation": "﻿1.\tAbimbola I, McAfee M, Creedon L, Gharbia S. In-situ detection of microplastics in the aquatic environment: A systematic literature review. Sci Total Environ. 2024;934:173111.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.719751"
+    },
+    {
+      "id": 2,
+      "first_author": "Aguilar-Aguilar A, de León-Martínez LD, Forgionny A, Acelas Soto NY, Mendoza SR, Zárate-Guzmán AI",
+      "year": 2023,
+      "title": "A systematic review on the current situation of emerging pollutants in Mexico: A perspective on policies, regulation, detection, and elimination in water and wastewater",
+      "journal": "Sci Total Environ",
+      "full_citation": "Aguilar-Aguilar A, de León-Martínez LD, Forgionny A, Acelas Soto NY, Mendoza SR, Zárate-Guzmán AI. A systematic review on the current situation of emerging pollutants in Mexico: A perspective on policies, regulation, detection, and elimination in water and wastewater. Sci Total Environ. 2023;905:167426.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Detection Methods"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review",
+        "detection"
+      ],
+      "date_added": "2025-09-07T19:16:22.719860"
+    },
+    {
+      "id": 3,
+      "first_author": "Ahmet Miraç B, Fatoş U",
+      "year": 2024,
+      "title": "The effect of environmental health education on microplastic pollution awareness",
+      "journal": "Public Health Nurs",
+      "full_citation": "Ahmet Miraç B, Fatoş U. The effect of environmental health education on microplastic pollution awareness. Public Health Nurs. 2024;41(4):760-7.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "pollution"
+      ],
+      "date_added": "2025-09-07T19:16:22.719930"
+    },
+    {
+      "id": 4,
+      "first_author": "Ali-Hassanzadeh M, Arefinia N, Ghoreshi ZA, Askarpour H, Mashayekhi-Sardoo H",
+      "year": 2025,
+      "title": "The effects of exposure to microplastics on female reproductive health and pregnancy outcomes: A systematic review and meta-analysis",
+      "journal": "Reprod Toxicol",
+      "full_citation": "Ali-Hassanzadeh M, Arefinia N, Ghoreshi ZA, Askarpour H, Mashayekhi-Sardoo H. The effects of exposure to microplastics on female reproductive health and pregnancy outcomes: A systematic review and meta-analysis. Reprod Toxicol. 2025;135:108932.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Human Health",
+        "Reproductive Health",
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "reproductive",
+        "exposure",
+        "microplastics",
+        "systematic review",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.720001"
+    },
+    {
+      "id": 5,
+      "first_author": "An Q, Wen C, Yan C",
+      "year": 2024,
+      "title": "Meta-analysis reveals the combined effects of microplastics and heavy metal on plants",
+      "journal": "J Hazard Mater",
+      "full_citation": "An Q, Wen C, Yan C. Meta-analysis reveals the combined effects of microplastics and heavy metal on plants. J Hazard Mater. 2024;476:135028.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Soil Science"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.720061"
+    },
+    {
+      "id": 6,
+      "first_author": "Anene DI, Beltran M, Tjahjono B, Schultz A, McKenzie M, Stevanovic S, et al",
+      "year": 2025,
+      "title": "Microplastics and chemical additives from disposable face masks: Environmental, human health and behavioural impacts",
+      "journal": "Sci Total Environ",
+      "full_citation": "Anene DI, Beltran M, Tjahjono B, Schultz A, McKenzie M, Stevanovic S, et al. Microplastics and chemical additives from disposable face masks: Environmental, human health and behavioural impacts. Sci Total Environ. 2025;973:179079.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Human Health",
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.720128"
+    },
+    {
+      "id": 7,
+      "first_author": "Antohi VM, Ionescu RV, Zlati ML, Iticescu C, Georgescu PL, Calmuc M",
+      "year": 2023,
+      "title": "Regional Regression Correlation Model of Microplastic Water Pollution Control Using Circular Economy Tools",
+      "journal": "Int J Environ Res Public Health",
+      "full_citation": "Antohi VM, Ionescu RV, Zlati ML, Iticescu C, Georgescu PL, Calmuc M. Regional Regression Correlation Model of Microplastic Water Pollution Control Using Circular Economy Tools. Int J Environ Res Public Health. 2023;20(5).",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "pollution"
+      ],
+      "date_added": "2025-09-07T19:16:22.720201"
+    },
+    {
+      "id": 8,
+      "first_author": "Araújo AM, Mota C, Ramos H, Faria MA, Carvalho M, Ferreira I",
+      "year": 2025,
+      "title": "The neurotoxic threat of micro- and nanoplastics: evidence from In Vitro and In Vivo models",
+      "journal": "Arch Toxicol",
+      "full_citation": "Araújo AM, Mota C, Ramos H, Faria MA, Carvalho M, Ferreira I. The neurotoxic threat of micro- and nanoplastics: evidence from In Vitro and In Vivo models. Arch Toxicol. 2025;99(9):3505-25.",
+      "study_type": "In Vitro",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Cell Lines"
+      ],
+      "keywords": [
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.720259"
+    },
+    {
+      "id": 9,
+      "first_author": "Arbabi A, Gholami M, Farzadkia M, Djalalinia S",
+      "year": 2023,
+      "title": "Microplastics removal technologies from aqueous environments: a systematic review",
+      "journal": "J Environ Health Sci Eng",
+      "full_citation": "Arbabi A, Gholami M, Farzadkia M, Djalalinia S. Microplastics removal technologies from aqueous environments: a systematic review. J Environ Health Sci Eng. 2023;21(2):463-73.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Remediation"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.720316"
+    },
+    {
+      "id": 10,
+      "first_author": "Arpia AA, Chen WH, Ubando AT, Naqvi SR, Culaba AB",
+      "year": 2021,
+      "title": "Microplastic degradation as a sustainable concurrent approach for producing biofuel and obliterating hazardous environmental effects: A state-of-the-art review",
+      "journal": "J Hazard Mater",
+      "full_citation": "Arpia AA, Chen WH, Ubando AT, Naqvi SR, Culaba AB. Microplastic degradation as a sustainable concurrent approach for producing biofuel and obliterating hazardous environmental effects: A state-of-the-art review. J Hazard Mater. 2021;418:126381.",
+      "study_type": "Review",
+      "research_focus": [
+        "Environmental Distribution",
+        "Remediation"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.720388"
+    },
+    {
+      "id": 11,
+      "first_author": "Ateia M, Ersan G, Alalm MG, Boffito DC, Karanfil T",
+      "year": 2022,
+      "title": "Emerging investigator series: microplastic sources, fate, toxicity, detection, and interactions with micropollutants in aquatic ecosystems - a review of reviews",
+      "journal": "Environ Sci Process Impacts",
+      "full_citation": "Ateia M, Ersan G, Alalm MG, Boffito DC, Karanfil T. Emerging investigator series: microplastic sources, fate, toxicity, detection, and interactions with micropollutants in aquatic ecosystems - a review of reviews. Environ Sci Process Impacts. 2022;24(2):172-95.",
+      "study_type": "Review",
+      "research_focus": [
+        "Toxicity",
+        "Detection Methods",
+        "Ecological Effects",
+        "Sources"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "toxicity",
+        "aquatic",
+        "detection"
+      ],
+      "date_added": "2025-09-07T19:16:22.720473"
+    },
+    {
+      "id": 12,
+      "first_author": "Azeem I, Shakoor N, Chaudhary S, Adeel M, Zain M, Ahmad MA, et al",
+      "year": 2023,
+      "title": "Analytical challenges in detecting microplastics and nanoplastics in soil-plant systems",
+      "journal": "Plant Physiol Biochem",
+      "full_citation": "Azeem I, Shakoor N, Chaudhary S, Adeel M, Zain M, Ahmad MA, et al. Analytical challenges in detecting microplastics and nanoplastics in soil-plant systems. Plant Physiol Biochem. 2023;204:108132.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Detection Methods",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "nanoplastics",
+        "soil"
+      ],
+      "date_added": "2025-09-07T19:16:22.720536"
+    },
+    {
+      "id": 13,
+      "first_author": "Barhoumi B, Sander SG, Tolosa I",
+      "year": 2022,
+      "title": "A review on per- and polyfluorinated alkyl substances (PFASs) in microplastic and food-contact materials",
+      "journal": "Environ Res",
+      "full_citation": "Barhoumi B, Sander SG, Tolosa I. A review on per- and polyfluorinated alkyl substances (PFASs) in microplastic and food-contact materials. Environ Res. 2022;206:112595.",
+      "study_type": "Review",
+      "research_focus": [
+        "Food Safety"
+      ],
+      "environment": [
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.720596"
+    },
+    {
+      "id": 14,
+      "first_author": "Baspakova A, Zare A, Suleimenova R, Berdygaliev AB, Karimsakova B, Tussupkaliyeva K, et al",
+      "year": 2025,
+      "title": "An updated systematic review about various effects of microplastics on cancer: A pharmacological and in-silico based analysis",
+      "journal": "Mol Aspects Med",
+      "full_citation": "Baspakova A, Zare A, Suleimenova R, Berdygaliev AB, Karimsakova B, Tussupkaliyeva K, et al. An updated systematic review about various effects of microplastics on cancer: A pharmacological and in-silico based analysis. Mol Aspects Med. 2025;101:101336.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Cancer"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.720664"
+    },
+    {
+      "id": 15,
+      "first_author": "Baysal A, Saygin H",
+      "year": 2016,
+      "title": "Co-occurence of antibiotics and micro(nano)plastics: a systematic review between 2016-2021",
+      "journal": "J Environ Sci Health A Tox Hazard Subst Environ Eng",
+      "full_citation": "Baysal A, Saygin H. Co-occurence of antibiotics and micro(nano)plastics: a systematic review between 2016-2021. J Environ Sci Health A Tox Hazard Subst Environ Eng. 2022;57(7):519-39.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.720723"
+    },
+    {
+      "id": 16,
+      "first_author": "Berlino M, Mangano MC, De Vittor C, Sarà G",
+      "year": 2021,
+      "title": "Effects of microplastics on the functional traits of aquatic benthic organisms: A global-scale meta-analysis",
+      "journal": "Environ Pollut",
+      "full_citation": "Berlino M, Mangano MC, De Vittor C, Sarà G. Effects of microplastics on the functional traits of aquatic benthic organisms: A global-scale meta-analysis. Environ Pollut. 2021;285:117174.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Ecological Effects"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "meta-analysis",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.720785"
+    },
+    {
+      "id": 17,
+      "first_author": "Bhuyan MS, Jenzri M, Pandit D, Adikari D, Alam MW, Kunda M",
+      "year": 2024,
+      "title": "Microplastics occurrence in sea cucumbers and impacts on sea cucumbers & human health: A systematic review",
+      "journal": "Sci Total Environ",
+      "full_citation": "Bhuyan MS, Jenzri M, Pandit D, Adikari D, Alam MW, Kunda M. Microplastics occurrence in sea cucumbers and impacts on sea cucumbers & human health: A systematic review. Sci Total Environ. 2024;951:175792.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Environmental Distribution",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Humans",
+        "Marine Animals"
+      ],
+      "keywords": [
+        "human health",
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.720846"
+    },
+    {
+      "id": 18,
+      "first_author": "Cai T, Boeri L, Miacola C, Palumbo F, Albo G, Ditonno P, et al",
+      "year": 2025,
+      "title": "Can nutraceuticals counteract the detrimental effects of the environment on male fertility? A parallel systematic review and expert opinion",
+      "journal": "Minerva Endocrinol (Torino)",
+      "full_citation": "Cai T, Boeri L, Miacola C, Palumbo F, Albo G, Ditonno P, et al. Can nutraceuticals counteract the detrimental effects of the environment on male fertility? A parallel systematic review and expert opinion. Minerva Endocrinol (Torino). 2025;50(1):84-96.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.720917"
+    },
+    {
+      "id": 19,
+      "first_author": "Camerano Spelta Rapini C, Di Berardino C, Peserico A, Capacchietti G, Barboni B",
+      "year": 2024,
+      "title": "Can Mammalian Reproductive Health Withstand Massive Exposure to Polystyrene Micro- and Nanoplastic Derivatives? A Systematic Review",
+      "journal": "Int J Mol Sci",
+      "full_citation": "Camerano Spelta Rapini C, Di Berardino C, Peserico A, Capacchietti G, Barboni B. Can Mammalian Reproductive Health Withstand Massive Exposure to Polystyrene Micro- and Nanoplastic Derivatives? A Systematic Review. Int J Mol Sci. 2024;25(22).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Mammals"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review",
+        "polystyrene",
+        "reproductive"
+      ],
+      "date_added": "2025-09-07T19:16:22.720980"
+    },
+    {
+      "id": 20,
+      "first_author": "Caminiti C, Diodati F, Puntoni M, Balan D, Maglietta G",
+      "year": 2025,
+      "title": "Surveys of Knowledge and Awareness of Plastic Pollution and Risk Reduction Behavior in the General Population: A Systematic Review",
+      "journal": "Int J Environ Res Public Health",
+      "full_citation": "Caminiti C, Diodati F, Puntoni M, Balan D, Maglietta G. Surveys of Knowledge and Awareness of Plastic Pollution and Risk Reduction Behavior in the General Population: A Systematic Review. Int J Environ Res Public Health. 2025;22(2).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "pollution",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721045"
+    },
+    {
+      "id": 21,
+      "first_author": "Cao ND, Vo DT, Pham MD, Nguyen VT, Nguyen TB, Le LT, et al",
+      "year": 2024,
+      "title": "Microplastics contamination in water supply system and treatment processes",
+      "journal": "Sci Total Environ",
+      "full_citation": "Cao ND, Vo DT, Pham MD, Nguyen VT, Nguyen TB, Le LT, et al. Microplastics contamination in water supply system and treatment processes. Sci Total Environ. 2024;926:171793.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution",
+        "Remediation"
+      ],
+      "environment": [
+        "Aquatic",
+        "Drinking Water"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "contamination",
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.721114"
+    },
+    {
+      "id": 22,
+      "first_author": "Chand N, Krause S, Prajapati SK",
+      "year": 2025,
+      "title": "The potential of microplastics acting as vector for triclosan in aquatic environments",
+      "journal": "Aquat Toxicol",
+      "full_citation": "Chand N, Krause S, Prajapati SK. The potential of microplastics acting as vector for triclosan in aquatic environments. Aquat Toxicol. 2025;284:107381.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.721181"
+    },
+    {
+      "id": 23,
+      "first_author": "Chartres N, Cooper CB, Bland G, Pelch KE, Gandhi SA, BakenRa A, et al",
+      "year": 2024,
+      "title": "Effects of Microplastic Exposure on Human Digestive, Reproductive, and Respiratory Health: A Rapid Systematic Review",
+      "journal": "Environ Sci Technol",
+      "full_citation": "Chartres N, Cooper CB, Bland G, Pelch KE, Gandhi SA, BakenRa A, et al. Effects of Microplastic Exposure on Human Digestive, Reproductive, and Respiratory Health: A Rapid Systematic Review. Environ Sci Technol. 2024;58(52):22843-64.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Air"
+      ],
+      "organisms": [
+        "Humans",
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "digestive",
+        "systematic review",
+        "reproductive",
+        "exposure",
+        "respiratory"
+      ],
+      "date_added": "2025-09-07T19:16:22.721245"
+    },
+    {
+      "id": 24,
+      "first_author": "Chen J, Qi R, Cheng Y, Wang L, Cao X",
+      "year": 2024,
+      "title": "Effects of micro/nanoplastics on oxidative damage and serum biochemical parameters in rats and mice: a meta-analysis",
+      "journal": "Environ Geochem Health",
+      "full_citation": "Chen J, Qi R, Cheng Y, Wang L, Cao X. Effects of micro/nanoplastics on oxidative damage and serum biochemical parameters in rats and mice: a meta-analysis. Environ Geochem Health. 2024;46(6):197.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "nanoplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.721305"
+    },
+    {
+      "id": 25,
+      "first_author": "Chen L, Zhou S, Zhang Q, Su B, Yin Q, Zou M",
+      "year": 2024,
+      "title": "Global occurrence characteristics, drivers, and environmental risk assessment of microplastics in lakes: A meta-analysis",
+      "journal": "Environ Pollut",
+      "full_citation": "Chen L, Zhou S, Zhang Q, Su B, Yin Q, Zou M. Global occurrence characteristics, drivers, and environmental risk assessment of microplastics in lakes: A meta-analysis. Environ Pollut. 2024;344:123321.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Environmental Distribution",
+        "Risk Assessment"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "risk assessment",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.721365"
+    },
+    {
+      "id": 26,
+      "first_author": "Chengappa SK, Rao A, K SA, Jodalli PS, Shenoy Kudpi R",
+      "year": 2023,
+      "title": "Microplastic content of over-the-counter toothpastes - a systematic review",
+      "journal": "F1000Res",
+      "full_citation": "Chengappa SK, Rao A, K SA, Jodalli PS, Shenoy Kudpi R. Microplastic content of over-the-counter toothpastes - a systematic review. F1000Res. 2023;12:390.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721420"
+    },
+    {
+      "id": 27,
+      "first_author": "Cho YM, Choi KH",
+      "year": 2021,
+      "title": "The current status of studies of human exposure assessment of microplastics and their health effects: a rapid systematic review",
+      "journal": "Environ Anal Health Toxicol",
+      "full_citation": "Cho YM, Choi KH. The current status of studies of human exposure assessment of microplastics and their health effects: a rapid systematic review. Environ Anal Health Toxicol. 2021;36(1):e2021004-0.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "exposure",
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721485"
+    },
+    {
+      "id": 28,
+      "first_author": "Clance LR, Ziegler SL, Fodrie FJ",
+      "year": 2023,
+      "title": "Contaminants disrupt aquatic food webs via decreased consumer efficiency",
+      "journal": "Sci Total Environ",
+      "full_citation": "Clance LR, Ziegler SL, Fodrie FJ. Contaminants disrupt aquatic food webs via decreased consumer efficiency. Sci Total Environ. 2023;859(Pt 2):160245.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Food Safety"
+      ],
+      "environment": [
+        "Aquatic",
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.721540"
+    },
+    {
+      "id": 29,
+      "first_author": "Clérigo F, Ferreira S, Ladeira C, Marques-Ramos A, Almeida-Silva M, Mendes LA",
+      "year": 2022,
+      "title": "Cytotoxicity Assessment of Nanoplastics and Plasticizers Exposure in In Vitro Lung Cell Culture Systems-A Systematic Review",
+      "journal": "Toxics",
+      "full_citation": "Clérigo F, Ferreira S, Ladeira C, Marques-Ramos A, Almeida-Silva M, Mendes LA. Cytotoxicity Assessment of Nanoplastics and Plasticizers Exposure in In Vitro Lung Cell Culture Systems-A Systematic Review. Toxics. 2022;10(7).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Cell Lines"
+      ],
+      "keywords": [
+        "toxicity",
+        "exposure",
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.721594"
+    },
+    {
+      "id": 30,
+      "first_author": "Cristaldi A, Fiore M, Zuccarello P, Oliveri Conti G, Grasso A, Nicolosi I, et al",
+      "year": 2020,
+      "title": "Efficiency of Wastewater Treatment Plants (WWTPs) for Microplastic Removal: A Systematic Review",
+      "journal": "Int J Environ Res Public Health",
+      "full_citation": "Cristaldi A, Fiore M, Zuccarello P, Oliveri Conti G, Grasso A, Nicolosi I, et al. Efficiency of Wastewater Treatment Plants (WWTPs) for Microplastic Removal: A Systematic Review. Int J Environ Res Public Health. 2020;17(21).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Remediation",
+        "Soil Science"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721639"
+    },
+    {
+      "id": 31,
+      "first_author": "da Silva MRF, Souza KS, Motteran F, de Araújo LCA, Singh R, Bhadouria R, et al",
+      "year": 2024,
+      "title": "Exploring biodegradative efficiency: a systematic review on the main microplastic-degrading bacteria",
+      "journal": "Front Microbiol",
+      "full_citation": "da Silva MRF, Souza KS, Motteran F, de Araújo LCA, Singh R, Bhadouria R, et al. Exploring biodegradative efficiency: a systematic review on the main microplastic-degrading bacteria. Front Microbiol. 2024;15:1360844.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Microorganisms"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721684"
+    },
+    {
+      "id": 32,
+      "first_author": "Danopoulos E, Jenner LC, Twiddy M, Rotchell JM",
+      "year": 2020,
+      "title": "Microplastic Contamination of Seafood Intended for Human Consumption: A Systematic Review and Meta-Analysis",
+      "journal": "Environ Health Perspect",
+      "full_citation": "Danopoulos E, Jenner LC, Twiddy M, Rotchell JM. Microplastic Contamination of Seafood Intended for Human Consumption: A Systematic Review and Meta-Analysis. Environ Health Perspect. 2020;128(12):126002.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Human Health",
+        "Environmental Distribution",
+        "Marine Biology",
+        "Food Safety"
+      ],
+      "environment": [
+        "Marine",
+        "Food System"
+      ],
+      "organisms": [
+        "Humans",
+        "Marine Animals"
+      ],
+      "keywords": [
+        "contamination",
+        "systematic review",
+        "meta-analysis",
+        "seafood"
+      ],
+      "date_added": "2025-09-07T19:16:22.721727"
+    },
+    {
+      "id": 33,
+      "first_author": "Dasmahapatra AK, Chatterjee J, Tchounwou PB",
+      "year": 2025,
+      "title": "A systematic review of the effects of nanoplastics on fish",
+      "journal": "Front Toxicol",
+      "full_citation": "Dasmahapatra AK, Chatterjee J, Tchounwou PB. A systematic review of the effects of nanoplastics on fish. Front Toxicol. 2025;7:1530209.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "systematic review",
+        "nanoplastics",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.721764"
+    },
+    {
+      "id": 34,
+      "first_author": "De Stefano AA, Horodynski M, Galluccio G",
+      "year": 2025,
+      "title": "Can Clear Aligners Release Microplastics That Impact the Patient's Overall Health? A Systematic Review",
+      "journal": "Materials (Basel)",
+      "full_citation": "De Stefano AA, Horodynski M, Galluccio G. Can Clear Aligners Release Microplastics That Impact the Patient's Overall Health? A Systematic Review. Materials (Basel). 2025;18(11).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Sources"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721810"
+    },
+    {
+      "id": 35,
+      "first_author": "Díaz-Fuster L, Sáez-Espinosa P, Moya I, Peinado I, Gómez-Torres MJ",
+      "year": 2025,
+      "title": "Updating the Role of JUNO and Factors Involved in Its Function during Fertilization",
+      "journal": "Cells Tissues Organs",
+      "full_citation": "Díaz-Fuster L, Sáez-Espinosa P, Moya I, Peinado I, Gómez-Torres MJ. Updating the Role of JUNO and Factors Involved in Its Function during Fertilization. Cells Tissues Organs. 2025:1-16.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.721863"
+    },
+    {
+      "id": 36,
+      "first_author": "Dorairajan G, Ravi S, Chinnakili P",
+      "year": 2024,
+      "title": "The Effect of Preinduction Cervical Ripening With Synthetic Hygroscopic Dilators on Maternal Outcomes of Women With Previous Caesarean Pregnancy: A Single-Group Clinical Trial",
+      "journal": "J Pregnancy",
+      "full_citation": "Dorairajan G, Ravi S, Chinnakili P. The Effect of Preinduction Cervical Ripening With Synthetic Hygroscopic Dilators on Maternal Outcomes of Women With Previous Caesarean Pregnancy: A Single-Group Clinical Trial. J Pregnancy. 2024;2024:8835464.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.721922"
+    },
+    {
+      "id": 37,
+      "first_author": "Doshi M, Rabari V, Patel A, Yadav VK, Sahoo DK, Trivedi J",
+      "year": 2024,
+      "title": "A systematic review on microplastic contamination in marine Crustacea and Mollusca of Asia: Current scenario, concentration, characterization, polymeric risk assessment, and future Prospectives",
+      "journal": "Water Environ Res",
+      "full_citation": "Doshi M, Rabari V, Patel A, Yadav VK, Sahoo DK, Trivedi J. A systematic review on microplastic contamination in marine Crustacea and Mollusca of Asia: Current scenario, concentration, characterization, polymeric risk assessment, and future Prospectives. Water Environ Res. 2024;96(5):e11029.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Environmental Distribution",
+        "Risk Assessment",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals",
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "contamination",
+        "marine",
+        "risk assessment",
+        "polymer",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.721980"
+    },
+    {
+      "id": 38,
+      "first_author": "Du Z, Yu X, Li X, Zhang L, Lin Y, He Y, et al",
+      "year": 2020,
+      "title": "Mechanism of microplastics in respiratory disease from 2020 to 2024: visualization and bibliometric analysis",
+      "journal": "Front Med (Lausanne)",
+      "full_citation": "Du Z, Yu X, Li X, Zhang L, Lin Y, He Y, et al. Mechanism of microplastics in respiratory disease from 2020 to 2024: visualization and bibliometric analysis. Front Med (Lausanne). 2025;12:1586772.",
+      "study_type": "In Vivo",
+      "research_focus": [
+        "Human Health"
+      ],
+      "environment": [
+        "Marine",
+        "Air"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "microplastics",
+        "respiratory"
+      ],
+      "date_added": "2025-09-07T19:16:22.722026"
+    },
+    {
+      "id": 39,
+      "first_author": "Eberhard T, Casillas G, Zarus GM, Barr DB",
+      "year": 2024,
+      "title": "Systematic review of microplastics and nanoplastics in indoor and outdoor air: identifying a framework and data needs for quantifying human inhalation exposures",
+      "journal": "J Expo Sci Environ Epidemiol",
+      "full_citation": "Eberhard T, Casillas G, Zarus GM, Barr DB. Systematic review of microplastics and nanoplastics in indoor and outdoor air: identifying a framework and data needs for quantifying human inhalation exposures. J Expo Sci Environ Epidemiol. 2024;34(2):185-96.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Air"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "exposure",
+        "microplastics",
+        "systematic review",
+        "nanoplastics",
+        "inhalation"
+      ],
+      "date_added": "2025-09-07T19:16:22.722079"
+    },
+    {
+      "id": 40,
+      "first_author": "Egbuna C, Amadi CN, Patrick-Iwuanyanwu KC, Ezzat SM, Awuchi CG, Ugonwa PO, et al",
+      "year": 2021,
+      "title": "Emerging pollutants in Nigeria: A systematic review",
+      "journal": "Environ Toxicol Pharmacol",
+      "full_citation": "Egbuna C, Amadi CN, Patrick-Iwuanyanwu KC, Ezzat SM, Awuchi CG, Ugonwa PO, et al. Emerging pollutants in Nigeria: A systematic review. Environ Toxicol Pharmacol. 2021;85:103638.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722117"
+    },
+    {
+      "id": 41,
+      "first_author": "Fehrenbach GW, Murphy E, Tanoeiro JR, Pogue R, Major I",
+      "year": 2025,
+      "title": "Monitoring water contamination through shellfish: A systematic review of biomarkers, species selection, and host response",
+      "journal": "Ecotoxicol Environ Saf",
+      "full_citation": "Fehrenbach GW, Murphy E, Tanoeiro JR, Pogue R, Major I. Monitoring water contamination through shellfish: A systematic review of biomarkers, species selection, and host response. Ecotoxicol Environ Saf. 2025;295:118120.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity",
+        "Environmental Distribution",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish",
+        "Marine Animals"
+      ],
+      "keywords": [
+        "contamination",
+        "systematic review",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.722162"
+    },
+    {
+      "id": 42,
+      "first_author": "Feng Q, An C, Chen Z, Lee K, Wang Z",
+      "year": 2023,
+      "title": "Identification of the driving factors of microplastic load and morphology in estuaries for improving monitoring and management strategies: A global meta-analysis",
+      "journal": "Environ Pollut",
+      "full_citation": "Feng Q, An C, Chen Z, Lee K, Wang Z. Identification of the driving factors of microplastic load and morphology in estuaries for improving monitoring and management strategies: A global meta-analysis. Environ Pollut. 2023;333:122014.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Detection Methods"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.722213"
+    },
+    {
+      "id": 43,
+      "first_author": "Feng Y, Tu C, Li R, Wu D, Yang J, Xia Y, et al",
+      "year": 2023,
+      "title": "A systematic review of the impacts of exposure to micro- and nano-plastics on human tissue accumulation and health",
+      "journal": "Eco Environ Health",
+      "full_citation": "Feng Y, Tu C, Li R, Wu D, Yang J, Xia Y, et al. A systematic review of the impacts of exposure to micro- and nano-plastics on human tissue accumulation and health. Eco Environ Health. 2023;2(4):195-207.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "nano-plastics",
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722260"
+    },
+    {
+      "id": 44,
+      "first_author": "Feng Y, Tu C, Li R, Wu D, Yang J, Xia Y, et al",
+      "year": 2023,
+      "title": "Corrigendum to \"A systematic review of the impacts of exposure to micro- and nano-plastics on human tissue accumulation and health\" [Eco-Environ",
+      "journal": "Eco Environ Health",
+      "full_citation": "Feng Y, Tu C, Li R, Wu D, Yang J, Xia Y, et al. Corrigendum to \"A systematic review of the impacts of exposure to micro- and nano-plastics on human tissue accumulation and health\" [Eco-Environ. Health (2023)195-207]. Eco Environ Health. 2025;4(1):100137.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "nano-plastics",
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722309"
+    },
+    {
+      "id": 45,
+      "first_author": "Ferreira ROG, Nag R, Gowen A, Xu JL",
+      "year": 2024,
+      "title": "Deciphering the cytotoxicity of micro- and nanoplastics in Caco-2 cells through meta-analysis and machine learning",
+      "journal": "Environ Pollut",
+      "full_citation": "Ferreira ROG, Nag R, Gowen A, Xu JL. Deciphering the cytotoxicity of micro- and nanoplastics in Caco-2 cells through meta-analysis and machine learning. Environ Pollut. 2024;362:124971.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Cell Lines"
+      ],
+      "keywords": [
+        "toxicity",
+        "nanoplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.722359"
+    },
+    {
+      "id": 46,
+      "first_author": "Gautam K, Pandey N, Yadav D, Parthasarathi R, Turner A, Anbumani S, et al",
+      "year": 2024,
+      "title": "Ecotoxicological impacts of landfill sites: Towards risk assessment, mitigation policies and the role of artificial intelligence",
+      "journal": "Sci Total Environ",
+      "full_citation": "Gautam K, Pandey N, Yadav D, Parthasarathi R, Turner A, Anbumani S, et al. Ecotoxicological impacts of landfill sites: Towards risk assessment, mitigation policies and the role of artificial intelligence. Sci Total Environ. 2024;927:171804.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity",
+        "Risk Assessment"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "risk assessment"
+      ],
+      "date_added": "2025-09-07T19:16:22.722460"
+    },
+    {
+      "id": 47,
+      "first_author": "Ge Y, Yang S, Zhang T, Wan X, Zhu Y, Yang F, et al",
+      "year": 2023,
+      "title": "The hepatotoxicity assessment of micro/nanoplastics: A preliminary study to apply the adverse outcome pathways",
+      "journal": "Sci Total Environ",
+      "full_citation": "Ge Y, Yang S, Zhang T, Wan X, Zhu Y, Yang F, et al. The hepatotoxicity assessment of micro/nanoplastics: A preliminary study to apply the adverse outcome pathways. Sci Total Environ. 2023;902:165659.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "toxicity",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.722518"
+    },
+    {
+      "id": 48,
+      "first_author": "Gopinath PM, Parvathi VD, Yoghalakshmi N, Kumar SM, Athulya PA, Mukherjee A, et al",
+      "year": 2022,
+      "title": "Plastic particles in medicine: A systematic review of exposure and effects to human health",
+      "journal": "Chemosphere",
+      "full_citation": "Gopinath PM, Parvathi VD, Yoghalakshmi N, Kumar SM, Athulya PA, Mukherjee A, et al. Plastic particles in medicine: A systematic review of exposure and effects to human health. Chemosphere. 2022;303(Pt 3):135227.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722562"
+    },
+    {
+      "id": 49,
+      "first_author": "Gurumoorthi K, Luis AJ",
+      "year": 2023,
+      "title": "Recent trends on microplastics abundance and risk assessment in coastal Antarctica: Regional meta-analysis",
+      "journal": "Environ Pollut",
+      "full_citation": "Gurumoorthi K, Luis AJ. Recent trends on microplastics abundance and risk assessment in coastal Antarctica: Regional meta-analysis. Environ Pollut. 2023;324:121385.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Risk Assessment"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "risk assessment",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.722610"
+    },
+    {
+      "id": 50,
+      "first_author": "Heo SJ, Moon N, Kim JH",
+      "year": 2025,
+      "title": "A systematic review and quality assessment of estimated daily intake of microplastics through food",
+      "journal": "Rev Environ Health",
+      "full_citation": "Heo SJ, Moon N, Kim JH. A systematic review and quality assessment of estimated daily intake of microplastics through food. Rev Environ Health. 2025;40(2):371-92.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Food Safety"
+      ],
+      "environment": [
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722651"
+    },
+    {
+      "id": 51,
+      "first_author": "Huang F, Hu J, Chen L, Wang Z, Sun S, Zhang W, et al",
+      "year": 2023,
+      "title": "Microplastics may increase the environmental risks of Cd via promoting Cd uptake by plants: A meta-analysis",
+      "journal": "J Hazard Mater",
+      "full_citation": "Huang F, Hu J, Chen L, Wang Z, Sun S, Zhang W, et al. Microplastics may increase the environmental risks of Cd via promoting Cd uptake by plants: A meta-analysis. J Hazard Mater. 2023;448:130887.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Environmental Distribution",
+        "Soil Science"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.722696"
+    },
+    {
+      "id": 52,
+      "first_author": "Hunt K, Davies A, Fraser A, Burden C, Howell A, Buckley K, et al",
+      "year": 2024,
+      "title": "Exposure to microplastics and human reproductive outcomes: A systematic review",
+      "journal": "Bjog",
+      "full_citation": "Hunt K, Davies A, Fraser A, Burden C, Howell A, Buckley K, et al. Exposure to microplastics and human reproductive outcomes: A systematic review. Bjog. 2024;131(5):675-83.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "exposure",
+        "microplastics",
+        "systematic review",
+        "reproductive"
+      ],
+      "date_added": "2025-09-07T19:16:22.722746"
+    },
+    {
+      "id": 53,
+      "first_author": "Husaini DC, Mendez RK, Arzu M, Harris-Thurton L",
+      "year": 2024,
+      "title": "Plastic Waste in Latin America and the Caribbean (LAC): Impact on the Environment and Public Health-A Systematic Review",
+      "journal": "J Toxicol",
+      "full_citation": "Husaini DC, Mendez RK, Arzu M, Harris-Thurton L. Plastic Waste in Latin America and the Caribbean (LAC): Impact on the Environment and Public Health-A Systematic Review. J Toxicol. 2024;2024:5698516.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.722798"
+    },
+    {
+      "id": 54,
+      "first_author": "Inam Ö",
+      "year": 2025,
+      "title": "Impact of microplastics on female reproductive health: insights from animal and human experimental studies: a systematic review",
+      "journal": "Arch Gynecol Obstet",
+      "full_citation": "Inam Ö. Impact of microplastics on female reproductive health: insights from animal and human experimental studies: a systematic review. Arch Gynecol Obstet. 2025;312(1):77-92.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans",
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review",
+        "reproductive"
+      ],
+      "date_added": "2025-09-07T19:16:22.722852"
+    },
+    {
+      "id": 55,
+      "first_author": "Iqbal S, Xu J, Arif MS, Worthy FR, Jones DL, Khan S, et al",
+      "year": 2024,
+      "title": "Do Added Microplastics, Native Soil Properties, and Prevailing Climatic Conditions Have Consequences for Carbon and Nitrogen Contents in Soil? A Global Data Synthesis of Pot and Greenhouse Studies",
+      "journal": "Environ Sci Technol",
+      "full_citation": "Iqbal S, Xu J, Arif MS, Worthy FR, Jones DL, Khan S, et al. Do Added Microplastics, Native Soil Properties, and Prevailing Climatic Conditions Have Consequences for Carbon and Nitrogen Contents in Soil? A Global Data Synthesis of Pot and Greenhouse Studies. Environ Sci Technol. 2024;58(19):8464-79.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "soil"
+      ],
+      "date_added": "2025-09-07T19:16:22.723033"
+    },
+    {
+      "id": 56,
+      "first_author": "Iqbal S, Xu J, Saleem Arif M, Shakoor A, Worthy FR, Gui H, et al",
+      "year": 2024,
+      "title": "Could soil microplastic pollution exacerbate climate change? A meta-analysis of greenhouse gas emissions and global warming potential",
+      "journal": "Environ Res",
+      "full_citation": "Iqbal S, Xu J, Saleem Arif M, Shakoor A, Worthy FR, Gui H, et al. Could soil microplastic pollution exacerbate climate change? A meta-analysis of greenhouse gas emissions and global warming potential. Environ Res. 2024;252(Pt 2):118945.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Sources",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "pollution",
+        "soil",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.723168"
+    },
+    {
+      "id": 57,
+      "first_author": "Jangid H, Dutta J, Karnwal A, Kumar G",
+      "year": 2025,
+      "title": "Microplastic contamination in fish: A systematic global review of trends, health risks, and implications for consumer safety",
+      "journal": "Mar Pollut Bull",
+      "full_citation": "Jangid H, Dutta J, Karnwal A, Kumar G. Microplastic contamination in fish: A systematic global review of trends, health risks, and implications for consumer safety. Mar Pollut Bull. 2025;219:118279.",
+      "study_type": "Review",
+      "research_focus": [
+        "Environmental Distribution",
+        "Risk Assessment",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "contamination",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.723281"
+    },
+    {
+      "id": 58,
+      "first_author": "Jia Y, Cheng Z, Peng Y, Yang G",
+      "year": 2024,
+      "title": "Microplastics alter the equilibrium of plant-soil-microbial system: A meta-analysis",
+      "journal": "Ecotoxicol Environ Saf",
+      "full_citation": "Jia Y, Cheng Z, Peng Y, Yang G. Microplastics alter the equilibrium of plant-soil-microbial system: A meta-analysis. Ecotoxicol Environ Saf. 2024;272:116082.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Toxicity",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Plants",
+        "Microorganisms"
+      ],
+      "keywords": [
+        "microplastics",
+        "soil",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.723395"
+    },
+    {
+      "id": 59,
+      "first_author": "Kataria N, Yadav S, Garg VK, Rene ER, Jiang JJ, Rose PK, et al",
+      "year": 2024,
+      "title": "Occurrence, transport, and toxicity of microplastics in tropical food chains: perspectives view and way forward",
+      "journal": "Environ Geochem Health",
+      "full_citation": "Kataria N, Yadav S, Garg VK, Rene ER, Jiang JJ, Rose PK, et al. Occurrence, transport, and toxicity of microplastics in tropical food chains: perspectives view and way forward. Environ Geochem Health. 2024;46(3):98.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity",
+        "Environmental Distribution",
+        "Food Safety"
+      ],
+      "environment": [
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "toxicity"
+      ],
+      "date_added": "2025-09-07T19:16:22.723534"
+    },
+    {
+      "id": 60,
+      "first_author": "Khu ST, Li F, Zhao W",
+      "year": 2025,
+      "title": "Microplastics in drinking water distribution systems: Occurrence, environmental behavior, and human health concerns",
+      "journal": "Environ Pollut",
+      "full_citation": "Khu ST, Li F, Zhao W. Microplastics in drinking water distribution systems: Occurrence, environmental behavior, and human health concerns. Environ Pollut. 2025;382:126666.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Human Health",
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Aquatic",
+        "Drinking Water"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "microplastics",
+        "drinking water"
+      ],
+      "date_added": "2025-09-07T19:16:22.723613"
+    },
+    {
+      "id": 61,
+      "first_author": "Kumar M, Chaudhary V, Chaudhary V, Srivastav AL, Madhav S",
+      "year": 2024,
+      "title": "Impacts of microplastics on ecosystem services and their microbial degradation: a systematic review of the recent state of the art and future prospects",
+      "journal": "Environ Sci Pollut Res Int",
+      "full_citation": "Kumar M, Chaudhary V, Chaudhary V, Srivastav AL, Madhav S. Impacts of microplastics on ecosystem services and their microbial degradation: a systematic review of the recent state of the art and future prospects. Environ Sci Pollut Res Int. 2024;31(55):63524-75.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Ecological Effects",
+        "Remediation"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Microorganisms"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.723678"
+    },
+    {
+      "id": 62,
+      "first_author": "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Garcia BDG",
+      "year": 2025,
+      "title": "Unraveling microplastic behavior in simulated digestion: Methods, insights, and standardization",
+      "journal": "J Hazard Mater",
+      "full_citation": "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Garcia BDG. Unraveling microplastic behavior in simulated digestion: Methods, insights, and standardization. J Hazard Mater. 2025;493:138340.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.723738"
+    },
+    {
+      "id": 63,
+      "first_author": "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Roy PD",
+      "year": 2023,
+      "title": "Microplastic diagnostics in humans: \"The 3Ps\" Progress, problems, and prospects",
+      "journal": "Sci Total Environ",
+      "full_citation": "Kutralam-Muniasamy G, Shruti VC, Pérez-Guevara F, Roy PD. Microplastic diagnostics in humans: \"The 3Ps\" Progress, problems, and prospects. Sci Total Environ. 2023;856(Pt 2):159164.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.723791"
+    },
+    {
+      "id": 64,
+      "first_author": "Lee J, Jeong S",
+      "year": 2023,
+      "title": "Approach to an answer to \"How dangerous microplastics are to the human body\": A systematic review of the quantification of MPs and simultaneously exposed chemicals",
+      "journal": "J Hazard Mater",
+      "full_citation": "Lee J, Jeong S. Approach to an answer to \"How dangerous microplastics are to the human body\": A systematic review of the quantification of MPs and simultaneously exposed chemicals. J Hazard Mater. 2023;460:132404.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Detection Methods"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "microplastics",
+        "quantification",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.723853"
+    },
+    {
+      "id": 65,
+      "first_author": "Leso V, Battistini B, Vetrani I, Reppuccia L, Fedele M, Ruggieri F, et al",
+      "year": 2023,
+      "title": "The endocrine disrupting effects of nanoplastic exposure: A systematic review",
+      "journal": "Toxicol Ind Health",
+      "full_citation": "Leso V, Battistini B, Vetrani I, Reppuccia L, Fedele M, Ruggieri F, et al. The endocrine disrupting effects of nanoplastic exposure: A systematic review. Toxicol Ind Health. 2023;39(11):613-29.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.723902"
+    },
+    {
+      "id": 66,
+      "first_author": "Li Y, Ling W, Hou C, Yang J, Xing Y, Lu Q, et al",
+      "year": 2025,
+      "title": "Global distribution characteristics and ecological risk assessment of microplastics in aquatic organisms based on meta-analysis",
+      "journal": "J Hazard Mater",
+      "full_citation": "Li Y, Ling W, Hou C, Yang J, Xing Y, Lu Q, et al. Global distribution characteristics and ecological risk assessment of microplastics in aquatic organisms based on meta-analysis. J Hazard Mater. 2025;491:137977.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Environmental Distribution",
+        "Ecological Effects",
+        "Risk Assessment"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "microplastics",
+        "risk assessment",
+        "meta-analysis",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.723961"
+    },
+    {
+      "id": 67,
+      "first_author": "Li Y, Zhao L, An Y, Qin L, Qiao Z, Chen D, et al",
+      "year": 2024,
+      "title": "Bibliometric analysis and systematic review of the adherence, uptake, translocation, and reduction of micro/nanoplastics in terrestrial plants",
+      "journal": "Sci Total Environ",
+      "full_citation": "Li Y, Zhao L, An Y, Qin L, Qiao Z, Chen D, et al. Bibliometric analysis and systematic review of the adherence, uptake, translocation, and reduction of micro/nanoplastics in terrestrial plants. Sci Total Environ. 2024;906:167786.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "systematic review",
+        "nanoplastics",
+        "terrestrial"
+      ],
+      "date_added": "2025-09-07T19:16:22.724026"
+    },
+    {
+      "id": 68,
+      "first_author": "Lin HT, Schneider F, Aziz MA, Wong KY, Arunachalam KD, Praveena SM, et al",
+      "year": 2024,
+      "title": "Microplastics in Asian rivers: Geographical distribution, most detected types, and inconsistency in methodologies",
+      "journal": "Environ Pollut",
+      "full_citation": "Lin HT, Schneider F, Aziz MA, Wong KY, Arunachalam KD, Praveena SM, et al. Microplastics in Asian rivers: Geographical distribution, most detected types, and inconsistency in methodologies. Environ Pollut. 2024;349:123985.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.724089"
+    },
+    {
+      "id": 69,
+      "first_author": "Liu L, Wang Z, Ye Y, Qi K",
+      "year": 2023,
+      "title": "Effects of agricultural land types on microplastic abundance: A nationwide meta-analysis in China",
+      "journal": "Sci Total Environ",
+      "full_citation": "Liu L, Wang Z, Ye Y, Qi K. Effects of agricultural land types on microplastic abundance: A nationwide meta-analysis in China. Sci Total Environ. 2023;892:164400.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.724144"
+    },
+    {
+      "id": 70,
+      "first_author": "Liu S, Junaid M, Sadaf M, Ai W, Lan X, Wang J",
+      "year": 2023,
+      "title": "A novel framework-based meta-analysis for in-depth characterization of microplastic pollution and associated ecological risks in Chinese Bays",
+      "journal": "J Hazard Mater",
+      "full_citation": "Liu S, Junaid M, Sadaf M, Ai W, Lan X, Wang J. A novel framework-based meta-analysis for in-depth characterization of microplastic pollution and associated ecological risks in Chinese Bays. J Hazard Mater. 2023;444(Pt B):130423.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Ecological Effects"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "pollution",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.724208"
+    },
+    {
+      "id": 71,
+      "first_author": "Liu W, Zhang B, Yao Q, Feng X, Shen T, Guo P, et al",
+      "year": 2023,
+      "title": "Toxicological effects of micro/nano-plastics on mouse/rat models: a systematic review and meta-analysis",
+      "journal": "Front Public Health",
+      "full_citation": "Liu W, Zhang B, Yao Q, Feng X, Shen T, Guo P, et al. Toxicological effects of micro/nano-plastics on mouse/rat models: a systematic review and meta-analysis. Front Public Health. 2023;11:1103289.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "nano-plastics",
+        "systematic review",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.724268"
+    },
+    {
+      "id": 72,
+      "first_author": "Liu Y, Cao Y, Li H, Liu H, Bi L, Chen Q, et al",
+      "year": 2024,
+      "title": "A systematic review of microplastics emissions in kitchens: Understanding the links with diseases in daily life",
+      "journal": "Environ Int",
+      "full_citation": "Liu Y, Cao Y, Li H, Liu H, Bi L, Chen Q, et al. A systematic review of microplastics emissions in kitchens: Understanding the links with diseases in daily life. Environ Int. 2024;188:108740.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Sources"
+      ],
+      "environment": [
+        "Marine",
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.724322"
+    },
+    {
+      "id": 73,
+      "first_author": "Ma W, Wang Q, Mak-Mensah E, Zhao X, Qi W, Zhu J, et al",
+      "year": 2005,
+      "title": "Ecological risk assessment of emerging contaminants on soil and terrestrial ecosystems (2005-2024): a bibliometric and scientometric review",
+      "journal": "Environ Geochem Health",
+      "full_citation": "Ma W, Wang Q, Mak-Mensah E, Zhao X, Qi W, Zhu J, et al. Ecological risk assessment of emerging contaminants on soil and terrestrial ecosystems (2005-2024): a bibliometric and scientometric review. Environ Geochem Health. 2025;47(5):179.",
+      "study_type": "Review",
+      "research_focus": [
+        "Ecological Effects",
+        "Risk Assessment",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "terrestrial",
+        "risk assessment",
+        "soil"
+      ],
+      "date_added": "2025-09-07T19:16:22.724382"
+    },
+    {
+      "id": 74,
+      "first_author": "Maia A, Vieira-Coelho MA",
+      "year": 2024,
+      "title": "The impact of exposure to phthalates in thyroid function of children and adolescents: a systematic review",
+      "journal": "Eur J Pediatr",
+      "full_citation": "Maia A, Vieira-Coelho MA. The impact of exposure to phthalates in thyroid function of children and adolescents: a systematic review. Eur J Pediatr. 2024;184(1):111.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.724439"
+    },
+    {
+      "id": 75,
+      "first_author": "Mashayekhi-Sardoo H, Ghoreshi ZA, Askarpour H, Arefinia N, Ali-Hassanzadeh M",
+      "year": 2025,
+      "title": "The clinical relevance of microplastic exposure on colorectal cancer: A systematic review",
+      "journal": "Cancer Epidemiol",
+      "full_citation": "Mashayekhi-Sardoo H, Ghoreshi ZA, Askarpour H, Arefinia N, Ali-Hassanzadeh M. The clinical relevance of microplastic exposure on colorectal cancer: A systematic review. Cancer Epidemiol. 2025;97:102840.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Cancer"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.724498"
+    },
+    {
+      "id": 76,
+      "first_author": "Medley EA, Spratlen MJ, Yan B, Herbstman JB, Deyssenroth MA",
+      "year": 2023,
+      "title": "A Systematic Review of the Placental Translocation of Micro- and Nanoplastics",
+      "journal": "Curr Environ Health Rep",
+      "full_citation": "Medley EA, Spratlen MJ, Yan B, Herbstman JB, Deyssenroth MA. A Systematic Review of the Placental Translocation of Micro- and Nanoplastics. Curr Environ Health Rep. 2023;10(2):99-111.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.724549"
+    },
+    {
+      "id": 77,
+      "first_author": "Mondal R, Sarkar DJ, Bhattacharyya S, Raja R, Chaudhuri P, Biswas JK, et al",
+      "year": 2025,
+      "title": "Health risk assessment of microplastics contamination in the daily diet of South Asian countries",
+      "journal": "J Hazard Mater",
+      "full_citation": "Mondal R, Sarkar DJ, Bhattacharyya S, Raja R, Chaudhuri P, Biswas JK, et al. Health risk assessment of microplastics contamination in the daily diet of South Asian countries. J Hazard Mater. 2025;494:138527.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution",
+        "Risk Assessment",
+        "Food Safety"
+      ],
+      "environment": [
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "contamination",
+        "microplastics",
+        "risk assessment"
+      ],
+      "date_added": "2025-09-07T19:16:22.724612"
+    },
+    {
+      "id": 78,
+      "first_author": "Montezuma T, Probst LF, Almeida MO",
+      "year": 2024,
+      "title": "Effectiveness and safety of biological and target synthetic drugs treatment for psoriatic arthritis: a systematic review with network meta-analysis",
+      "journal": "Adv Rheumatol",
+      "full_citation": "Montezuma T, Probst LF, Almeida MO. Effectiveness and safety of biological and target synthetic drugs treatment for psoriatic arthritis: a systematic review with network meta-analysis. Adv Rheumatol. 2024;64(1):21.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Remediation",
+        "Risk Assessment"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.724685"
+    },
+    {
+      "id": 79,
+      "first_author": "Naudet J, d'Orbcastel ER, Bouvier T, Auguet JC",
+      "year": 2025,
+      "title": "Plastic-associated pathogens in marine environments: a meta-analysis",
+      "journal": "Mar Pollut Bull",
+      "full_citation": "Naudet J, d'Orbcastel ER, Bouvier T, Auguet JC. Plastic-associated pathogens in marine environments: a meta-analysis. Mar Pollut Bull. 2025;219:118266.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "marine",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.724734"
+    },
+    {
+      "id": 80,
+      "first_author": "Ningrum PT, Keman S, Sulistyorini L, Sudiana IK, Hidayat A, Negoro AHS, et al",
+      "year": 2024,
+      "title": "A systematic review of the effects of airborne microplastic contamination on human lungs",
+      "journal": "Afr J Reprod Health",
+      "full_citation": "Ningrum PT, Keman S, Sulistyorini L, Sudiana IK, Hidayat A, Negoro AHS, et al. A systematic review of the effects of airborne microplastic contamination on human lungs. Afr J Reprod Health. 2024;28(10s):430-48.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Air"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "contamination",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.724791"
+    },
+    {
+      "id": 81,
+      "first_author": "Nodehi RN, Hadi M, Hosseinzadeh A, Azizi N",
+      "year": 2024,
+      "title": "Comprehensive systematic review and meta-analysis of microplastic prevalence and abundance in freshwater fish species: the effect of fish species habitat, feeding behavior, and Fulton's condition factor",
+      "journal": "J Environ Health Sci Eng",
+      "full_citation": "Nodehi RN, Hadi M, Hosseinzadeh A, Azizi N. Comprehensive systematic review and meta-analysis of microplastic prevalence and abundance in freshwater fish species: the effect of fish species habitat, feeding behavior, and Fulton's condition factor. J Environ Health Sci Eng. 2024;22(2):365-80.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Marine Biology"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "systematic review",
+        "meta-analysis",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.724864"
+    },
+    {
+      "id": 82,
+      "first_author": "Nugawela N, Mahaliyana AS, Abhiram G, Abeygunawardena AP",
+      "year": 2023,
+      "title": "A meta-analytic review of microplastic pollution in the Indian Ocean: Ecological health and seafood safety risk implications",
+      "journal": "Mar Pollut Bull",
+      "full_citation": "Nugawela N, Mahaliyana AS, Abhiram G, Abeygunawardena AP. A meta-analytic review of microplastic pollution in the Indian Ocean: Ecological health and seafood safety risk implications. Mar Pollut Bull. 2023;193:115213.",
+      "study_type": "Review",
+      "research_focus": [
+        "Ecological Effects",
+        "Risk Assessment",
+        "Marine Biology",
+        "Food Safety"
+      ],
+      "environment": [
+        "Marine",
+        "Food System"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "seafood",
+        "pollution",
+        "food safety"
+      ],
+      "date_added": "2025-09-07T19:16:22.724929"
+    },
+    {
+      "id": 83,
+      "first_author": "Nwanaforo E, Obasi CN, Frazzoli C, Bede-Ojimadu O, Orisakwe OE",
+      "year": 2024,
+      "title": "Exposure to Environmental Pollutants and Risk of Diarrhea: A Systematic Review",
+      "journal": "Environ Health Insights",
+      "full_citation": "Nwanaforo E, Obasi CN, Frazzoli C, Bede-Ojimadu O, Orisakwe OE. Exposure to Environmental Pollutants and Risk of Diarrhea: A Systematic Review. Environ Health Insights. 2024;18:11786302241304539.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.724984"
+    },
+    {
+      "id": 84,
+      "first_author": "Oza J, Rabari V, Yadav VK, Sahoo DK, Patel A, Trivedi J",
+      "year": 2024,
+      "title": "A Systematic Review on Microplastic Contamination in Fishes of Asia: Polymeric Risk Assessment and Future Prospectives",
+      "journal": "Environ Toxicol Chem",
+      "full_citation": "Oza J, Rabari V, Yadav VK, Sahoo DK, Patel A, Trivedi J. A Systematic Review on Microplastic Contamination in Fishes of Asia: Polymeric Risk Assessment and Future Prospectives. Environ Toxicol Chem. 2024;43(4):671-85.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity",
+        "Environmental Distribution",
+        "Risk Assessment",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "contamination",
+        "risk assessment",
+        "polymer",
+        "fish",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.725043"
+    },
+    {
+      "id": 85,
+      "first_author": "Parker B, Britton JR, Green ID, Jackson MC, Andreou D",
+      "year": 2024,
+      "title": "Microplastic-stressor responses are rarely synergistic in freshwater fishes: A meta-analysis",
+      "journal": "Sci Total Environ",
+      "full_citation": "Parker B, Britton JR, Green ID, Jackson MC, Andreou D. Microplastic-stressor responses are rarely synergistic in freshwater fishes: A meta-analysis. Sci Total Environ. 2024;947:174566.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Marine Biology"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "meta-analysis",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.725096"
+    },
+    {
+      "id": 86,
+      "first_author": "Piyathilake U, Lin C, Bundschuh J, Herath I",
+      "year": 2023,
+      "title": "A review on constructive classification framework of research trends in analytical instrumentation for secondary micro(nano)plastics: What is new and what needs next? Environ Pollut",
+      "journal": "A review on constructive classification framework of research trends in analytical instrumentation for secondary micro(nano)plastics: What is new and what needs next? Environ Pollut",
+      "full_citation": "Piyathilake U, Lin C, Bundschuh J, Herath I. A review on constructive classification framework of research trends in analytical instrumentation for secondary micro(nano)plastics: What is new and what needs next? Environ Pollut. 2023;335:122320.",
+      "study_type": "Review",
+      "research_focus": [
+        "Detection Methods"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.725184"
+    },
+    {
+      "id": 87,
+      "first_author": "Pulvirenti E, Ferrante M, Barbera N, Favara C, Aquilia E, Palella M, et al",
+      "year": 2022,
+      "title": "Effects of Nano and Microplastics on the Inflammatory Process: In Vitro and In Vivo Studies Systematic Review",
+      "journal": "Front Biosci (Landmark Ed)",
+      "full_citation": "Pulvirenti E, Ferrante M, Barbera N, Favara C, Aquilia E, Palella M, et al. Effects of Nano and Microplastics on the Inflammatory Process: In Vitro and In Vivo Studies Systematic Review. Front Biosci (Landmark Ed). 2022;27(10):287.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Cell Lines"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.725245"
+    },
+    {
+      "id": 88,
+      "first_author": "Qualhato G, Vieira LG, Oliveira M, Rocha TL",
+      "year": 2023,
+      "title": "Plastic microfibers as a risk factor for the health of aquatic organisms: A bibliometric and systematic review of plastic pandemic",
+      "journal": "Sci Total Environ",
+      "full_citation": "Qualhato G, Vieira LG, Oliveira M, Rocha TL. Plastic microfibers as a risk factor for the health of aquatic organisms: A bibliometric and systematic review of plastic pandemic. Sci Total Environ. 2023;870:161949.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Ecological Effects"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "systematic review",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.725300"
+    },
+    {
+      "id": 89,
+      "first_author": "Rodrigues SM, Elliott M, Almeida CMR, Ramos S",
+      "year": 2021,
+      "title": "Microplastics and plankton: Knowledge from laboratory and field studies to distinguish contamination from pollution",
+      "journal": "J Hazard Mater",
+      "full_citation": "Rodrigues SM, Elliott M, Almeida CMR, Ramos S. Microplastics and plankton: Knowledge from laboratory and field studies to distinguish contamination from pollution. J Hazard Mater. 2021;417:126057.",
+      "study_type": "In Vivo",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "contamination",
+        "pollution",
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.725357"
+    },
+    {
+      "id": 90,
+      "first_author": "Ryan-Ndegwa S, Zamani R, Martins T",
+      "year": 2024,
+      "title": "Exploring the Human Health Impact of Artificial Turf Worldwide: A Systematic Review",
+      "journal": "Environ Health Insights",
+      "full_citation": "Ryan-Ndegwa S, Zamani R, Martins T. Exploring the Human Health Impact of Artificial Turf Worldwide: A Systematic Review. Environ Health Insights. 2024;18:11786302241306291.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.725406"
+    },
+    {
+      "id": 91,
+      "first_author": "Salerno M, Berlino M, Mangano MC, Sarà G",
+      "year": 2021,
+      "title": "Microplastics and the functional traits of fishes: A global meta-analysis",
+      "journal": "Glob Chang Biol",
+      "full_citation": "Salerno M, Berlino M, Mangano MC, Sarà G. Microplastics and the functional traits of fishes: A global meta-analysis. Glob Chang Biol. 2021;27(12):2645-55.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Marine Biology"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Fish"
+      ],
+      "keywords": [
+        "microplastics",
+        "meta-analysis",
+        "fish"
+      ],
+      "date_added": "2025-09-07T19:16:22.725456"
+    },
+    {
+      "id": 92,
+      "first_author": "Seifi Z, Zarei F, Ahmadi F",
+      "year": 2025,
+      "title": "The effect of an educational intervention based on a mobile application on women's knowledge, attitudes, and practices with respect to microplastics and health: a randomized controlled trial",
+      "journal": "BMC Public Health",
+      "full_citation": "Seifi Z, Zarei F, Ahmadi F. The effect of an educational intervention based on a mobile application on women's knowledge, attitudes, and practices with respect to microplastics and health: a randomized controlled trial. BMC Public Health. 2025;25(1):1762.",
+      "study_type": "Randomized Controlled Trial",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.725527"
+    },
+    {
+      "id": 93,
+      "first_author": "Sharma RK, Kumari U, Kumar S",
+      "year": 2024,
+      "title": "Impact of Microplastics on Pregnancy and Fetal Development: A Systematic Review",
+      "journal": "Cureus",
+      "full_citation": "Sharma RK, Kumari U, Kumar S. Impact of Microplastics on Pregnancy and Fetal Development: A Systematic Review. Cureus. 2024;16(5):e60712.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.725574"
+    },
+    {
+      "id": 94,
+      "first_author": "Shruti VC, Kutralam-Muniasamy G, Pérez-Guevara F",
+      "year": 2023,
+      "title": "Do microbial decomposers find micro- and nanoplastics to be harmful stressors in the aquatic environment? A systematic review of in vitro toxicological research",
+      "journal": "Sci Total Environ",
+      "full_citation": "Shruti VC, Kutralam-Muniasamy G, Pérez-Guevara F. Do microbial decomposers find micro- and nanoplastics to be harmful stressors in the aquatic environment? A systematic review of in vitro toxicological research. Sci Total Environ. 2023;903:166561.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Aquatic",
+        "Marine",
+        "Laboratory"
+      ],
+      "organisms": [
+        "Microorganisms",
+        "Cell Lines"
+      ],
+      "keywords": [
+        "systematic review",
+        "nanoplastics",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.725635"
+    },
+    {
+      "id": 95,
+      "first_author": "Skaba D, Fiegler-Rudol J, Dembicka-Mączka D, Wiench R",
+      "year": 2025,
+      "title": "Nanoplastics and Immune Disruption: A Systematic Review of Exposure Routes, Mechanisms, and Health Implications",
+      "journal": "Int J Mol Sci",
+      "full_citation": "Skaba D, Fiegler-Rudol J, Dembicka-Mączka D, Wiench R. Nanoplastics and Immune Disruption: A Systematic Review of Exposure Routes, Mechanisms, and Health Implications. Int J Mol Sci. 2025;26(11).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.725695"
+    },
+    {
+      "id": 96,
+      "first_author": "Sojobi AO, Zayed T",
+      "year": 2022,
+      "title": "Impact of sewer overflow on public health: A comprehensive scientometric analysis and systematic review",
+      "journal": "Environ Res",
+      "full_citation": "Sojobi AO, Zayed T. Impact of sewer overflow on public health: A comprehensive scientometric analysis and systematic review. Environ Res. 2022;203:111609.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.725747"
+    },
+    {
+      "id": 97,
+      "first_author": "Song X, Zhuang W, Cui H, Liu M, Gao T, Li A, et al",
+      "year": 2022,
+      "title": "Interactions of microplastics with organic, inorganic and bio-pollutants and the ecotoxicological effects on terrestrial and aquatic organisms",
+      "journal": "Sci Total Environ",
+      "full_citation": "Song X, Zhuang W, Cui H, Liu M, Gao T, Li A, et al. Interactions of microplastics with organic, inorganic and bio-pollutants and the ecotoxicological effects on terrestrial and aquatic organisms. Sci Total Environ. 2022;838(Pt 2):156068.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity",
+        "Ecological Effects",
+        "Soil Science"
+      ],
+      "environment": [
+        "Aquatic",
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Fish",
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "terrestrial",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.725811"
+    },
+    {
+      "id": 98,
+      "first_author": "Spindola Vilela CL, Damasceno TL, Thomas T, Peixoto RS",
+      "year": 2022,
+      "title": "Global qualitative and quantitative distribution of micropollutants in the deep sea",
+      "journal": "Environ Pollut",
+      "full_citation": "Spindola Vilela CL, Damasceno TL, Thomas T, Peixoto RS. Global qualitative and quantitative distribution of micropollutants in the deep sea. Environ Pollut. 2022;307:119414.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.725861"
+    },
+    {
+      "id": 99,
+      "first_author": "Subramanian D, Ponnusamy Manogaran G, Dharmadurai D",
+      "year": 2024,
+      "title": "A systematic review on the impact of micro-nanoplastics on human health: Potential modulation of epigenetic mechanisms and identification of biomarkers",
+      "journal": "Chemosphere",
+      "full_citation": "Subramanian D, Ponnusamy Manogaran G, Dharmadurai D. A systematic review on the impact of micro-nanoplastics on human health: Potential modulation of epigenetic mechanisms and identification of biomarkers. Chemosphere. 2024;363:142986.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Human Health",
+        "Detection Methods"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.725920"
+    },
+    {
+      "id": 100,
+      "first_author": "Sun N, Shi H, Li X, Gao C, Liu R",
+      "year": 2023,
+      "title": "Combined toxicity of micro/nanoplastics loaded with environmental pollutants to organisms and cells: Role, effects, and mechanism",
+      "journal": "Environ Int",
+      "full_citation": "Sun N, Shi H, Li X, Gao C, Liu R. Combined toxicity of micro/nanoplastics loaded with environmental pollutants to organisms and cells: Role, effects, and mechanism. Environ Int. 2023;171:107711.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity",
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Cell Lines"
+      ],
+      "keywords": [
+        "toxicity",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.725976"
+    },
+    {
+      "id": 101,
+      "first_author": "Sun T, Zhan J, Li F, Ji C, Wu H",
+      "year": 2021,
+      "title": "Evidence-based meta-analysis of the genotoxicity induced by microplastics in aquatic organisms at environmentally relevant concentrations",
+      "journal": "Sci Total Environ",
+      "full_citation": "Sun T, Zhan J, Li F, Ji C, Wu H. Evidence-based meta-analysis of the genotoxicity induced by microplastics in aquatic organisms at environmentally relevant concentrations. Sci Total Environ. 2021;783:147076.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Toxicity",
+        "Environmental Distribution",
+        "Ecological Effects"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Fish",
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "microplastics",
+        "toxicity",
+        "meta-analysis",
+        "aquatic"
+      ],
+      "date_added": "2025-09-07T19:16:22.726031"
+    },
+    {
+      "id": 102,
+      "first_author": "Sun XL, Xiang H, Xiong HQ, Fang YC, Wang Y",
+      "year": 2023,
+      "title": "Bioremediation of microplastics in freshwater environments: A systematic review of biofilm culture, degradation mechanisms, and analytical methods",
+      "journal": "Sci Total Environ",
+      "full_citation": "Sun XL, Xiang H, Xiong HQ, Fang YC, Wang Y. Bioremediation of microplastics in freshwater environments: A systematic review of biofilm culture, degradation mechanisms, and analytical methods. Sci Total Environ. 2023;863:160953.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Detection Methods",
+        "Remediation"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Microorganisms"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726089"
+    },
+    {
+      "id": 103,
+      "first_author": "Sun Y, Yuan J, Zhou T, Zhao Y, Yu F, Ma J",
+      "year": 2020,
+      "title": "Laboratory simulation of microplastics weathering and its adsorption behaviors in an aqueous environment: A systematic review",
+      "journal": "Environ Pollut",
+      "full_citation": "Sun Y, Yuan J, Zhou T, Zhao Y, Yu F, Ma J. Laboratory simulation of microplastics weathering and its adsorption behaviors in an aqueous environment: A systematic review. Environ Pollut. 2020;265(Pt B):114864.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726144"
+    },
+    {
+      "id": 104,
+      "first_author": "Symeonides C, Aromataris E, Mulders Y, Dizon J, Stern C, Barker TH, et al",
+      "year": 2024,
+      "title": "An Umbrella Review of Meta-Analyses Evaluating Associations between Human Health and Exposure to Major Classes of Plastic-Associated Chemicals",
+      "journal": "Ann Glob Health",
+      "full_citation": "Symeonides C, Aromataris E, Mulders Y, Dizon J, Stern C, Barker TH, et al. An Umbrella Review of Meta-Analyses Evaluating Associations between Human Health and Exposure to Major Classes of Plastic-Associated Chemicals. Ann Glob Health. 2024;90(1):52.",
+      "study_type": "Review",
+      "research_focus": [
+        "Human Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "exposure"
+      ],
+      "date_added": "2025-09-07T19:16:22.726201"
+    },
+    {
+      "id": 105,
+      "first_author": "Tang L, Feng JC, Li C, Liang J, Zhang S, Yang Z",
+      "year": 2023,
+      "title": "Global occurrence, drivers, and environmental risks of microplastics in marine environments",
+      "journal": "J Environ Manage",
+      "full_citation": "Tang L, Feng JC, Li C, Liang J, Zhang S, Yang Z. Global occurrence, drivers, and environmental risks of microplastics in marine environments. J Environ Manage. 2023;329:116961.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Environmental Distribution",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "marine",
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.726252"
+    },
+    {
+      "id": 106,
+      "first_author": "Tedesco MC, Fisher RM, Stuetz RM",
+      "year": 2024,
+      "title": "Emission of fibres from textiles: A critical and systematic review of mechanisms of release during machine washing",
+      "journal": "Sci Total Environ",
+      "full_citation": "Tedesco MC, Fisher RM, Stuetz RM. Emission of fibres from textiles: A critical and systematic review of mechanisms of release during machine washing. Sci Total Environ. 2024;955:177090.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Sources"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726303"
+    },
+    {
+      "id": 107,
+      "first_author": "Truchet DM, Buzzi NS, Moulatlet GM, Capparelli MV",
+      "year": 2023,
+      "title": "Macroecotoxicological approaches to emerging patterns of microplastic bioaccumulation in crabs from estuarine and marine environments",
+      "journal": "Sci Total Environ",
+      "full_citation": "Truchet DM, Buzzi NS, Moulatlet GM, Capparelli MV. Macroecotoxicological approaches to emerging patterns of microplastic bioaccumulation in crabs from estuarine and marine environments. Sci Total Environ. 2023;870:161912.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Toxicity",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "bioaccumulation",
+        "marine"
+      ],
+      "date_added": "2025-09-07T19:16:22.726361"
+    },
+    {
+      "id": 108,
+      "first_author": "Ullah R, Tsui MT, Chow A, Chen H, Williams C, Ligaba-Osena A",
+      "year": 2022,
+      "title": "Micro(nano)plastic pollution in terrestrial ecosystem: emphasis on impacts of polystyrene on soil biota, plants, animals, and humans",
+      "journal": "Environ Monit Assess",
+      "full_citation": "Ullah R, Tsui MT, Chow A, Chen H, Williams C, Ligaba-Osena A. Micro(nano)plastic pollution in terrestrial ecosystem: emphasis on impacts of polystyrene on soil biota, plants, animals, and humans. Environ Monit Assess. 2022;195(1):252.",
+      "study_type": "In Vivo",
+      "research_focus": [
+        "Ecological Effects",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Humans",
+        "Plants",
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "pollution",
+        "terrestrial",
+        "soil",
+        "polystyrene"
+      ],
+      "date_added": "2025-09-07T19:16:22.726417"
+    },
+    {
+      "id": 109,
+      "first_author": "Vázquez OA, Rahman MS",
+      "year": 2021,
+      "title": "An ecotoxicological approach to microplastics on terrestrial and aquatic organisms: A systematic review in assessment, monitoring and biological impact",
+      "journal": "Environ Toxicol Pharmacol",
+      "full_citation": "Vázquez OA, Rahman MS. An ecotoxicological approach to microplastics on terrestrial and aquatic organisms: A systematic review in assessment, monitoring and biological impact. Environ Toxicol Pharmacol. 2021;84:103615.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity",
+        "Ecological Effects",
+        "Soil Science"
+      ],
+      "environment": [
+        "Aquatic",
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Fish",
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "terrestrial",
+        "aquatic",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726476"
+    },
+    {
+      "id": 110,
+      "first_author": "Vdovchenko A, Resmini M",
+      "year": 2024,
+      "title": "Mapping Microplastics in Humans: Analysis of Polymer Types, and Shapes in Food and Drinking Water-A Systematic Review",
+      "journal": "Int J Mol Sci",
+      "full_citation": "Vdovchenko A, Resmini M. Mapping Microplastics in Humans: Analysis of Polymer Types, and Shapes in Food and Drinking Water-A Systematic Review. Int J Mol Sci. 2024;25(13).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Food Safety"
+      ],
+      "environment": [
+        "Aquatic",
+        "Food System",
+        "Drinking Water"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "drinking water",
+        "microplastics",
+        "polymer",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726527"
+    },
+    {
+      "id": 111,
+      "first_author": "Velis CA, Cook E",
+      "year": 2021,
+      "title": "Mismanagement of Plastic Waste through Open Burning with Emphasis on the Global South: A Systematic Review of Risks to Occupational and Public Health",
+      "journal": "Environ Sci Technol",
+      "full_citation": "Velis CA, Cook E. Mismanagement of Plastic Waste through Open Burning with Emphasis on the Global South: A Systematic Review of Risks to Occupational and Public Health. Environ Sci Technol. 2021;55(11):7186-207.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726585"
+    },
+    {
+      "id": 112,
+      "first_author": "Viana M, Tonin FS, Ladeira C",
+      "year": 2025,
+      "title": "Assessing the Impact of Nanoplastics in Biological Systems: Systematic Review of In Vitro Animal Studies",
+      "journal": "J Xenobiot",
+      "full_citation": "Viana M, Tonin FS, Ladeira C. Assessing the Impact of Nanoplastics in Biological Systems: Systematic Review of In Vitro Animal Studies. J Xenobiot. 2025;15(3).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Laboratory"
+      ],
+      "organisms": [
+        "Laboratory Animals",
+        "Cell Lines"
+      ],
+      "keywords": [
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.726634"
+    },
+    {
+      "id": 113,
+      "first_author": "Volsa AM, Iacono E, Merlo B",
+      "year": 2025,
+      "title": "Micro-nanoplastics pollution and mammalian fertility: A systematic review and meta-analysis",
+      "journal": "Theriogenology",
+      "full_citation": "Volsa AM, Iacono E, Merlo B. Micro-nanoplastics pollution and mammalian fertility: A systematic review and meta-analysis. Theriogenology. 2025;238:117369.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Reproductive Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Mammals"
+      ],
+      "keywords": [
+        "pollution",
+        "systematic review",
+        "nanoplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.726681"
+    },
+    {
+      "id": 114,
+      "first_author": "Wan L, Cheng H, Liu Y, Shen Y, Liu G, Su X",
+      "year": 2023,
+      "title": "Global meta-analysis reveals differential effects of microplastics on soil ecosystem",
+      "journal": "Sci Total Environ",
+      "full_citation": "Wan L, Cheng H, Liu Y, Shen Y, Liu G, Su X. Global meta-analysis reveals differential effects of microplastics on soil ecosystem. Sci Total Environ. 2023;867:161403.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Ecological Effects",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "soil",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.726728"
+    },
+    {
+      "id": 115,
+      "first_author": "Wang C, Luo Q, Zhang J, Zhang X, Yang N, Feng L",
+      "year": 2023,
+      "title": "Toxic effects of microplastics and nanoplastics on plants: A global meta-analysis",
+      "journal": "Environ Pollut",
+      "full_citation": "Wang C, Luo Q, Zhang J, Zhang X, Yang N, Feng L. Toxic effects of microplastics and nanoplastics on plants: A global meta-analysis. Environ Pollut. 2023;337:122593.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Toxicity",
+        "Soil Science"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Plants"
+      ],
+      "keywords": [
+        "microplastics",
+        "nanoplastics",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.726773"
+    },
+    {
+      "id": 116,
+      "first_author": "Wang H, Luo Z, Yu R, Yan C, Zhou S, Xing B",
+      "year": 2023,
+      "title": "Tire wear particles: Trends from bibliometric analysis, environmental distribution with meta-analysis, and implications",
+      "journal": "Environ Pollut",
+      "full_citation": "Wang H, Luo Z, Yu R, Yan C, Zhou S, Xing B. Tire wear particles: Trends from bibliometric analysis, environmental distribution with meta-analysis, and implications. Environ Pollut. 2023;322:121150.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.726827"
+    },
+    {
+      "id": 117,
+      "first_author": "Wang L, Yang T, Liu X, Liu J, Liu W",
+      "year": 2024,
+      "title": "Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species",
+      "journal": "Environ Sci Technol",
+      "full_citation": "Wang L, Yang T, Liu X, Liu J, Liu W. Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species. Environ Sci Technol. 2024;58(40):17555-66.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Aquatic"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.726882"
+    },
+    {
+      "id": 118,
+      "first_author": "Wang Q, Gao Y, Tang X, Yang Z, Tang L, Luo G, et al",
+      "year": 2025,
+      "title": "How aging microplastics influence heavy metal environmental fate and bioavailability: A systematic review",
+      "journal": "Environ Res",
+      "full_citation": "Wang Q, Gao Y, Tang X, Yang Z, Tang L, Luo G, et al. How aging microplastics influence heavy metal environmental fate and bioavailability: A systematic review. Environ Res. 2025;271:121128.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Environmental Distribution"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.726933"
+    },
+    {
+      "id": 119,
+      "first_author": "Woh PY, Shiu HY, Fang JK",
+      "year": 2024,
+      "title": "Microplastics in seafood: Navigating the silent health threat and intestinal implications through a One Health food safety lens",
+      "journal": "J Hazard Mater",
+      "full_citation": "Woh PY, Shiu HY, Fang JK. Microplastics in seafood: Navigating the silent health threat and intestinal implications through a One Health food safety lens. J Hazard Mater. 2024;480:136350.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Risk Assessment",
+        "Marine Biology",
+        "Food Safety"
+      ],
+      "environment": [
+        "Marine",
+        "Food System"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "seafood",
+        "microplastics",
+        "food safety"
+      ],
+      "date_added": "2025-09-07T19:16:22.726987"
+    },
+    {
+      "id": 120,
+      "first_author": "Xayachak T, Haque N, Lau D, Pramanik BK",
+      "year": 2024,
+      "title": "The missing link: A systematic review of microplastics and its neglected role in life-cycle assessment",
+      "journal": "Sci Total Environ",
+      "full_citation": "Xayachak T, Haque N, Lau D, Pramanik BK. The missing link: A systematic review of microplastics and its neglected role in life-cycle assessment. Sci Total Environ. 2024;954:176513.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "General"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.727039"
+    },
+    {
+      "id": 121,
+      "first_author": "Xie L, Ma M, Ge Q, Liu Y, Zhang L",
+      "year": 2025,
+      "title": "Machine Learning Advancements and Strategies in Microplastic and Nanoplastic Detection",
+      "journal": "Environ Sci Technol",
+      "full_citation": "Xie L, Ma M, Ge Q, Liu Y, Zhang L. Machine Learning Advancements and Strategies in Microplastic and Nanoplastic Detection. Environ Sci Technol. 2025;59(18):8885-99.",
+      "study_type": "In Vivo",
+      "research_focus": [
+        "Detection Methods"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "detection"
+      ],
+      "date_added": "2025-09-07T19:16:22.727089"
+    },
+    {
+      "id": 122,
+      "first_author": "Xu JL, Lin X, Wang JJ, Gowen AA",
+      "year": 2022,
+      "title": "A review of potential human health impacts of micro- and nanoplastics exposure",
+      "journal": "Sci Total Environ",
+      "full_citation": "Xu JL, Lin X, Wang JJ, Gowen AA. A review of potential human health impacts of micro- and nanoplastics exposure. Sci Total Environ. 2022;851(Pt 1):158111.",
+      "study_type": "Review",
+      "research_focus": [
+        "Human Health"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "exposure",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.727137"
+    },
+    {
+      "id": 123,
+      "first_author": "Yang J, Li H, Ling W, Li Y, Zhang K, Zhang P",
+      "year": 2025,
+      "title": "Sources, Status, and Potential Risks of Microplastics in Marine Organisms of the Bohai Sea: A Systematic Review",
+      "journal": "Toxics",
+      "full_citation": "Yang J, Li H, Ling W, Li Y, Zhang K, Zhang P. Sources, Status, and Potential Risks of Microplastics in Marine Organisms of the Bohai Sea: A Systematic Review. Toxics. 2025;13(5).",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Toxicity",
+        "Ecological Effects",
+        "Sources",
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals"
+      ],
+      "keywords": [
+        "marine",
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.727192"
+    },
+    {
+      "id": 124,
+      "first_author": "Yang L, Kang S, Luo X, Wang Z",
+      "year": 2024,
+      "title": "Microplastics in drinking water: A review on methods, occurrence, sources, and potential risks assessment",
+      "journal": "Environ Pollut",
+      "full_citation": "Yang L, Kang S, Luo X, Wang Z. Microplastics in drinking water: A review on methods, occurrence, sources, and potential risks assessment. Environ Pollut. 2024;348:123857.",
+      "study_type": "Review",
+      "research_focus": [
+        "Environmental Distribution",
+        "Sources"
+      ],
+      "environment": [
+        "Aquatic",
+        "Drinking Water"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "drinking water",
+        "microplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.727243"
+    },
+    {
+      "id": 125,
+      "first_author": "Yang T, Wang J",
+      "year": 2023,
+      "title": "Exposure sources and pathways of micro- and nanoplastics in the environment, with emphasis on potential effects in humans: A systematic review",
+      "journal": "Integr Environ Assess Manag",
+      "full_citation": "Yang T, Wang J. Exposure sources and pathways of micro- and nanoplastics in the environment, with emphasis on potential effects in humans: A systematic review. Integr Environ Assess Manag. 2023;19(6):1422-32.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Sources"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "exposure",
+        "systematic review",
+        "nanoplastics"
+      ],
+      "date_added": "2025-09-07T19:16:22.727299"
+    },
+    {
+      "id": 126,
+      "first_author": "Yates J, Deeney M, Rolker HB, White H, Kalamatianou S, Kadiyala S",
+      "year": 2021,
+      "title": "A systematic scoping review of environmental, food security and health impacts of food system plastics",
+      "journal": "Nat Food",
+      "full_citation": "Yates J, Deeney M, Rolker HB, White H, Kalamatianou S, Kadiyala S. A systematic scoping review of environmental, food security and health impacts of food system plastics. Nat Food. 2021;2(2):80-7.",
+      "study_type": "Review",
+      "research_focus": [
+        "Environmental Distribution",
+        "Food Safety"
+      ],
+      "environment": [
+        "Food System"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.727350"
+    },
+    {
+      "id": 127,
+      "first_author": "You X, Wang S, Li G, Du L, Dong X",
+      "year": 2022,
+      "title": "Microplastics in the soil: A review of distribution, anthropogenic impact, and interaction with soil microorganisms based on meta-analysis",
+      "journal": "Sci Total Environ",
+      "full_citation": "You X, Wang S, Li G, Du L, Dong X. Microplastics in the soil: A review of distribution, anthropogenic impact, and interaction with soil microorganisms based on meta-analysis. Sci Total Environ. 2022;832:154975.",
+      "study_type": "Meta-analysis",
+      "research_focus": [
+        "Environmental Distribution",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "soil",
+        "meta-analysis"
+      ],
+      "date_added": "2025-09-07T19:16:22.727409"
+    },
+    {
+      "id": 128,
+      "first_author": "Zantis LJ, Carroll EL, Nelms SE, Bosker T",
+      "year": 2021,
+      "title": "Marine mammals and microplastics: A systematic review and call for standardisation",
+      "journal": "Environ Pollut",
+      "full_citation": "Zantis LJ, Carroll EL, Nelms SE, Bosker T. Marine mammals and microplastics: A systematic review and call for standardisation. Environ Pollut. 2021;269:116142.",
+      "study_type": "Systematic Review",
+      "research_focus": [
+        "Marine Biology"
+      ],
+      "environment": [
+        "Marine"
+      ],
+      "organisms": [
+        "Marine Animals",
+        "Mammals"
+      ],
+      "keywords": [
+        "marine",
+        "microplastics",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.727456"
+    },
+    {
+      "id": 129,
+      "first_author": "Zhang H, Gao Y, Zheng Y, Zheng J, He J, Shi J, et al",
+      "year": 2024,
+      "title": "Potential toxicity of microplastics on vertebrate liver: A systematic review and meta-analysis",
+      "journal": "Ecotoxicol Environ Saf",
+      "full_citation": "Zhang H, Gao Y, Zheng Y, Zheng J, He J, Shi J, et al. Potential toxicity of microplastics on vertebrate liver: A systematic review and meta-analysis. Ecotoxicol Environ Saf. 2024;286:117166.",
+      "study_type": "Systematic Review & Meta-analysis",
+      "research_focus": [
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [
+        "microplastics",
+        "toxicity",
+        "meta-analysis",
+        "systematic review"
+      ],
+      "date_added": "2025-09-07T19:16:22.727506"
+    },
+    {
+      "id": 130,
+      "first_author": "Zhang X, Zhao B, Zhang Y, Zhang J, Li Y, Zhong J, et al",
+      "year": 2024,
+      "title": "Sources, interactions, influencing factors and ecological risks of microplastics and antibiotic resistance genes in soil: A review",
+      "journal": "Sci Total Environ",
+      "full_citation": "Zhang X, Zhao B, Zhang Y, Zhang J, Li Y, Zhong J, et al. Sources, interactions, influencing factors and ecological risks of microplastics and antibiotic resistance genes in soil: A review. Sci Total Environ. 2024;949:175226.",
+      "study_type": "Review",
+      "research_focus": [
+        "Ecological Effects",
+        "Sources",
+        "Soil Science"
+      ],
+      "environment": [
+        "Terrestrial"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "microplastics",
+        "soil"
+      ],
+      "date_added": "2025-09-07T19:16:22.727562"
+    },
+    {
+      "id": 131,
+      "first_author": "Zhang Z, Meng J, Tian J, Li N, Chen Z, Yun X, et al",
+      "year": 2024,
+      "title": "Reproductive and developmental implications of micro- and nanoplastic internalization: Recent advances and perspectives",
+      "journal": "Ecotoxicol Environ Saf",
+      "full_citation": "Zhang Z, Meng J, Tian J, Li N, Chen Z, Yun X, et al. Reproductive and developmental implications of micro- and nanoplastic internalization: Recent advances and perspectives. Ecotoxicol Environ Saf. 2024;286:117245.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Reproductive Health",
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Not Specified"
+      ],
+      "keywords": [
+        "reproductive"
+      ],
+      "date_added": "2025-09-07T19:16:22.727607"
+    },
+    {
+      "id": 132,
+      "first_author": "Zhao B, Rehati P, Yang Z, Cai Z, Guo C, Li Y",
+      "year": 2024,
+      "title": "The potential toxicity of microplastics on human health",
+      "journal": "Sci Total Environ",
+      "full_citation": "Zhao B, Rehati P, Yang Z, Cai Z, Guo C, Li Y. The potential toxicity of microplastics on human health. Sci Total Environ. 2024;912:168946.",
+      "study_type": "Experimental/Observational",
+      "research_focus": [
+        "Human Health",
+        "Toxicity"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Humans"
+      ],
+      "keywords": [
+        "human health",
+        "microplastics",
+        "toxicity"
+      ],
+      "date_added": "2025-09-07T19:16:22.727642"
+    },
+    {
+      "id": 133,
+      "first_author": "Zhou R, Wu GS, He YK, Hou JX, Lan LY, Feng QY, et al",
+      "year": 2021,
+      "title": "[Lesion removal plus whole breast exploration and washing plus micro-plastic procedures in the treatment of granulomatous lobular mastitis: a randomized controlled study]",
+      "journal": "Zhonghua Wai Ke Za Zhi",
+      "full_citation": "Zhou R, Wu GS, He YK, Hou JX, Lan LY, Feng QY, et al. [Lesion removal plus whole breast exploration and washing plus micro-plastic procedures in the treatment of granulomatous lobular mastitis: a randomized controlled study]. Zhonghua Wai Ke Za Zhi. 2021;59(11):923-8.",
+      "study_type": "In Vivo",
+      "research_focus": [
+        "Remediation"
+      ],
+      "environment": [
+        "Not Specified"
+      ],
+      "organisms": [
+        "Laboratory Animals"
+      ],
+      "keywords": [],
+      "date_added": "2025-09-07T19:16:22.727693"
+    }
+  ],
+  "statistics": {
+    "total_articles": 133,
+    "year_range": {
+      "earliest": 2005,
+      "latest": 2025
+    },
+    "study_type_counts": {
+      "Experimental/Observational": 27,
+      "Systematic Review": 58,
+      "Systematic Review & Meta-analysis": 7,
+      "Meta-analysis": 22,
+      "In Vitro": 1,
+      "Review": 12,
+      "In Vivo": 5,
+      "Randomized Controlled Trial": 1
+    },
+    "journal_counts": {
+      "Sci Total Environ": 25,
+      "Environ Pollut": 13,
+      "J Hazard Mater": 10,
+      "Environ Sci Technol": 5,
+      "Environ Res": 4,
+      "Ecotoxicol Environ Saf": 4,
+      "Int J Environ Res Public Health": 3,
+      "Int J Mol Sci": 3,
+      "Environ Geochem Health": 3,
+      "Mar Pollut Bull": 3
+    },
+    "research_focus_counts": {
+      "Toxicity": 30,
+      "Environmental Distribution": 29,
+      "General": 24,
+      "Marine Biology": 17,
+      "Human Health": 16,
+      "Soil Science": 16,
+      "Ecological Effects": 15,
+      "Risk Assessment": 12,
+      "Reproductive Health": 10,
+      "Food Safety": 10,
+      "Detection Methods": 9,
+      "Sources": 9,
+      "Remediation": 8,
+      "Cancer": 2
+    }
+  }
+}

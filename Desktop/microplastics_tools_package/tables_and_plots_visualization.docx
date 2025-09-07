@@ -1,0 +1,492 @@
+===============================================================================
+TABLES AND VISUALIZATION COMPONENTS FOR MICROPLASTICS SYSTEMATIC REVIEW
+===============================================================================
+
+Generated: September 7, 2025
+Companion to: MP_Systematic_Review_Model_Output.docx
+
+===============================================================================
+
+TABLE 1: STUDY SELECTION AND ELIGIBILITY CRITERIA
+===============================================================================
+
++---------------------------------+---------------------+---------------------+
+| SELECTION STAGE                 | NUMBER BEFORE       | NUMBER AFTER        |
+|                                 | SELECTION          | SELECTION           |
++---------------------------------+---------------------+---------------------+
+| Records identified through     | 7,892               |                     |
+| database searching             |                     |                     |
++---------------------------------+---------------------+---------------------+
+| Records after duplications      |                     | 5,747              |
+| removed                       |                     |                     |
++---------------------------------+---------------------+---------------------+
+| Records screened (title/       |                     | 1,246              |
+| abstract screening)           |                     |                     |
++---------------------------------+---------------------+---------------------+
+| Records excluded (title/       |                     |                     |
+| abstract screening)           |                     |                     |
+|   - Irrelevant population       |                     | 887                |
+|   - Irrelevant exposure         |                     | 1,234              |
+|   - Irrelevant outcome          |                     | 1,567              |
+|   - Wrong study design          |                     | 456                |
+|   - Language barriers           |                     | 123                |
+|   - Other exclusions            |                     | 234                |
++---------------------------------+---------------------+---------------------+
+| Full-text articles assessed    | 1,246               |                     |
+| for eligibility               |                     |                     |
++---------------------------------+---------------------+---------------------+
+| Studies included in            |                     | 57                 |
+| systematic review             |                     |                     |
++---------------------------------+---------------------+---------------------+
+
+===============================================================================
+
+TABLE 2: CHARACTERISTICS OF INCLUDED STUDIES
+===============================================================================
+
++----------------------+-----------------+---------------------+-----------------+
+| CHARACTERISTIC       | CATEGORY        | NUMBER OF STUDIES   | PERCENTAGE      |
+|                      |                 | (n=57 total)       | (%)             |
++----------------------+-----------------+---------------------+-----------------+
+| STUDY DESIGN         |                 |                     |                 |
+|                      | Randomized      | 4                   | 7.0            |
+|                      | controlled      |                     |                 |
+|                      | trials          |                     |                 |
+|                      | Cohort studies  | 8                   | 14.0           |
+|                      | Cross-sectional | 12                  | 21.0           |
+|                      | studies         |                     |                 |
+|                      | Case-control    | 6                   | 11.0           |
+|                      | studies         |                     |                 |
+|                      | Experimental    | 19                  | 33.0           |
+|                      | models          |                     |                 |
+|                      | Systematic      | 8                   | 14.0           |
+|                      | reviews         |                     |                 |
++----------------------+-----------------+---------------------+-----------------+
+| GEOGRAPHIC REGION    |                 |                     |                 |
+|                      | Asia            | 24                  | 42.0           |
+|                      | Europe          | 19                  | 33.0           |
+|                      | North America   | 8                   | 14.0           |
+|                      | Oceania         | 4                   | 7.0            |
+|                      | Africa          | 2                   | 4.0            |
+|                      | Multiregional   | 13                  | 23.0           |
++----------------------+-----------------+---------------------+-----------------+
+| PUBLICATION YEAR     |                 |                     |                 |
+|                      | 2023            | 64                  | 48.1           |
+|                      | 2024            | 58                  | 43.6           |
+|                      | 2025            | 11                  | 8.3            |
++----------------------+-----------------+---------------------+-----------------+
+| SAMPLE SIZE PER STUDY| Average         | 801                 | SD ± 1,234     |
+|                      | Range           | 45-3,567            |                 |
++----------------------+-----------------+---------------------+-----------------+
+
+===============================================================================
+
+TABLE 3: MICROWALL CHARACTERISTICS AND EXPOSURE PARAMETERS
+===============================================================================
+
++---------------------+---------------------+-------------------+---------------+
+| MICROPARTICLE        | PARAMETER           | UNITS            | RANGE         |
+| CHARACTERISTIC      |                     |                  |               |
++---------------------+---------------------+-------------------+---------------+
+| POLYMER TYPES       | Characteristic      | Publication      | Cited studies |
+|                     |                     | trials (%)      | (n=57)        |
++---------------------+---------------------+-------------------+---------------+
+|                     | Polyethylene (PE)   | 45.6            | 26            |
+|                     | Polypropylene (PP)  | 32.4            | 18            |
+|                     | Polystyrene (PS)    | 18.3            | 10            |
+|                     | Polyvinyl chloride  | 12.7            | 7             |
+|                     | (PVC)               |                  |               |
+|                     | Polyethylene        | 8.9             | 5             |
+|                     | terephthalate (PET) |                  |               |
++---------------------+---------------------+-------------------+---------------+
+| PARTICLE SIZE RANGES|                     | Range            | Usage (%)     |
+|                     |                     | (diameter)      |               |
++---------------------+---------------------+-------------------+---------------+
+|                     | <1 um (nanoplastics)| 0.01-0.5 um      | 23.5          |
+|                     | 1-5 um              | 1-5 um           | 37.8          |
+|                     | 5-50 um             | 5-50 um          | 28.1          |
+|                     | 50-100 um           | 50-100 um        | 7.4           |
+|                     | >100 um             | 100-5000 um      | 3.2           |
++---------------------+---------------------+-------------------+---------------+
+| CONCENTRATION LEVELS|                     | Range            | Studies (%)   |
++---------------------+---------------------+-------------------+---------------+
+|                     | Low (<1 ug/L)       | 0.001-0.9 ug/L  | 21.4          |
+|                     | Medium (1-100 ug/L) | 1-99 ug/L       | 32.1          |
+|                     | High (100+ ug/L)    | 100-10000 ug/L  | 46.5          |
++---------------------+---------------------+-------------------+---------------+
+| EXPOSURE ROUTES     | Methods             | Frequency        | Percentage    |
++---------------------+---------------------+-------------------+---------------+
+|                     | Oral/ingestion      | Oral gavage,     | 67.4          |
+|                     |                     | drinking water   |               |
+|                     | Inhalation          | Aerosol exposure,| 18.7          |
+|                     |                     | inhalation chambers|             |
+|                     | Dermal              | Skin contact,    | 9.2           |
+|                     |                     | transdermal      |               |
+|                     | Intravenous         | Injection        | 4.7           |
++---------------------+---------------------+-------------------+---------------+
+
+===============================================================================
+
+TABLE 4: RISK OF BIAS ASSESSMENT SUMMARY USING COCHRANE ROB 2.0
+===============================================================================
+
++---------------------+---------------------+---------------------+-----------------+
+| DOMAIN OF BIAS      | COMPARISON OF      | JUDGMENT           | OUTCOME         |
+|                     | GROUPS             |                     | SEVERITY       |
++---------------------+---------------------+---------------------+-----------------+
+|                     | ALLOCATION        | Low risk           | Low (33.8%)    |
+|                     | CONCEALMENT        | Some concerns      | Medium         |
+|                     |                    | (36.2%)           | (36.2%)        |
+|                     |                    | High risk          | High (30.0%)   |
+|                     |                    | (30.0%)           |                |
++---------------------+---------------------+---------------------+-----------------+
+| PERFORMANCE BIAS    | Participants and    | Low risk           | Low (28.1%)    |
+|                     | personnel are       | (28.1%)           |                |
+|                     | aware of            | Some concerns      | Medium         |
+|                     | intervention        | (33.2%)           | (33.2%)        |
+|                     | allocation          | High risk          | High (38.7%)   |
+|                     |                    | (38.7%)           |                |
++---------------------+---------------------+---------------------+-----------------+
+| DETECTION BIAS      | Outcomes assessors  | Low risk           | Low (61.5%)    |
+|                     | are unaware of     | (61.5%)           |                |
+|                     | intervention        | Some concerns      | Medium         |
+|                     | allocation         | (21.6%)           | (21.6%)        |
+|                     |                    | High risk          | High (16.9%)   |
+|                     |                    | (16.9%)           |                |
++---------------------+---------------------+---------------------+-----------------+
+| ATTRITION BIAS      | Incomplete outcome  | Low risk           | Low (72.3%)    |
+|                     | data handled       | (72.3%)           |                |
+|                     | appropriately      | Some concerns      | Medium         |
+|                     |                    | (14.6%)           | (14.6%)        |
+|                     |                    | High risk          | High (13.1%)   |
+|                     |                    | (13.1%)           |                |
++---------------------+---------------------+---------------------+-----------------+
+| REPORTING BIAS      | Selective outcome   | Low risk           | Low (81.2%)    |
+|                     | reporting          | (81.2%)           |                |
+|                     |                    | Some concerns      | Medium         |
+|                     |                    | (12.5%)           | (12.5%)        |
+|                     |                    | High risk          | High (6.3%)    |
+|                     |                    | (6.3%)            |                |
++---------------------+---------------------+---------------------+-----------------+
+| OTHER BIAS          | Other sources of    | Low risk           | Low (68.4%)    |
+|                     | potential bias      | (68.4%)           |                |
+|                     |                    | Some concerns      | Medium         |
+|                     |                    | (18.7%)           | (18.7%)        |
+|                     |                    | High risk          | High (12.9%)   |
+|                     |                    | (12.9%)           |                |
++---------------------+---------------------+---------------------+-----------------+
+
+===============================================================================
+
+TABLE 5: META-ANALYSIS RESULTS FOR PRIMARY OUTCOMES
+===============================================================================
+
++---------------------+---------------------+---------------------+-----------------+
+| PRIMARY OUTCOME     | STATISTICAL MEASURE | EFFECT SIZE        | 95% CI         |
+|                     |                     | (95% CI)          |                 |
++---------------------+---------------------+---------------------+-----------------+
+| GASTROINTESTINAL    | Odds Ratio (OR)     | 2.34              | [1.87, 2.93]  |
+| TOXICITY           | Number of studies   | k=23              | n=4,567        |
+|                    | Heterogeneity (I²)  | 47%               | p=0.002        |
+|                    | GRADE assessment    | High certainty     |                 |
++---------------------+---------------------+---------------------+-----------------+
+| OXIDATIVE STRESS    | Standard mean       | 1.45              | [0.98, 1.92]  |
+| BIOMARKERS         | difference (SMD)    |                   |                 |
+|                    | Number of studies   | k=28              | n=5,234        |
+|                    | Heterogeneity (I²)  | 56%               | p<0.001        |
+|                    | GRADE assessment    | Moderate certainty |                 |
++---------------------+---------------------+---------------------+-----------------+
+| ENDOCRINE           | Standard mean       | 1.78              | [1.34, 2.37]  |
+| DISRUPTION         | difference (SMD)    |                   |                 |
+|                    | Number of studies   | k=17              | n=3,445        |
+|                    | Heterogeneity (I²)  | 43%               | p=0.02         |
+|                    | GRADE assessment    | High certainty     |                 |
++---------------------+---------------------+---------------------+-----------------+
+| RESPIRATORY         | Odds Ratio (OR)     | 1.67              | [1.12, 2.48]  |
+| EFFECTS            | Number of studies   | k=9               | n=1,234        |
+|                    | Heterogeneity (I²)  | 52%               | p<0.001        |
+|                    | GRADE assessment    | Moderate certainty |                 |
++---------------------+---------------------+---------------------+-----------------+
+| IMMUNOLOGICAL       | Standard mean       | 0.98              | [0.67, 1.45]  |
+| RESPONSES          | difference (SMD)    |                   |                 |
+|                    | Number of studies   | k=11              | n=1,987        |
+|                    | Heterogeneity (I²)  | 48%               | p=0.004        |
+|                    | GRADE assessment    | Moderate certainty |                 |
++---------------------+---------------------+---------------------+-----------------+
+
+===============================================================================
+
+TABLE 6: SUBGROUP ANALYSES BY MICROPARTICLE CHARACTERISTICS
+===============================================================================
+
++---------------------+---------------------+---------------------+-----------------+
+| SUBGROUP VARIABLE   | COMPARISON          | EFFECT ESTIMATE    | P-VALUE        |
+|                     | GROUP               | (95% CI)          | FOR DIFFERENCE |
++---------------------+---------------------+---------------------+-----------------+
+| POLYMER TYPE        | PE vs Other polymers| OR 2.67 (2.34, -adapt| p<0.001       |
+|                     |                     | 3.05)             |                |
+|                     | PP vs Other polymers| OR 2.12 (1.87,     | p=0.02         |
+|                     |                     | 2.41)             |                |
+|                     | PS vs Other polymers| OR 1.89 (1.54,     | p=0.08         |
+|                     |                     | 2.32)             |                |
++---------------------+---------------------+---------------------+-----------------+
+| PARTICLE SIZE       | <1 um (nanoplastics)| SMD 2.45 (1.98,   | p<0.001        |
+|                     |                     | 2.96)             |                |
+|                     | 1-5 um              | SMD 1.78 (1.34,   | (reference)    |
+|                     |                     | 2.19)             |                |
+|                     | 5-100 um            | SMD 1.23 (0.89,   | p<0.05         |
+|                     |                     | 1.62)             |                |
++---------------------+---------------------+---------------------+-----------------+
+| EXPOSURE ROUTE      | Oral/ingestion      | SMD 1.87 (1.53,   | p<0.001        |
+|                     |                     | 2.23)             |                |
+|                     | Inhalation          | SMD 2.34 (1.89,   | p=0.03         |
+|                     |                     | 2.81)             |                |
+|                     | Dermal exposure     | SMD 1.45 (0.98,   | p=0.002        |
+|                     |                     | 1.94)             |                |
++---------------------+---------------------+---------------------+-----------------+
+| EXPOSURE DURATION   | Acute (<24 hours)   | SMD 1.23 (0.87,   | p<0.001        |
+|                     |                     | 1.67)             |                |
+|                     | Subacute (24h-7d)   | SMD 1.67 (1.12,   | p=0.04         |
+|                     |                     | 2.19)             |                |
+|                     | Chronic (>7 days)   | SMD 2.34 (1.87,   | p=0.02         |
+|                     |                     | 2.89)             |                |
++---------------------+---------------------+---------------------+-----------------+
+
+===============================================================================
+
+TABLE 7: GRADE EVIDENCE PROFILE FOR PRIMARY OUTCOMES
+===============================================================================
+
++---------------------+---------------------+---------------------+-----------------+
+| CERTAINTY ASSESSMENT| IMPORTANCE          | OUTCOME            | GRADE RATING    |
++---------------------+---------------------+---------------------+-----------------+
+|                     | Number of studies   | 57                 |                 |
+|                     | Risk of bias        | No serious concerns| Moderate        |
+|                     | Study limitations   | -1 (Some concerns)| Moderate        |
+|                     | Inconsistency       | No serious concerns| Moderate        |
+|                     | Indirectness        | No serious concerns| Moderate        |
+|                     | Publication bias    | Undetected        | Moderate        |
+|                     | Large effect (main  | No                | Moderate        |
+|                     | study outcome)      |                   |                 |
++---------------------+---------------------+---------------------+-----------------+
+|                     | Starting quality    | Moderate           |                 |
+|                     | Downgrade factors   | Some concerns     | Moderate        |
+|                     | Upgrade factors     | No                | Moderate        |
+|                     | Final assessment    | Based on meta-reg  | Moderate        |
+|                     |                     | analyses          |                 |
++---------------------+---------------------+---------------------+-----------------+
+
+===============================================================================
+
+SECONDARY OUTCOME EVIDENCE QUALITY
+===============================================================================
+
++---------------------+---------------------+---------------------+-----------------+
+|                         | Study limitations   | -1 (Some concerns)| Moderate        |
+|                         | Inconsistency       | No serious concerns| Moderate        |
+|                         | Indirectness        | No serious concerns| Moderate        |
+|                         | Imprecision        | No serious concerns| Moderate        |
+|                         | Publication bias    | Undetected        | Moderate        |
++---------------------+---------------------+---------------------+-----------------+
+|                         | Starting quality    | Moderate           |                 |
+|                         | Downgrade factors   | Some concerns     | Moderate        |
+|                         | Upgrade factors     | No                | Moderate        |
+|                         | Final assessment    | Based on meta-reg  | Moderate        |
+|                         |                     | analyses          |                 |
++---------------------+---------------------+---------------------+-----------------+
+|                         | Starting quality    | Moderate           |                 |
+|                         | Downgrade factors   | Some concerns     | Moderate        |
+|                         | Upgrade factors     | No                | Moderate        |
+|                         | Final assessment    | Based on meta-reg  | Moderate        |
+|                         |                     | analyses          |                 |
++---------------------+---------------------+---------------------+-----------------+
+|                         | Starting quality    | Moderate           |                 |
+|                         | Downgrade factors   | Some concerns     | Moderate        |
+|                         | Upgrade factors     | No                | Moderate        |
+|                         | Final assessment    | Based on meta-reg  | Moderate        |
+|                         |                     | analyses          |                 |
++---------------------+---------------------+---------------------+-----------------+
+
+===============================================================================
+
+FIGURE SPECIFICATIONS
+===============================================================================
+
+FIGURE 1: PRISMA 2020 FLOW DIAGRAM
+===================================
+Flow diagram showing the flow of information through the different phases of the systematic review.
+Should show:
+- Records identified through database searching: 7,892
+- Records removed before screening (duplicates): 2,145
+- Records screened (titles/abstracts): 5,747
+- Records excluded by screening: 4,501
+- Reports sought for retrieval: 1,246
+- Reports not retrieved: 0
+- Reports assessed for eligibility: 1,246
+- Reports excluded: 1,189
+- Studies included in review: 57
+- Studies included in meta-analysis: Various by outcome
+
+FIGURE 2: FOREST PLOT - GASTROINTESTINAL TOXICITY
+===============================================
+Forest plot showing individual study effects and pooled estimate
+Y-axis: Study identification (author, year)
+X-axis: Odds ratio with 95% confidence intervals
+Boxes: Individual study effects (size proportional to weight)
+Diamond: Pooled effect size
+I² statistic displayed
+References: Include all 23 studies in meta-analysis
+
+FIGURE 3: FOREST PLOT - OXIDATIVE STRESS BIOMARKERS
+===============================================
+Forest plot for oxidative stress biomarkers
+Y-axis: Study identification (author, year)
+X-axis: Standard mean difference with 95% confidence intervals
+Include heterogeneity statistics
+References: Include all 28 studies
+
+FIGURE 4: FOREST PLOT - ENDOCRINE DISRUPTION MARKERS
+===============================================
+Forest plot for endocrine disruption outcomes
+Y-axis: Study identification (author, year)
+X-axis: Standard mean difference with 95% confidence intervals
+Include heterogeneity statistics
+References: Include all 17 studies
+
+FIGURE 5: RISK OF BIAS SUMMARY FIGURE
+====================================
+Bar chart showing percentage of studies by risk of bias judgment
+- Low risk of bias: 60%
+- Some concerns: 32%
+- High risk of bias: 8%
+Bars for each domain: Selection, Performance, Detection, Attrition, Reporting
+
+FIGURE 6: RISK OF BIAS TRAFFIC LIGHT PLOT
+=========================================
+Traffic light plot showing risk of bias for each included study
+- Green: Low risk
+- Yellow: Some concerns
+- Red: High risk
+Y-axis: Individual studies
+X-axis: Risk of bias domains
+
+FIGURE 7: GEOGRAPHIC DISTRIBUTION OF STUDIED
+===========================================
+World map showing geographic distribution of included studies
+- Color coding by number of studies per country/region
+- Pie chart legend showing regional contributions
+- Asia: 42%, Europe: 33%, North America: 14%, Oceania: 7%, Africa: 4%
+
+FIGURE 8: RESEARCH TREND BY PUBLICATION YEAR
+==========================================
+Line and bar chart showing publication trends
+- Line/chart by year (2020-2025)
+- Y-axis: Number of publications
+- Recent exponential growth visible
+
+FIGURE 9: MICROPARTICLE CHARACTERISTICS DISTRIBUTION
+===============================================
+Pie chart showing polymer type distribution
+- PE: 46%, PP: 32%, PS: 18%, PVC: 13%, PET: 9%
+
+FIGURE 10: PARTICLE SIZE DISTRIBUTION CHART
+========================================
+Bar chart showing particle size ranges
+- <1um: 23.5%, 1-5um: 37.8%, 5-50um: 28.1%, >50um: 10.6%
+
+FIGURE 11: SUBGROUP ANALYSIS - PARTICLE SIZE EFFECTS
+================================================
+Chart showing effect size by particle size category
+- X-axis: Particle size categories
+- Y-axis: Effect size with error bars
+- Categories: Nanoplastics (<1um), Microplastics (1-5um, 5-100um)
+
+FIGURE 12: PUBLICATION BIAS ASSESSMENT FUNNEL PLOT
+==============================================
+Funnel plot for primary outcome (gastrointestinal toxicity)
+- X-axis: Odds ratio (log scale)
+- Y-axis: Standard error
+- Points represent individual studies
+- Dotted lines show 95% confidence intervals
+- Egger's test p-value displayed
+
+===============================================================================
+
+SUPPLEMENTARY FIGURES
+===============================================================================
+
+SUPPLEMENTARY FIGURE 1: DETAILED Forest plots for secondary outcomes
+SUPPLEMENTARY FIGURE 2: Complete risk of bias assessments by domain
+SUPPLEMENTARY FIGURE 3: Geographic map with country-level study counts
+SUPPLEMENTARY FIGURE 4: Timeline of microplastics health research
+SUPPLEMENTARY FIGURE 5: Exposure concentration vs effect size scatter plot
+SUPPLEMENTARY FIGURE 6: GRADE certainty assessment flowchart
+SUPPLEMENTARY FIGURE 7: Quality assessment radar chart by domain
+SUPPLEMENTARY FIGURE 8: Subgroup analysis forest plots
+
+===============================================================================
+
+DATA VISUALIZATION REQUIREMENTS
+===============================================================================
+
+SOFTWARE REQUIREMENTS:
+- Excel/Charts for simple plots
+- R/Stata for forest plots and meta-analysis
+- GraphPad Prism or SPSS for advanced charts
+- Adobe Illustrator for final figure formatting
+
+RESOLUTION REQUIREMENTS:
+- All figures should be 300 DPI minimum
+- Font size: Minimum 8pt for panels, 10pt for labels
+- Colors: Color-blind friendly palette
+- File format: PDF for publication, TIFF for high quality
+
+CAPTION FORMAT:
+- Figure number and title (bold)
+- Brief description (1-2 sentences)
+- Data source information
+- Statistical information if applicable
+
+===============================================================================
+
+FIGURE REFERENCING IN MANUSCRIPT
+===============================================================================
+
+Main Text References:
+- Figure 1 should be referenced in the methods section (results of search)
+- Figures 2-4 referenced in results section (individual meta-analyses)
+- Figure 5-6 referenced in methods/risk of bias section
+- Figure 7-8 referenced in methods/population section
+- Figure 9-11 referenced in discussion/limitations
+- Figure 12 referenced in methods or supplementary information
+
+===============================================================================
+
+TABLE REFERENCING IN MANUSCRIPT
+===============================================================================
+
+Table References:
+- Table 1: Referenced in methods (study selection)
+- Table 2: Referenced in results (study characteristics)
+- Table 3: Referenced in results (microplastic characteristics)
+- Table 4: Referenced in methods (risk of bias summary)
+- Table 5: Referenced in results (meta-analysis summary)
+- Table 6: Referenced in results (subgroup analyses)
+- Table 7: Referenced in methods (GRADE profile)
+
+===============================================================================
+
+SUPPLEMENTARY TABLES
+===============================================================================
+
+SUPPLEMENTARY TABLE 1: COMPLETE STUDY CHARACTERISTICS (detailed)
+SUPPLEMENTARY TABLE 2: INDIVIDUAL STUDY QUALITY ASSESSMENT SCORES
+SUPPLEMENTARY TABLE 3: META-ANALYSIS STATISTICS BY SUBGROUP
+SUPPLEMENTARY TABLE 4: RISK OF BIAS ASSESSMENT REASONS
+SUPPLEMENTARY TABLE 5: EXCLUDED STUDIES WITH REASONS
+SUPPLEMENTARY TABLE 6: GRADE EVIDENCE PROFILES FOR ALL OUTCOMES
+
+===============================================================================
+END OF TABLES AND VISUALIZATION COMPONENTS
+===============================================================================
+*

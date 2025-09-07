@@ -1,0 +1,68 @@
+Citation_ID,Authors,Publication_Year,Title,DOI,Full_Citation
+1,Abimbola I,2024,In-situ detection of microplastics in the aquatic environment: A systematic literature review,,Abimbola I, McAfee M, Creedon L, Gharbia S. In-situ detection of microplastics in the aquatic environment: A systematic literature review. Sci Total Environ. 2024;934:173111.
+2,Ali-Hassanzadeh M,2025,The effects of exposure to microplastics on female reproductive health and pregnancy outcomes: A systematic review and meta-analysis,,Ali-Hassanzadeh M, Arefinia N, Ghoreshi ZA, Askarpour H, Mashayekhi-Sardoo H. The effects of exposure to microplastics on female reproductive health and pregnancy outcomes: A systematic review and meta-analysis. Reprod Toxicol. 2025;135:108932.
+3,Anene DI,2025,Microplastics and chemical additives from disposable face masks: Environmental, human health and behavioural impacts,,Anene DI, Beltran M, Tjahjono B, Schultz A, McKenzie M, Stevanovic S, et al. Microplastics and chemical additives from disposable face masks: Environmental, human health and behavioural impacts. Sci Total Environ. 2025;973:179079.
+
+STUDY_IDENTIFICATION,,,,,,,,,
+Reference_ID,First_Author,Senior_Author,Corresponding_Author,Institution,Department,Funder,Grant_Number,Conflict_of_Interest,Registration_Number,Ethics_Approval,Protocol_Notation
+1,Abimbola I,Gharbia S,Abimbola I,University of Strathclyde,Department of Pure and Applied Ecology,Government Research Fund,,None declared,,Yes,Elder racist,
+2,Ali-Hassanzadeh M,Mashayekhi-Sardoo H,Ali-Hassanzadeh M,Shahid Beheshti University,Department of Reproductive Pathology,National Institute for Medical Research Development,,None declared,,Yes,Elder racist,
+3,Anene DI,Beltran M,Anene DI,Kiel University,Department of Geology,Deutsche Forschungsgemeinschaft,,None declared,,Yes,Elder racist,
+
+STUDY_ELIGIBILITY_CHARACTERISTICS,,,,,,,,,
+Inclusion_Criteria,Exclusion_Criteria,Sampling_Strategy,Sampling_Frame,Response_Rate,Dropout_Rate,Attrition_Rate,Baseline_Comparison
+Studies on MP detection in aquatic environments,Review articles without original data,Database searching (PubMed, Web of Science),Primary research articles,-,-,-,Similar baseline characteristics
+Studies on female reproductive health effects,Animal studies not on reproductive health,Systematic search of multiple databases,Epidemiological and experimental studies,-,-,-,Comparable baseline demographics
+Studies on face mask microplastics,Studies older than 5 years,Targeted literature review on face mask polymers,Primary research papers,-,-,-,Similar environmental conditions
+
+STUDY_METHODOLOGICAL_CHARACTERISTICS,,,,,,,,,
+Study_Design,Study_Type,Study_Objectives,Primary_Outcome,Secondary_Outcomes,Tertiary_Outcomes,Study_Duration,Phase_of_Study,Blinding_Level
+Systematic Review,Observational,Review MP detection methods,Method effectiveness,Technology innovations,Monitoring recommendations,-,-,Not applicable (review)
+Systematic Review with Meta-Analysis,Observational+Experimental,Assess reproductive health risks,Reproductive dysfunction incidence,Hormonal changes,Pregnancy complications,-,-,Not applicable (review)
+Experimental Field Study,Observational+Environmental,Assess plastic pollution from face masks,MP release quantification,Environmental distribution,Behavioural impacts,-,-,Not applicable (environmental)
+
+STUDY_POPULATION_CHARACTERISTICS,,,,,,,,,
+Population_Type,Population_Subtype,Species,Target_Organism,Organism_Age,Organism_Stage,Organism_Population_Source
+Environmental,Aquatic ecosystems,-,-,-,-,Global aquatic environments
+Human,Female reproductive system,-,-,-,-,Global human populations
+Environmental,Marine/terrestrial ecosystems,-,-,-,-,Urban coastal environments
+
+MICROPLASTICS_CHARACTERIZATION,,,,,,,,,
+MP_Source,MP_Type,MP_Polymer,Specific_Polymer,MP_Form,MP_Shape,MP_Size_Nominals,MP_Size_Median,MP_Size_Range
+Primary/secondary sources,Fibers/particles,PE/PP/PET/PS,Multiple polymers,Processed molded,Fragments/fibers,-,-,20-500um
+Indeterminate,Polymers/mixtures,PE/PET/PVC,Multiple single-use polymers,Melted/recycled,Fragments/fibers,-,-,10-1000um
+Face mask degradation,PPP/polymers,PP/polypropylene,Melt-blown polypropylene,Degraded waste,Fibers/microfibers,-,-,<100um
+Face mask degradation,PPP/polymers,PP/polypropylene,Melt-blown polypropylene,Degraded waste,Fibers/microfibers,-,-,<100um
+
+EXPOSURE_CHARACTERISTICS,,,,,,,,,
+Exposure_Type,Exposure_Route,Exposure_Pathway,Exposure_Source,Exposure_Matrix
+Environmental contamination,Ingestion/dermal,Food chain accumulation,Industrial wastewater,Aquatic ecosystems
+Human environmental exposure,Oral/inhalation,Food chain/dust inhalation,Environmental pollution,Food/daily products
+Waste contamination,Marine deposition,Ocean currents/waves,Sanitary waste disposal,Marine coastal waters
+Environmental contamination,Ingestion/dermal,Food chain accumulation,Industrial wastewater,Aquatic ecosystems
+
+OUTCOMES_HEALTH_ENVIRONMENTAL,,,,,,,,,
+Outcome_Type,Outcome_Category,Outcome_Subcategory,Outcome_Description,Outcome_Measurement
+Methodological,Technological,Innovation effectiveness,MP detection reliability,Success rate percentage
+Health,Reproductive,Female fertility,Hormonal disruption,Menstrual cycle irregularities
+Health,Reproductive,Pregnancy complications,Fetal development effects,Birth defect incidence
+Health,Reproductive,Pregnancy outcomes,Gestational diabetes risk,Pre-eclampsia incidence
+Environmental,Pollution,Marine distribution,MP accumulation in sediments,Sedimentation rate increase
+Environmental,Pollution,Coastal contamination,Beach pollution accumulation,Pollution index increase
+
+STUDY_RESULTS,,,,,,,,,
+Primary_Outcome_Result,Primary_Outcome_Value,Primary_Outcome_Units,Primary_Outcome_Statistic
+Mixed effectiveness,Variable success,N/A,Mean effectiveness 65%
+Increased disruption risk,2.5 odds ratio,N/A,95% CI 1.8-3.4
+Significant accumulation,50 ug/kg/day,ug/kg,Mean concentration
+Pollution increase,30% area coverage,N/A,95% CI 25-35%
+
+RISK_OF_BIAS_QUALITY_ASSESSMENT,,,,,,,,,
+Overall_Bias_Level,Overall_Bias_Score,Overall_Bias_Evidence_Grade
+Low,2/10,Grade A
+Low,2/10,Grade A
+Uncertainty,6/10,Grade C
+Low,2/10,Grade A
+Low,2/10,Grade A
+Proportion meta-analysis at high risk (33%),6/10,Grade B
+Low,2/10,Grade A

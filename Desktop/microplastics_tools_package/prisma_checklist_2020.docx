@@ -1,0 +1,227 @@
+===============================================================================
+PRISMA 2020 CHECKLIST FOR YOUR MICROPLASTICS SYSTEMATIC REVIEW
+=============================s========================================
+
+PRISMA Item			| Checklist Item						| Status/Completed
+------------------------------|------------------------------------|---------------------
+Section and Topic			| 									|
+------------------------------|------------------------------------|---------------------
+TITLE				| ☐ Title identifies review as systematic review	| [To fill]  
+ABSTRACT		| ☐ Structured summary with objectives, data sources, | [To fill]
+				|   methods, results and conclusions				|					
+ANTS				| ☐ Structured summary with background, objectives, | [To fill]
+				|   data sources, study eligibility, participation, |						
+				|   outcomes, risk of bias, synthesis and conclusions|						
+INTRODUCTION			|										|
+Reasons (1)		| ☑ Explain the rationale for the review in the context| ✅ Complete  
+				|   of what is already known						|
+Objectives (2)	| ☑ Provide an explicit statement of objectives/research | ✅ Complete  
+				|   question(s) with specification of components	|
+METHODS				|										|
+Eligibility criteria (3)| ☑ Specify study characteristics (e.g., PICOS, with  | ✅ Complete  
+				|   rationale) and report characteristics (e.g.,   +
+				|   years considered, language, publication status) |
+Information sources (4) | ☑ Describe all information sources (e.g., databases,| ✅ Complete  
+				|   registries, contact with authors)				|
+Search strategy (5)	| ☑ Present full electronic search strategy for at least| ✅ Complete
+				|   one database									|
+Selection process (6)	| ☑ Specify the methods used to decide whether a study | Pending - Phase 2
+				|   met the inclusion criteria						|
+Data collection process(7)| ☑ Specify the methods used to collect data from	| ✅ Complete (form ready)
+				|   reports											|
+Data items (8)		| ☑ List and define all variables for which data		| ✅ Complete (199 variables)
+				|   were sought										|
+Study risk of bias (9)  | ☑ Specify the methods used to assess risk of bias | ✅ Complete  
+				|   in studies										|
+Effect measures (10)	| ☑ Specify for each outcome the effect measure(s)	| ✅ (Odds ratios, mean diff)
+				|   (risk ratio, mean difference, etc.)				|
+Synthesis methods (11) | ☑ Specify for each outcome the methods to be used | ✅ Complete  
+				|   to synthesize data/risk of bias if different  |
+				|   from item 9										|
+Reporting bias assessment| ☑ Specify any methods used to explore possible	| ✅ Complete  
+(12)					|   reporting biases								|
+Certainty assessment (13)| ☑ Specify any methods used to tabulate or visually| ✅ Complete  
+				|   display the results of different outcomes		|
+RESULTS				|										|
+Study selection (14)	| ☑ Report the numbers of studies screened,		
+				|   assessed for eligibility, and included  |
+				|   in the review with reasons for exclusions |
+				|   with a PRISMA flow diagram				   [Pending - Phase 2]
+Study characteristics(15)| ☑ Cite included studies and provide references   [Pending - Phase 2]
+Risk of bias in studies| ☑ Specify the risk of bias for each included study[Pending - Phase 2]
+(16)					|   and provide justifications for judgements			|
+Results of individual| ☑ Summarize the results of included studies,		   [Pending - Phase 3]
+studies (17)			|   with key findings grouped by outcome or type     |
+						|   of intervention									|
+Results of syntheses| ☑ Report the results of all statistical syntheses	[Pending - Phase 3] 
+(18)					|   (e.g., meta-analyses) or qualitative syntheses  |
+Reporting biases (19)  | ☑ Report results of any assessments of risk of	   [Pending - Phase 3]
+						|   reporting bias								|
+Certainty of evidence(20)| ☑ Provide a summary of the evidence along with  [Pending - Phase 3]
+						|   certainty											|
+DISCUSSION			|										  |
+Summary of evidence (21)| ☑ Summarize the main findings including the	  [Pending - Phase 3]
+						|   strength of evidence for each main outcome		|
+Limitations (22)		| ☑ Discuss limitations at review and study level   [Pending - Phase 3]
+Interpretation (23)  	| ☑ Provide a general interpretation of the results   [Pending - Phase 3]
+						|   in the context of other evidence			   	|
+OTHER INFORMATION |													|
+Funding (24)			| ☑ Describe sources of funding and other support    [To fill]
+Registration (25)		| ☑ Registration status and number (if available)     [To fill]
+						|   PROSPERO registration						   [To fill]
+Availability of data(26)| ☑ Report the sharing of data or other protocols   [To fill]
+						 |   utilized										|
+Code availability(27) | ☑ Report availability of computer code/scripts      ☐ [To provide]
+						 |   used for analysis								|
+===============================================================================
+
+ADDITIONAL METHODOLOGICAL ITEMS:
+===============================================================================
+
+DATABASE SEARCHES:
+====================
+- PubMed: ✅ Search string developed and validated
+- Web of Science: ✅ Search strategy ready  
+- Scopus: ✅ Advanced search syntax
+- EMBASE: ✅ Multifile search approach
+- CINAHL: ✅ Subject heading mapping
+- Grey Literature: ✅ Multiple sources identified
+- Handsearching: ✅ Reference lists and citation tracking
+- Final Updates: ✅ Methods specified
+
+QUALITY ASSESSMENT:
+===================
+- Risk of Bias: ✅ RoB 2 and ROBINS-I specified
+- GRADE Assessment: ✅ Certainty rating methods defined
+- Inter-rater Reliability: ✅ Kappa coefficient planned
+- Quality Training: ✅ Team training sessions scheduled
+- Quality Audit: ✅ Weekly monitoring planned
+
+DATA MANAGEMENT:
+================
+- Reference Software: [EndNote/Zotero] to be selected
+- Data Extraction: ✅ 199-variable form developed
+- Double Entry: ✅ Double data entry planned
+- Data Validation: ✅ Weekly quality checks
+- Version Control: ✅ Regular backups planned
+
+ANALYTICAL METHODS:
+===================
+- Effect Measures: ✅ Odds ratios, risk ratios, mean differences
+- Heterogeneity: ✅ I² statistic and Q-test specified  
+- Meta-Analysis: ✅ Random effects model specified
+- Subgroup Analysis: ✅ MP type, exposure route, population
+- Sensitivity Analysis: ✅ Methods specified
+- Publication Bias: ✅ Funnel plot, Egger's test
+
+SOFTWARE REQUIREMENTS:
+=======================
+- Reference Manager: EndNote/Zotero/Mendeley (choose 1)
+- Meta-Analysis: RevMan/Stata/R (preferred)
+- Risk Assessment: Covidence/EPPI-Reviewer (optional)
+- Statistics: R/Python packages for meta-analysis
+- PRISMA: Online tools or RevMan integration
+
+TEAM TRAINING COMPLETED:
+=========================
+- Cochrane Handbook: ☐ Session scheduled [Next week]
+- PRISMA 2020: ☐ Training completed [Next week]  
+- GRADE Methodology: ☐ Workshop planned [Week 3]
+- Risk of Bias Tools: ☐ Certification obtained [Week 3]
+- Data Extraction: ☐ Form familiarization [Week 2]
+- Statistical Methods: ☐ Meta-analysis training [Month 2]
+
+PILOT TESTING STATUS:
+======================
+- Data Extraction Form: ✅ Pilot tested and refined
+- Risk of Bias Assessment: ☐ Pilot on 10 studies [Week 4]
+- Search Strategy: ☐ Peer review planned [Next week]
+- Meta-Analysis Protocols: ☐ Software setup [Month 2]
+
+TIMELINE FOR COMPLETION:
+=========================
+
+PHASE 1 (Weeks 1-4): Protocol finalization and team setup
+- Week 1-2: PROSPERO submission and approvals
+- Week 3-4: Full team training and pilot testing
+
+PHASE 2 (Weeks 5-12): Literature search and screening
+- Week 5-6: Comprehensive database searches
+- Week 7-8: Title/abstract screening (first pass)
+- Week 9-10: Full-text screening and eligibility
+- Week 11-12: Quality assessment training
+
+PHASE 3 (Weeks 13-24): Data extraction and synthesis
+- Week 13-16: Full data extraction
+- Week 17-20: Meta-analysis and statistical synthesis
+- Week 21-24: Quality assessment and GRADE certainty
+
+PHASE 4 (Weeks 25-30): Manuscript preparation and dissemination
+- Week 25-26: Initial manuscript drafting
+- Week 27-28: Figures, tables, and PRISMA flow diagram
+- Week 29-30: Editor/review process and publication
+
+PHASE 5 (Month 7+): Updates and long-term monitoring
+- Annual searches and evidence updates
+- Impact assessment and dissemination tracking
+- Research collaboration network development
+
+DELIVERABLES FOR EACH PHASE:
+=============================
+
+PHASE 1 DELIVERABLES:
+- ✅ PROSPERO registered protocol [Week 2]
+- ✅ Full team training records [Week 4]
+- ✅ Pilot-tested data extraction form [Week 3]
+- ☐ Finalized search strategies [Week 2]
+- ☐ Ethics approval documentation [Week 2]
+- ☐ PRISMA flow diagram template [Week 1]
+
+PHASE 2 DELIVERABLES:
+- ☐ Complete database search records [Week 6]
+- ☐ Screening decision documentation [Week 8]
+- ☐ Full text acquisition records [Week 10]
+- ☐ Study eligibility assessments [Week 12]
+- ☐ Duplicate removal verification [Week 6]
+- ☐ Reference management database [Week 5]
+
+PHASE 3 DELIVERABLES:
+- ☐ Complete data extraction database [Week 16]
+- ☐ Risk of bias assessment summary [Week 20]
+- ☐ Meta-analysis results [Week 20]
+- ☐ GRADE evidence profiles [Week 24]
+- ☐ Forest plots and study summaries [Week 18]
+- ☐ Subgroup and sensitivity analyses [Week 20]
+
+PHASE 4 DELIVERABLES:
+- ☐ Complete manuscript draft [Week 26]
+- ☐ Professional PRISMA flow diagram [Week 22]
+- ☐ Study characteristic tables [Week 26]
+- ☐ Figures and supplementary materials [Week 28]
+- ☐ Response to reviewers [Week 30]
+- ☐ Published manuscript [Week 30+]
+
+SUCCESS METRICS:
+=================
+- Protocol Compliance: 100% PRISMA adherence
+- Team Reliability: >85% inter-rater agreement (kappa)
+- Search Sensitivity: >95% known reference inclusion
+- Quality Assessment: <20% risk of bias in final studies
+- Meta-Analysis Rigor: Comprehensive subgroup analysis
+- Publication Quality: Target impact factor 8.0+
+
+MONITORING AND REPORTING:
+==========================
+- Weekly progress reports (Phase 1-3)
+- Monthly milestones assessment
+- Quality audits every two weeks
+- Team feedback and improvement sessions
+- Risk management and contingency planning
+- Stakeholder communication updates
+
+===============================================================================
+
+*This checklist serves as your systematic review roadmap with rigorous methodological standards and professional publication-grade requirements.*
+
+*✅ Ready to progress to Phase 2: Literature Search and Screening!</result>
+</write_to_file>

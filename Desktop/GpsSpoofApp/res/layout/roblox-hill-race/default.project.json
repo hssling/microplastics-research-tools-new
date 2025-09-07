@@ -1,0 +1,45 @@
+{
+  "name": "HillRaceGame",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "HillModel": {
+        "$path": "src/Workspace/HillModel.rbxm"
+      },
+      "Obstacles": {
+        "$path": "src/Workspace/Obstacles.rbxm"
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Constants": {
+        "$path": "src/ReplicatedStorage/Constants.lua"
+      },
+      "SharedEvents": {
+        "$path": "src/ReplicatedStorage/SharedEvents.lua"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "GameManager": {
+        "$path": "src/ServerScriptService/GameManager.lua"
+      },
+      "ObstacleSpawner": {
+        "$path": "src/ServerScriptService/ObstacleSpawner.lua"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "PlayerController": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/PlayerController.lua"
+        },
+        "HillRaceUILocalScript": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/HillRaceUILocalScript.lua"
+        }
+      }
+    }
+  }
+}

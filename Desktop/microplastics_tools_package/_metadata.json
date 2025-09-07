@@ -1,0 +1,52 @@
+{
+  "hash": "8805bc1c",
+  "configHash": "9a2e911b",
+  "lockfileHash": "673c0ea6",
+  "browserHash": "026877d5",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "7282e970",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "ff0678ba",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "844320e0",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "52c9da3d",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d360e61d",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "fb0d1c69",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I5HANLAN": {
+      "file": "chunk-I5HANLAN.js"
+    },
+    "chunk-X4QARNC5": {
+      "file": "chunk-X4QARNC5.js"
+    }
+  }
+}
